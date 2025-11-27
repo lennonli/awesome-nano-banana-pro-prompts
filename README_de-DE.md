@@ -80,7 +80,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **496** |
 | ⭐ Ausgewählt | **5** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 27. November 2025 um 09:12:34 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 27. November 2025 um 09:14:41 UTC** |
 
 </div>
 
@@ -396,7 +396,7 @@ Erstellen Sie ein Bild bei {argument name="coordinates_en" default="34°36’07�
 
 - **Autor:** [N≡H](https://x.com/nehuenmk)
 - **Quelle:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Veröffentlicht:** 25. November 2025
+- **Veröffentlicht:** 24. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Erstellen%20Sie%20ein%20Bild%20bei%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99W%22%7D%20am%20%7Bargument%20name%3D%22date_en%22%20default%3D%2218.%20Juli%201994%22%7D%20um%20%7Bargument%20name%3D%22time_en%22%20default%3D%229%3A53%20Uhr%20(UTC-3)%22%7D)**
@@ -467,7 +467,7 @@ Wichtig:
 
 - **Autor:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
 - **Quelle:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Veröffentlicht:** 25. November 2025
+- **Veröffentlicht:** 24. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Erstelle%20ein%20hyperrealistisches%208K-Bild%2C%20das%20mein%20echtes%20Gesicht%2C%20meine%20Gesichtsz%C3%BCge%2C%20meine%20Hautfarbe%2C%20meine%20Augen%20und%20meine%20Haare%20exakt%20wie%20auf%20dem%20Referenzbild%20beibeh%C3%A4lt.%0AIch%20bin%20die%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22Frau%22%7D%20auf%20dem%20Foto%3B%20bewahre%20meinen%20selbstbewussten%2C%20charmanten%20und%20eleganten%20Ausdruck%2C%20mit%20einem%20leichten%20L%C3%A4cheln%20und%20entspannter%20Haltung.%0APlatziere%20mich%20bei%20einem%20Outdoor-Automobilevent%2C%20auf%20einer%20Trib%C3%BCne%20oder%20in%20einer%20VIP-Loge%2C%20mit%20weitem%20Blick%20auf%20die%20Rennstrecke%20und%20die%20Menschenmenge%20im%20Hintergrund.%20Das%20Wetter%20ist%20sonnig%2C%20mit%20einem%20intensiven%20blauen%20Himmel%20und%20nat%C3%BCrlichem%20Sonnenlicht%2C%20das%20die%20Farben%20verst%C3%A4rkt%20und%20eine%20lebendige%20Rennatmosph%C3%A4re%20schafft.%0AVerwende%20eine%20Halbnaheinstellung%2C%20die%20den%20Oberk%C3%B6rper%20und%20den%20belebten%20Hintergrund%20mit%20einer%20leichten%20Tiefenunsch%C3%A4rfe%20einf%C3%A4ngt.%0ADas%20Outfit%20ist%20sportlich%20und%20doch%20raffiniert%20und%20besteht%20aus%3A%0A%20*%20Einer%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22roten%20Ferrari%22%7D-Kappe%2C%20mit%20dem%20gelben%20springenden%20Pferd%20(Cavallino%20Rampante)%20Logo%20auf%20der%20Vorderseite%20und%20der%20Nummer%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20in%20Wei%C3%9F%20auf%20dem%20Schirm%3B%0A%20*%20Einem%20tr%C3%A4gerlosen%2C%20strukturierten%20Jeans-Top%2C%20eng%20anliegend%20mit%20sichtbaren%20N%C3%A4hten%2C%20das%20das%20Dekollet%C3%A9%20und%20die%20Silhouette%20betont%3B%0A%20*%20Einer%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D-Sonnenbrille%20mit%20braunen%20Verlaufsgl%C3%A4sern%20und%20einem%20rechteckigen%20Metallrahmen%2C%20der%20die%20Augen%20teilweise%20bedeckt%3B%0A%20*%20Einer%20doppelten%20Halskette%20%E2%80%93%20eine%20mit%20gro%C3%9Fen%20goldenen%20Gliedern%20und%20eine%20andere%20mit%20zarten%20Diamanten%20nah%20am%20Hals%3B%0A%20*%20Geometrischen%20goldenen%20Ohrringen%3B%0A%20*%20Einem%20silbernen%20Armband%20am%20rechten%20Handgelenk%3B%0A%20*%20Einer%20dezenten%20roten%20Tasche%2C%20die%20%C3%BCber%20der%20Schulter%20h%C3%A4ngt%20und%20teilweise%20neben%20dem%20Arm%20sichtbar%20ist.%0ADie%20Haare%20sind%20nat%C3%BCrlich%20und%20offen.%0ADas%20Make-up%20ist%20makellos%20und%20glamour%C3%B6s%2C%20mit%20strahlender%20Haut%2C%20definierten%20Augen%2C%20pinkem%20Lippenstift%20und%20warmem%20Rouge.%0ADie%20N%C3%A4gel%20sind%20lang%20und%20mit%20Nailart%20in%20Pink-%20und%20Rott%C3%B6nen%20mit%20wei%C3%9Fen%20Details%20verziert%2C%20sichtbar%20beim%20Halten%20des%20Glases.%0ADie%20Pose%20soll%20Haltung%20und%20Raffinesse%20vermitteln%3A%0A%20*%20Die%20rechte%20Hand%20h%C3%A4lt%20den%20Schirm%20der%20Kappe%20und%20passt%20ihn%20leicht%20an%3B%0A%20*%20Die%20linke%20Hand%20h%C3%A4lt%20ein%20Glas%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22Wei%C3%9Fwein%22%7D%2C%20der%20Arm%20ist%20entspannt%3B%0A%20*%20Der%20K%C3%B6rper%20ist%20leicht%20geneigt%2C%20das%20Gesicht%20zur%20Kamera%20gedreht.%0ADie%20Beleuchtung%20ist%20nat%C3%BCrlich%20und%20intensiv%2C%20mit%20subtilen%20Sonnenreflexionen%20auf%20Gesicht%20und%20Haaren.%0AVerwende%20eine%20lebendige%20Farbpalette%20%E2%80%93%20Rot-%2C%20Denimblau-%2C%20Gold-%20und%20Karamellt%C3%B6ne%2C%20kontrastiert%20mit%20dem%20sonnigen%20Hintergrund.%0ADie%20Gesamtatmosph%C3%A4re%20ist%20modern%2C%20luxuri%C3%B6s%20und%20entspannt%20und%20dr%C3%BCckt%20den%20Lebensstil%20einer%20Person%20aus%2C%20die%20exklusive%20Erlebnisse%20genie%C3%9Ft%2C%20mit%20Eleganz%20und%20einer%20starken%20Pr%C3%A4senz%20bei%20einem%20Premium-Automobilevent.%0AQualit%C3%A4t%3A%208K%20hyperrealistisches%20Foto%2C%20scharfer%20Fokus%20auf%20Gesicht%20und%20Outfit%2C%20Hintergrund%20leicht%20unscharf%20mit%20einer%20farbenfrohen%20Menschenmenge%20und%20der%20Rennstrecke%20in%20der%20Sonne.%0AWichtig%3A%0A%20*%20Behalte%20mein%20Gesicht%2C%20meine%20Haare%20und%20meine%20Hautfarbe%20originalgetreu%20bei.%0A%20*%20Bewahre%20den%20authentischen%20p)**
@@ -518,7 +518,7 @@ Das endgültige Bild sollte eine 4K-Auflösung mit einem Seitenverhältnis von {
 
 - **Autor:** [宝玉](https://x.com/dotey)
 - **Quelle:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Veröffentlicht:** 25. November 2025
+- **Veröffentlicht:** 24. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Erstelle%20eine%20Reihe%20von%20farbenfrohen%2C%20handgezeichneten%20LINE-Stil%20Halb-Chibi-Emoji-Portr%C3%A4ts%2C%20basierend%20auf%20den%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22Charakteren%2C%20die%20im%20Referenzbild%20gezeigt%20werden%22%7D%2C%20und%20stelle%20sicher%2C%20dass%20ihre%20Kopfaccessoires%20pr%C3%A4zise%20dargestellt%20werden.%0A%0AOrdne%20die%20Portr%C3%A4ts%20in%20einem%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%20Raster%20an%2C%20mit%20g%C3%A4ngigen%20Chat-Phrasen%20oder%20relevanten%20humorvollen%20Memes.%0AVerwende%20handgeschriebene%20Schriftarten%20f%C3%BCr%20den%20Text.%0ADas%20Ergebnis%20muss%20originell%20sein%20%E2%80%93%20kopiere%20das%20Referenzbild%20nicht%20direkt.%0ADas%20endg%C3%BCltige%20Bild%20sollte%20eine%204K-Aufl%C3%B6sung%20mit%20einem%20Seitenverh%C3%A4ltnis%20von%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D%20haben.)**
@@ -552,7 +552,7 @@ Erstellen Sie ein handgezeichnetes isometrisches Schaltplan-Diagramm von {argume
 
 - **Autor:** [TechieSA](https://x.com/TechieBySA)
 - **Quelle:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Veröffentlicht:** 25. November 2025
+- **Veröffentlicht:** 24. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Erstellen%20Sie%20ein%20handgezeichnetes%20isometrisches%20Schaltplan-Diagramm%20von%20%7Bargument%20name%3D%22landmark_en%22%20default%3D%22%5BLANDMARK%5D%22%7D%20in%20den%20Abmessungen%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D.)**
@@ -591,7 +591,7 @@ Ein realistisches Schwarz-Weiß-Foto einer jungen Frau mit langen, dunklen Haare
 
 - **Autor:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Quelle:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Veröffentlicht:** 25. November 2025
+- **Veröffentlicht:** 24. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Ein%20realistisches%20Schwarz-Wei%C3%9F-Foto%20einer%20jungen%20Frau%20mit%20langen%2C%20dunklen%20Haaren%2C%20die%20den%20Gesichtsz%C3%BCgen%2C%20der%20Struktur%20und%20dem%20Ausdruck%20der%20Person%20auf%20dem%20Referenzbild%20sehr%20%C3%A4hnlich%20ist.%20Sie%20hat%20einen%20imposanten%20oder%20ernsten%20Ausdruck%20und%20blickt%20direkt%20in%20die%20Kamera.%20Sie%20tr%C3%A4gt%20eine%20schwarze%20Anzugjacke%2C%20ein%20wei%C3%9Fes%20Hemd%20mit%20Kragen%20und%20eine%20schmale%20schwarze%20Krawatte.%20Die%20Beleuchtung%20ist%20dramatisch%2C%20der%20Hintergrund%20ist%20dunkel%20und%20einheitlich.%20Stil%3A%20fotorealistisch%2C%20filmisch%2C%20kontrastreich%2C%20schwarz-wei%C3%9F.%20Motiv%3A%20weiblich%2C%20in%20schwarzem%20Anzug%2C%20wei%C3%9Fem%20Hemd%2C%20schmaler%20schwarzer%20Krawatte%2C%20mit%20imposantem%2C%20ernstem%2C%20selbstbewusstem%20Ausdruck%2C%20als%20mittleres%20Close-up%2C%20frontal%20aufgenommen.)**
@@ -631,7 +631,7 @@ Scannen Sie den Inhalt des {argument name="container_en" default="Kühlschranks"
 
 - **Autor:** [AmirMušić](https://x.com/AmirMushich)
 - **Quelle:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Veröffentlicht:** 25. November 2025
+- **Veröffentlicht:** 24. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Scannen%20Sie%20den%20Inhalt%20des%20%7Bargument%20name%3D%22container_en%22%20default%3D%22K%C3%BChlschranks%22%7D%20und%20schlagen%20Sie%20vor%2C%20was%20mit%20den%20verf%C3%BCgbaren%20Zutaten%20gekocht%20werden%20kann%2C%20indem%20Sie%20ein%20detailliertes%20Schritt-f%C3%BCr-Schritt-Rezept%20als%20einfache%20Infografik%20pr%C3%A4sentieren.)**
@@ -8280,6 +8280,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T09:12:34.415Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T09:14:41.422Z</sub>
 
 </div>

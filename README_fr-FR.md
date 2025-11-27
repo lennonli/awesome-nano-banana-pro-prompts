@@ -80,7 +80,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total des prompts | **496** |
 | ⭐ En vedette | **5** |
-| 🔄 Dernière mise à jour | **jeudi 27 novembre 2025 à 09:12:40 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 27 novembre 2025 à 09:14:46 UTC** |
 
 </div>
 
@@ -396,7 +396,7 @@ Créer une image à {argument name="coordinates_en" default="34°36’07’’S 
 
 - **Auteur:** [N≡H](https://x.com/nehuenmk)
 - **Source:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Publié:** 25 novembre 2025
+- **Publié:** 24 novembre 2025
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9er%20une%20image%20%C3%A0%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99W%22%7D%20le%20%7Bargument%20name%3D%22date_en%22%20default%3D%2218%20juillet%201994%22%7D%20%C3%A0%20%7Bargument%20name%3D%22time_en%22%20default%3D%229h53%20(UTC-3)%22%7D)**
@@ -467,7 +467,7 @@ Important :
 
 - **Auteur:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
 - **Source:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Publié:** 25 novembre 2025
+- **Publié:** 24 novembre 2025
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9ez%20une%20image%208K%20hyperr%C3%A9aliste%20qui%20conserve%20mon%20vrai%20visage%2C%20mes%20traits%2C%20ma%20couleur%20de%20peau%2C%20mes%20yeux%20et%20mes%20cheveux%20exactement%20comme%20sur%20l'image%20de%20r%C3%A9f%C3%A9rence.%0AJe%20suis%20la%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22femme%22%7D%20sur%20la%20photo%20%3B%20pr%C3%A9servez%20mon%20expression%20confiante%2C%20charmante%20et%20%C3%A9l%C3%A9gante%2C%20avec%20un%20l%C3%A9ger%20sourire%20et%20une%20posture%20d%C3%A9tendue.%0APlacez-moi%20lors%20d'un%20%C3%A9v%C3%A9nement%20automobile%20en%20ext%C3%A9rieur%2C%20dans%20une%20tribune%20ou%20un%20salon%20VIP%2C%20avec%20une%20vue%20d%C3%A9gag%C3%A9e%20sur%20la%20piste%20et%20la%20foule%20en%20arri%C3%A8re-plan.%20Le%20temps%20est%20ensoleill%C3%A9%2C%20avec%20un%20ciel%20bleu%20intense%20et%20une%20lumi%C3%A8re%20naturelle%20qui%20rehausse%20les%20couleurs%20et%20cr%C3%A9e%20une%20ambiance%20de%20course%20vibrante.%0AUtilisez%20un%20cadrage%20en%20plan%20moyen%2C%20capturant%20le%20haut%20du%20corps%20et%20l'arri%C3%A8re-plan%20anim%C3%A9%20avec%20un%20l%C3%A9ger%20flou%20de%20profondeur%20de%20champ.%0ALa%20tenue%20est%20sportive%20mais%20sophistiqu%C3%A9e%2C%20compos%C3%A9e%20de%20%3A%0A%20*%20Une%20casquette%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%2C%20avec%20le%20logo%20du%20cheval%20cabr%C3%A9%20jaune%20(cavallino%20rampante)%20sur%20le%20devant%20et%20le%20num%C3%A9ro%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20en%20blanc%20sur%20la%20visi%C3%A8re%20%3B%0A%20*%20Un%20top%20bustier%20en%20jean%20structur%C3%A9%2C%20ajust%C3%A9%20avec%20des%20coutures%20apparentes%2C%20soulignant%20le%20d%C3%A9collet%C3%A9%20et%20la%20silhouette%20%3B%0A%20*%20Des%20lunettes%20de%20soleil%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20avec%20des%20verres%20d%C3%A9grad%C3%A9s%20marron%20et%20une%20monture%20m%C3%A9tallique%20rectangulaire%2C%20couvrant%20partiellement%20les%20yeux%20%3B%0A%20*%20Un%20double%20collier%20%E2%80%93%20l'un%20avec%20de%20larges%20maillons%20dor%C3%A9s%20et%20l'autre%20avec%20de%20d%C3%A9licats%20diamants%20pr%C3%A8s%20du%20cou%20%3B%0A%20*%20Des%20boucles%20d'oreilles%20g%C3%A9om%C3%A9triques%20en%20or%20%3B%0A%20*%20Un%20bracelet%20argent%C3%A9%20au%20poignet%20droit%20%3B%0A%20*%20Un%20sac%20rouge%20discret%20suspendu%20%C3%A0%20l'%C3%A9paule%2C%20partiellement%20visible%20%C3%A0%20c%C3%B4t%C3%A9%20du%20bras.%0ALes%20cheveux%20sont%20naturels%20et%20l%C3%A2ches.%0ALe%20maquillage%20est%20impeccable%20et%20glamour%2C%20avec%20une%20peau%20%C3%A9clatante%2C%20des%20yeux%20d%C3%A9finis%2C%20un%20rouge%20%C3%A0%20l%C3%A8vres%20rose%20et%20un%20blush%20chaud.%0ALes%20ongles%20sont%20longs%20et%20d%C3%A9cor%C3%A9s%20de%20nail%20art%20dans%20des%20tons%20de%20rose%20et%20de%20rouge%20avec%20des%20d%C3%A9tails%20blancs%2C%20visibles%20en%20tenant%20le%20verre.%0ALa%20pose%20doit%20transmettre%20de%20l'attitude%20et%20de%20la%20sophistication%20%3A%0A%20*%20La%20main%20droite%20tenant%20la%20visi%C3%A8re%20de%20la%20casquette%2C%20l'ajustant%20l%C3%A9g%C3%A8rement%20%3B%0A%20*%20La%20main%20gauche%20tenant%20un%20verre%20de%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22vin%20blanc%22%7D%2C%20le%20bras%20d%C3%A9tendu%20%3B%0A%20*%20Le%20corps%20l%C3%A9g%C3%A8rement%20pench%C3%A9%2C%20le%20visage%20tourn%C3%A9%20vers%20la%20cam%C3%A9ra.%0AL'%C3%A9clairage%20est%20naturel%20et%20intense%2C%20avec%20de%20subtils%20reflets%20du%20soleil%20sur%20le%20visage%20et%20les%20cheveux.%0AUtilisez%20une%20palette%20de%20couleurs%20vibrantes%20%E2%80%93%20des%20nuances%20de%20rouge%2C%20de%20bleu%20denim%2C%20d'or%20et%20de%20caramel%2C%20contrastant%20avec%20l'arri%C3%A8re-plan%20ensoleill%C3%A9.%0AL'atmosph%C3%A8re%20g%C3%A9n%C3%A9rale%20est%20moderne%2C%20luxueuse%20et%20d%C3%A9tendue%2C%20exprimant%20le%20style%20de%20vie%20de%20quelqu'un%20qui%20appr%C3%A9cie%20les%20exp%C3%A9riences%20exclusives%2C%20avec%20%C3%A9l%C3%A9gance%20et%20une%20forte%20pr%C3%A9sence%20lors%20d'un%20%C3%A9v%C3%A9nement%20automobile%20haut%20de%20gamme.%0AQualit%C3%A9%20%3A%20photo%208K%20hyperr%C3%A9aliste%2C%20mise%20au%20point%20nette%20sur%20le%20visage%20et%20la%20tenue%2C%20arri%C3%A8re-plan%20l%C3%A9g%C3%A8rement%20flou%20avec%20une%20foule%20color%C3%A9e%20et%20la%20piste%20sous%20le%20soleil.%0AImportant%20%3A%0A%20*%20Conservez%20mon%20visage%2C%20mes%20cheveux%20et%20ma%20couleur%20de%20peau%20d'origine.%0A%20*%20Pr%C3%A9servez%20l'authentique%20p)**
@@ -518,7 +518,7 @@ L'image finale doit avoir une résolution 4K avec un rapport d'aspect de {argume
 
 - **Auteur:** [宝玉](https://x.com/dotey)
 - **Source:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Publié:** 25 novembre 2025
+- **Publié:** 24 novembre 2025
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9ez%20un%20ensemble%20de%20portraits%20emoji%20chibi%20color%C3%A9s%2C%20dessin%C3%A9s%20%C3%A0%20la%20main%2C%20de%20style%20LINE%2C%20en%20demi-corps%2C%20bas%C3%A9s%20sur%20les%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22personnages%20pr%C3%A9sent%C3%A9s%20dans%20l'image%20de%20r%C3%A9f%C3%A9rence%22%7D%2C%20en%20veillant%20%C3%A0%20ce%20que%20leurs%20accessoires%20de%20t%C3%AAte%20soient%20repr%C3%A9sent%C3%A9s%20avec%20pr%C3%A9cision.%0A%0ADisposez%20les%20portraits%20dans%20une%20grille%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%2C%20avec%20des%20phrases%20de%20chat%20courantes%20ou%20des%20m%C3%A8mes%20humoristiques%20pertinents.%0AUtilisez%20des%20polices%20de%20caract%C3%A8res%20manuscrites%20pour%20le%20texte.%0ALe%20r%C3%A9sultat%20doit%20%C3%AAtre%20original%20%E2%80%94%20ne%20copiez%20pas%20directement%20l'image%20de%20r%C3%A9f%C3%A9rence.%0AL'image%20finale%20doit%20avoir%20une%20r%C3%A9solution%204K%20avec%20un%20rapport%20d'aspect%20de%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D.)**
@@ -552,7 +552,7 @@ Créez un schéma isométrique dessiné à la main de {argument name="landmark_e
 
 - **Auteur:** [TechieSA](https://x.com/TechieBySA)
 - **Source:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Publié:** 25 novembre 2025
+- **Publié:** 24 novembre 2025
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9ez%20un%20sch%C3%A9ma%20isom%C3%A9trique%20dessin%C3%A9%20%C3%A0%20la%20main%20de%20%7Bargument%20name%3D%22landmark_en%22%20default%3D%22%5BLANDMARK%5D%22%7D%20aux%20dimensions%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D.)**
@@ -591,7 +591,7 @@ Une photographie réaliste en noir et blanc d'une jeune femme aux cheveux longs 
 
 - **Auteur:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Source:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Publié:** 25 novembre 2025
+- **Publié:** 24 novembre 2025
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Une%20photographie%20r%C3%A9aliste%20en%20noir%20et%20blanc%20d'une%20jeune%20femme%20aux%20cheveux%20longs%20et%20fonc%C3%A9s%2C%20dont%20les%20traits%20du%20visage%2C%20la%20structure%20et%20l'expression%20correspondent%20%C3%A9troitement%20%C3%A0%20ceux%20du%20sujet%20de%20l'image%20de%20r%C3%A9f%C3%A9rence.%20Elle%20a%20une%20expression%20imposante%20ou%20s%C3%A9rieuse%2C%20regardant%20directement%20l'appareil%20photo.%20Elle%20porte%20une%20veste%20de%20costume%20noire%2C%20une%20chemise%20blanche%20%C3%A0%20col%20et%20une%20cravate%20noire%20fine.%20L'%C3%A9clairage%20est%20dramatique%20et%20l'arri%C3%A8re-plan%20est%20sombre%20et%20uniforme.%20Style%20%3A%20photor%C3%A9aliste%2C%20cin%C3%A9matographique%2C%20contrast%C3%A9%2C%20noir%20et%20blanc.%20Sujet%20%3A%20femme%2C%20en%20costume%20noir%2C%20chemise%20blanche%2C%20cravate%20noire%20fine%2C%20avec%20une%20expression%20imposante%2C%20s%C3%A9rieuse%2C%20confiante%2C%20cadr%C3%A9e%20en%20plan%20rapproch%C3%A9%2C%20de%20face.)**
@@ -631,7 +631,7 @@ Scannez le contenu du {argument name="container_en" default="réfrigérateur"} e
 
 - **Auteur:** [AmirMušić](https://x.com/AmirMushich)
 - **Source:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Publié:** 25 novembre 2025
+- **Publié:** 24 novembre 2025
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Scannez%20le%20contenu%20du%20%7Bargument%20name%3D%22container_en%22%20default%3D%22r%C3%A9frig%C3%A9rateur%22%7D%20et%20sugg%C3%A9rez%20ce%20qui%20peut%20%C3%AAtre%20cuisin%C3%A9%20avec%20les%20ingr%C3%A9dients%20disponibles%2C%20en%20fournissant%20une%20recette%20d%C3%A9taill%C3%A9e%20%C3%A9tape%20par%20%C3%A9tape%20pr%C3%A9sent%C3%A9e%20sous%20forme%20d'infographie%20simple.)**
@@ -8308,6 +8308,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T09:12:40.688Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T09:14:46.819Z</sub>
 
 </div>
