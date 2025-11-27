@@ -1,7 +1,5 @@
 # 🚀 Tolle Nano Banana Pro Prompts
 
-> 💡 **Note**: Wenn Sie an Gemini 3 Prompts interessiert sind, schauen Sie sich gerne unser anderes Repository mit 50+ kuratierten Prompts an: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Eine kuratierte Sammlung kreativer Prompts für Google's Nano Banana Pro
+
+> 💡 **Note**: Wenn Sie an Gemini 3 Prompts interessiert sind, schauen Sie sich gerne unser anderes Repository mit 50+ kuratierten Prompts an: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 > ⚠️ **Urheberrechtshinweis**: Alle Prompts werden zu Bildungszwecken aus der Community gesammelt. Wenn Sie glauben, dass Inhalte Ihre Rechte verletzen, öffnen Sie bitte ein [Issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) und wir werden es umgehend entfernen.
 
@@ -82,7 +82,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **496** |
 | ⭐ Ausgewählt | **5** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 27. November 2025 um 12:04:43 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 27. November 2025 um 12:21:34 UTC** |
 
 </div>
 
@@ -8282,6 +8282,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-11-27T12:04:43.145Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-11-27T12:21:34.534Z</sub>
 
 </div>

@@ -1,7 +1,5 @@
 # 🚀 Prompts Increíbles de Nano Banana Pro
 
-> 💡 **Note**: Si estás interesado en los prompts de Gemini 3, no dudes en consultar nuestro otro repositorio con más de 50 prompts seleccionados: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Una colección curada de prompts creativos para Nano Banana Pro de Google
+
+> 💡 **Note**: Si estás interesado en los prompts de Gemini 3, no dudes en consultar nuestro otro repositorio con más de 50 prompts seleccionados: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 > ⚠️ **Aviso de derechos de autor**: Todos los prompts se recopilan de la comunidad con fines educativos. Si cree que algún contenido infringe sus derechos, por favor [abra un problema](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) y lo eliminaremos de inmediato.
 
@@ -82,7 +82,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **496** |
 | ⭐ Destacado | **5** |
-| 🔄 Última actualización | **jueves, 27 de noviembre de 2025, 12:04:32 UTC** |
+| 🔄 Última actualización | **jueves, 27 de noviembre de 2025, 12:21:23 UTC** |
 
 </div>
 
@@ -8232,6 +8232,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-11-27T12:04:32.963Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-11-27T12:21:23.890Z</sub>
 
 </div>

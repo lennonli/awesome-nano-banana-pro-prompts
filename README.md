@@ -1,7 +1,5 @@
 # 🚀 Awesome Nano Banana Pro Prompts
 
-> 💡 **Note**: If you're interested in Gemini 3 prompts, feel free to check out our other repository with 50+ curated prompts: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 A curated collection of creative prompts for Google's Nano Banana Pro
+
+> 💡 **Note**: If you're interested in Gemini 3 prompts, feel free to check out our other repository with 50+ curated prompts: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 > ⚠️ **Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) and we will remove it promptly.
 
@@ -82,7 +82,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **496** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Thursday, November 27, 2025 at 12:03:52 PM UTC** |
+| 🔄 Last Updated | **Thursday, November 27, 2025 at 12:20:40 PM UTC** |
 
 </div>
 
@@ -8234,6 +8234,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T12:03:52.139Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T12:20:40.598Z</sub>
 
 </div>

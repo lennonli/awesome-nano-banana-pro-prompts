@@ -1,7 +1,5 @@
 # 🚀 Harika Nano Banana Pro İstemleri
 
-> 💡 **Note**: Gemini 3 istemleriyle ilgileniyorsanız, 50+ seçilmiş istem içeren diğer depomuzu kontrol etmekten çekinmeyin: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Google'ın Nano Banana Pro'su için yaratıcı istemler koleksiyonu
+
+> 💡 **Note**: Gemini 3 istemleriyle ilgileniyorsanız, 50+ seçilmiş istem içeren diğer depomuzu kontrol etmekten çekinmeyin: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 > ⚠️ **Telif Hakkı Bildirimi**: Tüm istemler eğitim amaçlı olarak topluluktan toplanmıştır. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız, lütfen [bir sorun açın](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) ve derhal kaldıralım.
 
@@ -82,7 +82,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **496** |
 | ⭐ Öne Çıkan | **5** |
-| 🔄 Son Güncelleme | **27 Kasım 2025 Perşembe 12:05:08 UTC** |
+| 🔄 Son Güncelleme | **27 Kasım 2025 Perşembe 12:22:01 UTC** |
 
 </div>
 
@@ -8311,6 +8311,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-11-27T12:05:08.757Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-11-27T12:22:01.227Z</sub>
 
 </div>

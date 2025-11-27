@@ -1,7 +1,5 @@
 # 🚀 Tuyển tập Nano Banana Pro Prompts
 
-> 💡 **Note**: Nếu bạn quan tâm đến các câu lệnh Gemini 3, vui lòng xem kho lưu trữ khác của chúng tôi với hơn 50 câu lệnh được tuyển chọn: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Bộ sưu tập các câu lệnh sáng tạo cho Google Nano Banana Pro
+
+> 💡 **Note**: Nếu bạn quan tâm đến các câu lệnh Gemini 3, vui lòng xem kho lưu trữ khác của chúng tôi với hơn 50 câu lệnh được tuyển chọn: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 > ⚠️ **Thông báo bản quyền**: Tất cả các câu lệnh được thu thập từ cộng đồng cho mục đích giáo dục. Nếu bạn tin rằng bất kỳ nội dung nào vi phạm quyền của bạn, vui lòng [mở một issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) và chúng tôi sẽ xóa nó ngay lập tức.
 
@@ -82,7 +82,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **496** |
 | ⭐ Nổi bật | **5** |
-| 🔄 Cập nhật lần cuối | **lúc 12:04:23 UTC Thứ Năm, 27 tháng 11, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 12:21:12 UTC Thứ Năm, 27 tháng 11, 2025** |
 
 </div>
 
@@ -8233,6 +8233,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-11-27T12:04:23.597Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-11-27T12:21:12.984Z</sub>
 
 </div>

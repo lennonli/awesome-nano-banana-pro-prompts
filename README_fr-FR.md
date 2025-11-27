@@ -1,7 +1,5 @@
 # 🚀 Prompts Nano Banana Pro Géniaux
 
-> 💡 **Note**: Si vous êtes intéressé par les prompts Gemini 3, n'hésitez pas à consulter notre autre dépôt avec plus de 50 prompts sélectionnés : https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Une collection de prompts créatifs pour Nano Banana Pro de Google
+
+> 💡 **Note**: Si vous êtes intéressé par les prompts Gemini 3, n'hésitez pas à consulter notre autre dépôt avec plus de 50 prompts sélectionnés : https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 > ⚠️ **Avis de droit d'auteur**: Tous les prompts sont collectés auprès de la communauté à des fins éducatives. Si vous pensez qu'un contenu enfreint vos droits, veuillez [ouvrir un problème](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) et nous le supprimerons rapidement.
 
@@ -82,7 +82,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **496** |
 | ⭐ En vedette | **5** |
-| 🔄 Dernière mise à jour | **jeudi 27 novembre 2025 à 12:04:48 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 27 novembre 2025 à 12:21:39 UTC** |
 
 </div>
 
@@ -8310,6 +8310,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-11-27T12:04:48.286Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-11-27T12:21:39.919Z</sub>
 
 </div>
