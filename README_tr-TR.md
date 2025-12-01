@@ -88,9 +88,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **519** |
+| 📝 Toplam İstem | **550** |
 | ⭐ Öne Çıkan | **5** |
-| 🔄 Son Güncelleme | **1 Aralık 2025 Pazartesi 08:19:04 UTC** |
+| 🔄 Son Güncelleme | **1 Aralık 2025 Pazartesi 16:16:56 UTC** |
 
 </div>
 
@@ -379,7 +379,1500 @@ Otaku tarzı bir bilgisayar köşesinde ayna selfie'si, mavi renk tonu.
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### No. 1: Belirli koordinatlarda tarihi an (1994)
+### No. 1: Nano Banana Pro için aziz ve iblis ikili karakter istemi
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Nano Banana Pro'nun karakter-Gem deneyleri için, bir azize ve bir iblis olmak üzere iki zıt karakteri tanımlayan, stil ve ruh hali talimatları içeren bir Japonca istem.
+
+#### 📝 İstem
+
+```
+{argument name="situation title" default="Azize ve İblis"}
+
+Azize: {argument name="saint style" default="fantastik azize, cel-shaded ama sinematik, kurtuluş, büst çekim, sevgi dolu şefkat"}
+
+İblis: {argument name="demon style" default="sosyal oyun tarzı render, sinematik, şeytani dönüşüm, günaha teşvik, büst çekim, kırmızı ışık"}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577210927_nq0544_G7DJManaQAAU-tq.jpg" width="600" alt="Nano Banana Pro için aziz ve iblis ikili karakter istemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577215304_saknab_G7DJMa0asAETCzJ.jpg" width="600" alt="Nano Banana Pro için aziz ve iblis ikili karakter istemi - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577218139_vce911_G7Czf_yawAAUEOt.jpg" width="600" alt="Nano Banana Pro için aziz ve iblis ikili karakter istemi - Image 3">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [癒色えも(イシキ•エモ)](https://x.com/ishiki_emo)
+- **Kaynak:** [Twitter Post](https://x.com/ishiki_emo/status/1995315855631233443)
+- **Yayınlandı:** 1 Aralık 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22situation%20title%22%20default%3D%22Azize%20ve%20%C4%B0blis%22%7D%0A%0AAzize%3A%20%7Bargument%20name%3D%22saint%20style%22%20default%3D%22fantastik%20azize%2C%20cel-shaded%20ama%20sinematik%2C%20kurtulu%C5%9F%2C%20b%C3%BCst%20%C3%A7ekim%2C%20sevgi%20dolu%20%C5%9Fefkat%22%7D%0A%0A%C4%B0blis%3A%20%7Bargument%20name%3D%22demon%20style%22%20default%3D%22sosyal%20oyun%20tarz%C4%B1%20render%2C%20sinematik%2C%20%C5%9Feytani%20d%C3%B6n%C3%BC%C5%9F%C3%BCm%2C%20g%C3%BCnaha%20te%C5%9Fvik%2C%20b%C3%BCst%20%C3%A7ekim%2C%20k%C4%B1rm%C4%B1z%C4%B1%20%C4%B1%C5%9F%C4%B1k%22%7D)**
+
+---
+
+### No. 2: Nano Banana Pro için Mevsimlik Orman Kolajı Karakter İstemleri
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Bir karakteri, ana hatları olmadan, ilkbahardan kışa doğru akacak şekilde, mevsimlik bir orman fotoğraf kolajında tamamen bitkilerden yeniden yaratmak için bir Japonca istem.
+
+#### 📝 İstem
+
+```
+Bir karakteri, {argument name="types of plants" default="bitki ve yaprak fotoğrafları"} kullanarak bir kolaj olarak yeniden oluşturun. Arka plan, her mevsimden orman fotoğrafları olmalı ve sağ üstten sol alta doğru ilkbahar, yaz, sonbahar ve kış olarak düzenlenmelidir. Çiçek taç, dört mevsimden çiçekler kullanılarak yeniden yorumlanmalı ve değiştirilmelidir. Karakterin hiçbir dış çizgisini korumayın; karakterin her parçası tamamen bitki ve yapraklarla ifade edilmelidir.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577230231_j4g6fj_G7DE_85bIAAk3BJ.jpg" width="600" alt="Nano Banana Pro için Mevsimlik Orman Kolajı Karakter İstemleri - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [とらの](https://x.com/TlanoAI)
+- **Kaynak:** [Twitter Post](https://x.com/TlanoAI/status/1995311848049303825)
+- **Yayınlandı:** 1 Aralık 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bir%20karakteri%2C%20%7Bargument%20name%3D%22types%20of%20plants%22%20default%3D%22bitki%20ve%20yaprak%20foto%C4%9Fraflar%C4%B1%22%7D%20kullanarak%20bir%20kolaj%20olarak%20yeniden%20olu%C5%9Fturun.%20Arka%20plan%2C%20her%20mevsimden%20orman%20foto%C4%9Fraflar%C4%B1%20olmal%C4%B1%20ve%20sa%C4%9F%20%C3%BCstten%20sol%20alta%20do%C4%9Fru%20ilkbahar%2C%20yaz%2C%20sonbahar%20ve%20k%C4%B1%C5%9F%20olarak%20d%C3%BCzenlenmelidir.%20%C3%87i%C3%A7ek%20ta%C3%A7%2C%20d%C3%B6rt%20mevsimden%20%C3%A7i%C3%A7ekler%20kullan%C4%B1larak%20yeniden%20yorumlanmal%C4%B1%20ve%20de%C4%9Fi%C5%9Ftirilmelidir.%20Karakterin%20hi%C3%A7bir%20d%C4%B1%C5%9F%20%C3%A7izgisini%20korumay%C4%B1n%3B%20karakterin%20her%20par%C3%A7as%C4%B1%20tamamen%20bitki%20ve%20yapraklarla%20ifade%20edilmelidir.)**
+
+---
+
+### No. 3: Nano Banana Pro için 9'lu ızgara Japon fotoğraf kitabı düzeni istemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Gündüzden geceye uzanan bir anlatıya, tutarlı bir karaktere, stilize edilmiş kıyafetlere ve alt kenar boşluğunda tipografik bir başlığa sahip 9 fotoğraflık bir Japon fotoğraf kitabı sayfası oluşturan çok detaylı bir bilgi istemi.
+
+#### 📝 İstem
+
+```
+**[Tür]:** Üst düzey bir Japon fotoğraf kitabından (shashin-shu) taranmış bir sayfa. **Dokulu mat sanat kağıdına basılmış 9'lu fotoğraf düzeni.** **[Düzen tasarımı]:** 9 fotoğraf, tipografiye yer açmak için altta **geniş beyaz kenar boşlukları** ile düzgün bir ızgarada düzenlenmiştir. **[Konu tutarlılığı - KESİNLİKLE]:** * **Kaynak:** Yüklenen referans görüntüye kesinlikle bağlıdır. **[TÜM PANELLERDE AYNI KARAKTER].** * **Stil stratejisi:** **[RASTGELE BİRİNİ SEÇİN]:** 1. **{Klasik}:** {argument name="classic outfit" default="Bol beyaz gömlek + şort"}. 2. **{Yumuşak}:** {argument name="soft outfit" default="Bej örgü hırka + atlet"}. 3. **{Saf}:** {argument name="pure outfit" default="Beyaz dantel işlemeli iç çamaşırı elbise"} (banyo geçişleri için en iyisi). * **Not:** 3. Sıra'da (Banyo), kıyafet "ıslak bir görünüm" yaratmalı veya biraz ten göstermelidir. **[Tipografi ve Japonca öğeler - sanatsal dokunuş]:** *(Yapay zeka, alt beyaz kenar boşluğuna bir başlık metni işlemelidir.)* **[RASTGELE BİR başlık teması SEÇİN]:** 1. **{Tema: Yaz}:** Büyük Japonca metin **"{argument name="summer title Japanese" default="青い夏"}"** altında küçük İngilizce metin **"{argument name="summer title English" default="BLUE SUMMER"}"**. 2. **{Tema: Özel}:** Büyük Japonca metin **"{argument name="private title Japanese" default="私小説"}"** altında küçük İngilizce metin **"{argument name="private title English" default="PRIVATE NOVEL"}"**. 3. **{Tema: Hava}:** Büyük Japonca metin **"{argument name="air title Japanese" default="空気感"}"** altında küçük İngilizce metin **"{argument name="air title English" default="AIRY MOMENTS"}"**. * **İmza:** El yazısı metin **"{argument name="signature text" default="By : Berryxia"}"** başlığın yanına veya bir köşe gibi filigran olarak sanatsal bir şekilde yerleştirilir. **[Izgara anlatısı - "gündüzden geceye" yolculuk]:** **1. Sıra: Dış mekan nefesi (rüzgar ve ışık)** 1. **Sol üst (geniş):** Rüzgarda duran, saçları uçuşan, **güneş tarafından arkadan aydınlatılan** konu. 2. **Orta üst (detay):** **Bir cam soda şişesi tutan** veya güneşi engelleyen bir elin yakın çekimi. 3. **Sağ üst (hareket):** Konunun **bir sokakta uzaklaşırken çekilmiş bulanık samimi fotoğrafı**. **2. Sıra: İç mekan oyunu (aksesuarlar ve "saklanma")** 4. **Orta sol (saklanma):** Tatami üzerinde oturan, **bir gözünü kurutulmuş bir çiçekle kapatan** konu. 5. **Orta (samimi):** **Bir kanepede baş aşağı uzanmış**, kitap okuyan, yüzü kısmen gizlenmiş konu. 6. **Orta sağ (fetiş odaklı):** **Halıda kıvrılmış çıplak ayaklara** veya saça dokunan parmaklara odaklanma. **3. Sıra: Özel/ıslak (buhar ve cilt)** 7. **Alt sol (buharlı sırt):** **Buharlı bir banyoda arkadan görünüm**. Islak saçlar boynun arkasına yapışmış. Yumuşak odak. 8. **Alt orta (daldırma):** **Bir küvette suya batmış**, çenesine kadar su içinde, rüya gibi yüksek anahtar aydınlatma. 9. **Alt sağ (son):** **Bir aynadaki buharın** detayı. **[Estetik stil]:** * **Film stoğu:** Fujifilm Pro 400H (camgöbeği gölgeler, havadar vurgular). * **Doku:** **Görünür kağıt dokusu**, hafif vinyet, düzen tasarımı hissi. **[Parametreler]:** --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg" width="600" alt="Nano Banana Pro için 9'lu ızgara Japon fotoğraf kitabı düzeni istemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg" width="600" alt="Nano Banana Pro için 9'lu ızgara Japon fotoğraf kitabı düzeni istemi - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg" width="600" alt="Nano Banana Pro için 9'lu ızgara Japon fotoğraf kitabı düzeni istemi - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg" width="600" alt="Nano Banana Pro için 9'lu ızgara Japon fotoğraf kitabı düzeni istemi - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [松果先森](https://x.com/songguoxiansen)
+- **Kaynak:** [Twitter Post](https://x.com/songguoxiansen/status/1995309373854466136)
+- **Yayınlandı:** 1 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=**%5BT%C3%BCr%5D%3A**%20%C3%9Cst%20d%C3%BCzey%20bir%20Japon%20foto%C4%9Fraf%20kitab%C4%B1ndan%20(shashin-shu)%20taranm%C4%B1%C5%9F%20bir%20sayfa.%20**Dokulu%20mat%20sanat%20ka%C4%9F%C4%B1d%C4%B1na%20bas%C4%B1lm%C4%B1%C5%9F%209'lu%20foto%C4%9Fraf%20d%C3%BCzeni.**%20**%5BD%C3%BCzen%20tasar%C4%B1m%C4%B1%5D%3A**%209%20foto%C4%9Fraf%2C%20tipografiye%20yer%20a%C3%A7mak%20i%C3%A7in%20altta%20**geni%C5%9F%20beyaz%20kenar%20bo%C5%9Fluklar%C4%B1**%20ile%20d%C3%BCzg%C3%BCn%20bir%20%C4%B1zgarada%20d%C3%BCzenlenmi%C5%9Ftir.%20**%5BKonu%20tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20-%20KES%C4%B0NL%C4%B0KLE%5D%3A**%20*%20**Kaynak%3A**%20Y%C3%BCklenen%20referans%20g%C3%B6r%C3%BCnt%C3%BCye%20kesinlikle%20ba%C4%9Fl%C4%B1d%C4%B1r.%20**%5BT%C3%9CM%20PANELLERDE%20AYNI%20KARAKTER%5D.**%20*%20**Stil%20stratejisi%3A**%20**%5BRASTGELE%20B%C4%B0R%C4%B0N%C4%B0%20SE%C3%87%C4%B0N%5D%3A**%201.%20**%7BKlasik%7D%3A**%20%7Bargument%20name%3D%22classic%20outfit%22%20default%3D%22Bol%20beyaz%20g%C3%B6mlek%20%2B%20%C5%9Fort%22%7D.%202.%20**%7BYumu%C5%9Fak%7D%3A**%20%7Bargument%20name%3D%22soft%20outfit%22%20default%3D%22Bej%20%C3%B6rg%C3%BC%20h%C4%B1rka%20%2B%20atlet%22%7D.%203.%20**%7BSaf%7D%3A**%20%7Bargument%20name%3D%22pure%20outfit%22%20default%3D%22Beyaz%20dantel%20i%C5%9Flemeli%20i%C3%A7%20%C3%A7ama%C5%9F%C4%B1r%C4%B1%20elbise%22%7D%20(banyo%20ge%C3%A7i%C5%9Fleri%20i%C3%A7in%20en%20iyisi).%20*%20**Not%3A**%203.%20S%C4%B1ra'da%20(Banyo)%2C%20k%C4%B1yafet%20%22%C4%B1slak%20bir%20g%C3%B6r%C3%BCn%C3%BCm%22%20yaratmal%C4%B1%20veya%20biraz%20ten%20g%C3%B6stermelidir.%20**%5BTipografi%20ve%20Japonca%20%C3%B6%C4%9Feler%20-%20sanatsal%20dokunu%C5%9F%5D%3A**%20*(Yapay%20zeka%2C%20alt%20beyaz%20kenar%20bo%C5%9Flu%C4%9Funa%20bir%20ba%C5%9Fl%C4%B1k%20metni%20i%C5%9Flemelidir.)*%20**%5BRASTGELE%20B%C4%B0R%20ba%C5%9Fl%C4%B1k%20temas%C4%B1%20SE%C3%87%C4%B0N%5D%3A**%201.%20**%7BTema%3A%20Yaz%7D%3A**%20B%C3%BCy%C3%BCk%20Japonca%20metin%20**%22%7Bargument%20name%3D%22summer%20title%20Japanese%22%20default%3D%22%E9%9D%92%E3%81%84%E5%A4%8F%22%7D%22**%20alt%C4%B1nda%20k%C3%BC%C3%A7%C3%BCk%20%C4%B0ngilizce%20metin%20**%22%7Bargument%20name%3D%22summer%20title%20English%22%20default%3D%22BLUE%20SUMMER%22%7D%22**.%202.%20**%7BTema%3A%20%C3%96zel%7D%3A**%20B%C3%BCy%C3%BCk%20Japonca%20metin%20**%22%7Bargument%20name%3D%22private%20title%20Japanese%22%20default%3D%22%E7%A7%81%E5%B0%8F%E8%AA%AC%22%7D%22**%20alt%C4%B1nda%20k%C3%BC%C3%A7%C3%BCk%20%C4%B0ngilizce%20metin%20**%22%7Bargument%20name%3D%22private%20title%20English%22%20default%3D%22PRIVATE%20NOVEL%22%7D%22**.%203.%20**%7BTema%3A%20Hava%7D%3A**%20B%C3%BCy%C3%BCk%20Japonca%20metin%20**%22%7Bargument%20name%3D%22air%20title%20Japanese%22%20default%3D%22%E7%A9%BA%E6%B0%97%E6%84%9F%22%7D%22**%20alt%C4%B1nda%20k%C3%BC%C3%A7%C3%BCk%20%C4%B0ngilizce%20metin%20**%22%7Bargument%20name%3D%22air%20title%20English%22%20default%3D%22AIRY%20MOMENTS%22%7D%22**.%20*%20**%C4%B0mza%3A**%20El%20yaz%C4%B1s%C4%B1%20metin%20**%22%7Bargument%20name%3D%22signature%20text%22%20default%3D%22By%20%3A%20Berryxia%22%7D%22**%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%20yan%C4%B1na%20veya%20bir%20k%C3%B6%C5%9Fe%20gibi%20filigran%20olarak%20sanatsal%20bir%20%C5%9Fekilde%20yerle%C5%9Ftirilir.%20**%5BIzgara%20anlat%C4%B1s%C4%B1%20-%20%22g%C3%BCnd%C3%BCzden%20geceye%22%20yolculuk%5D%3A**%20**1.%20S%C4%B1ra%3A%20D%C4%B1%C5%9F%20mekan%20nefesi%20(r%C3%BCzgar%20ve%20%C4%B1%C5%9F%C4%B1k)**%201.%20**Sol%20%C3%BCst%20(geni%C5%9F)%3A**%20R%C3%BCzgarda%20duran%2C%20sa%C3%A7lar%C4%B1%20u%C3%A7u%C5%9Fan%2C%20**g%C3%BCne%C5%9F%20taraf%C4%B1ndan%20arkadan%20ayd%C4%B1nlat%C4%B1lan**%20konu.%202.%20**Orta%20%C3%BCst%20(detay)%3A**%20**Bir%20cam%20soda%20%C5%9Fi%C5%9Fesi%20tutan**%20veya%20g%C3%BCne%C5%9Fi%20engelleyen%20bir%20elin%20yak%C4%B1n%20%C3%A7ekimi.%203.%20**Sa%C4%9F%20%C3%BCst%20(hareket)%3A**%20Konunun%20**bir%20sokakta%20uzakla%C5%9F%C4%B1rken%20%C3%A7ekilmi%C5%9F%20bulan%C4%B1k%20samimi%20foto%C4%9Fraf%C4%B1**.%20**2.%20S%C4%B1ra%3A%20%C4%B0%C3%A7%20mekan%20oyunu%20(aksesuarlar%20ve%20%22saklanma%22)**%204.%20**Orta%20sol%20(saklanma)%3A**%20Tatami%20%C3%BCzerinde%20oturan%2C%20**bir%20g%C3%B6z%C3%BCn%C3%BC%20kurutulmu%C5%9F%20bir%20%C3%A7i%C3%A7ekle%20kapatan**%20konu.%205.%20**Orta%20(samimi)%3A**%20**Bir%20kanepede%20ba%C5%9F%20a%C5%9Fa%C4%9F%C4%B1%20uzanm%C4%B1%C5%9F**%2C%20kitap%20okuyan%2C%20y%C3%BCz%C3%BC%20k%C4%B1smen%20gizlenmi%C5%9F%20konu.%206.%20**Orta%20sa%C4%9F%20(feti%C5%9F%20odakl%C4%B1)%3A**%20**Hal%C4%B1da%20k%C4%B1vr%C4%B1lm%C4%B1%C5%9F%20%C3%A7%C4%B1plak%20ayaklara**%20veya%20sa%C3%A7a%20dokunan%20parmaklara%20odaklanma.%20**3.%20S%C4%B1ra%3A%20%C3%96zel%2F%C4%B1slak%20(buhar%20ve%20cilt)**%207.%20**Alt%20sol%20(buharl%C4%B1%20s%C4%B1rt)%3A**%20**Buharl%C4%B1%20bir%20banyoda%20arkadan%20g%C3%B6r%C3%BCn%C3%BCm**.%20Islak%20sa%C3%A7lar%20boynun%20arkas%C4%B1na%20yap%C4%B1%C5%9Fm%C4%B1%C5%9F.%20Yumu%C5%9Fak%20odak.%208.%20**Alt%20orta%20(dald%C4%B1rma)%3A**%20**Bir%20k%C3%BCvette%20suya%20batm%C4%B1%C5%9F**%2C%20%C3%A7enesine%20kadar%20su%20i%C3%A7inde%2C%20r%C3%BCya%20gibi%20y%C3%BCksek%20anahtar%20ayd%C4%B1nlatma.%209.%20**Alt%20sa%C4%9F%20(son)%3A**%20**Bir%20aynadaki%20buhar%C4%B1n**%20detay%C4%B1.%20**%5BEstetik%20stil%5D%3A**%20*%20**Film%20sto%C4%9Fu%3A**%20Fujifilm%20Pro%20400H%20(camg%C3%B6be%C4%9Fi%20g%C3%B6lgeler%2C%20havadar%20vurgular).%20*%20**Doku%3A**%20**G%C3%B6r%C3%BCn%C3%BCr%20ka%C4%9F%C4%B1t%20dokusu**%2C%20hafif%20vinyet%2C%20d%C3%BCzen%20tasar%C4%B1m%C4%B1%20hissi.%20**%5BParametreler%5D%3A**%20--ar%202%3A3%20--style%20raw%20--v%206.0%20--stylize%20200%20--cref%20%5BURL%5D%20--cw%2080%20--no%20commercial%20smile%2C%20stiff%20posing%2C%20studio%20lighting.%20Use%20indoor%20hotel%20style%20B%20for%20output.)**
+
+---
+
+### No. 4: Nano Banana Pro ile 3x3 resim ızgarasından tek bir panel çıkarın
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Yüksek kalitede 3x3'lük bir görsel ızgarasından seçilen bir paneli kırpmak ve çıkarmak için basit bir Nano Banana Pro istemi.
+
+#### 📝 İstem
+
+```
+Lütfen {argument name="target row" default="2"} satırındaki, {argument name="target column" default="2"} sütunundaki görseli çıkarın.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577211739_v1vt1r_G7Alt3qaMAApHUa.jpg" width="600" alt="Nano Banana Pro ile 3x3 resim ızgarasından tek bir panel çıkarın - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577215679_6fo9u9_G7Alt3qaQAAWqAF.jpg" width="600" alt="Nano Banana Pro ile 3x3 resim ızgarasından tek bir panel çıkarın - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577218626_mhvsk6_G67jxidbkAcjDPL.jpg" width="600" alt="Nano Banana Pro ile 3x3 resim ızgarasından tek bir panel çıkarın - Image 3">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [松果先森](https://x.com/songguoxiansen)
+- **Kaynak:** [Twitter Post](https://x.com/songguoxiansen/status/1995306353079046363)
+- **Yayınlandı:** 1 Aralık 2025
+- **Diller:** zh
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=L%C3%BCtfen%20%7Bargument%20name%3D%22target%20row%22%20default%3D%222%22%7D%20sat%C4%B1r%C4%B1ndaki%2C%20%7Bargument%20name%3D%22target%20column%22%20default%3D%222%22%7D%20s%C3%BCtunundaki%20g%C3%B6rseli%20%C3%A7%C4%B1kar%C4%B1n.)**
+
+---
+
+### No. 5: Direct flash gamer girl Nano Banana Pro JSON etiketi istemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Retro oyun odası fotoğraf estetiği için ideal olan, etiket ve açıklayıcı etiketler kullanarak doğrudan flaşlı bir oyuncu kız sahnesini tanımlayan yapılandırılmış bir Nano Banana Pro görsel istemi.
+
+#### 📝 İstem
+
+```
+{
+  "label": "{argument name=\"label\" default=\"direct-flash-gamer-girl\"}",
+  "tags": [
+    "{argument name=\"lighting style\" default=\"doğrudan flaş\"}",
+    "{argument name=\"room theme\" default=\"retro oyuncu odası\"}",
+    "{argument name=\"era photography\" default=\"1990'lar fotoğrafçılığı\"}",
+    "{argument name=\"image aesthetic\" default=\"film estetiği\"}",
+    "{argument name=\"subject type\" default=\"oyuncu kız\"}",
+    "{argument name=\"background detail\" default=\"koleksiyon rafı\"}",
+    "{argument name=\"camera angle\" default=\"düşük açı\"}",
+    "{argument name=\"pose\" default=\"oturma pozu\"}"
+  ]
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577267047_5sdrbr_G7BoKccXgAAimPo.jpg" width="600" alt="Direct flash gamer girl Nano Banana Pro JSON etiketi istemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577281117_gzf0nh_G7BoKeoXcAAq0zA.jpg" width="600" alt="Direct flash gamer girl Nano Banana Pro JSON etiketi istemi - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [ΛRMIN | AI](https://x.com/Arminn_Ai)
+- **Kaynak:** [Twitter Post](https://x.com/Arminn_Ai/status/1995209201522495851)
+- **Yayınlandı:** 30 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22label%22%3A%20%22%7Bargument%20name%3D%5C%22label%5C%22%20default%3D%5C%22direct-flash-gamer-girl%5C%22%7D%22%2C%0A%20%20%22tags%22%3A%20%5B%0A%20%20%20%20%22%7Bargument%20name%3D%5C%22lighting%20style%5C%22%20default%3D%5C%22do%C4%9Frudan%20fla%C5%9F%5C%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%5C%22room%20theme%5C%22%20default%3D%5C%22retro%20oyuncu%20odas%C4%B1%5C%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%5C%22era%20photography%5C%22%20default%3D%5C%221990'lar%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%5C%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%5C%22image%20aesthetic%5C%22%20default%3D%5C%22film%20esteti%C4%9Fi%5C%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%5C%22subject%20type%5C%22%20default%3D%5C%22oyuncu%20k%C4%B1z%5C%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%5C%22background%20detail%5C%22%20default%3D%5C%22koleksiyon%20raf%C4%B1%5C%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%5C%22camera%20angle%5C%22%20default%3D%5C%22d%C3%BC%C5%9F%C3%BCk%20a%C3%A7%C4%B1%5C%22%7D%22%2C%0A%20%20%20%20%22%7Bargument%20name%3D%5C%22pose%5C%22%20default%3D%5C%22oturma%20pozu%5C%22%7D%22%0A%20%20%5D%0A%7D)**
+
+---
+
+### No. 6: İki aşamalı Nano Banana Pro görüntü iyileştirme istemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Nano Banana Pro için basit, iki adımlı bir iş akışı istemi: önce detaylı cilt dokusuna sahip bir kişi görseli oluşturun, ardından yakın çekimle yüze yakınlaştırın. Görünür cilt dokusuna sahip gerçekçi portreler elde etmek için kullanışlıdır.
+
+#### 📝 İstem
+
+```
+İlk olarak: bir kişinin görüntüsünü oluşturun ve şu talimatı ekleyin: "{argument name="skin detail" default="Ciltlerinde gözenekler ve detaylar var"}."
+
+İkinci olarak: oluşturulan sonuca şu istemi uygulayın: "{argument name="zoom into face" default="Yüze yakın çekim yapın."}".
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577188247_xdrgf6_G7BIjQxWUAAt9Pt.jpg" width="600" alt="İki aşamalı Nano Banana Pro görüntü iyileştirme istemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577194746_3nz7qi_G7BIkQBXoAA2gvH.jpg" width="600" alt="İki aşamalı Nano Banana Pro görüntü iyileştirme istemi - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Píldora artificial](https://x.com/PildoraCie65802)
+- **Kaynak:** [Twitter Post](https://x.com/PildoraCie65802/status/1995174781541331431)
+- **Yayınlandı:** 30 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%C4%B0lk%20olarak%3A%20bir%20ki%C5%9Finin%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCn%C3%BC%20olu%C5%9Fturun%20ve%20%C5%9Fu%20talimat%C4%B1%20ekleyin%3A%20%22%7Bargument%20name%3D%22skin%20detail%22%20default%3D%22Ciltlerinde%20g%C3%B6zenekler%20ve%20detaylar%20var%22%7D.%22%0A%0A%C4%B0kinci%20olarak%3A%20olu%C5%9Fturulan%20sonuca%20%C5%9Fu%20istemi%20uygulay%C4%B1n%3A%20%22%7Bargument%20name%3D%22zoom%20into%20face%22%20default%3D%22Y%C3%BCze%20yak%C4%B1n%20%C3%A7ekim%20yap%C4%B1n.%22%7D%22.)**
+
+---
+
+### No. 7: 12 görselli Instagram akışı karakter estetiği istemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Modeli, tek bir karakter için farklı konum ve kompozisyonlarda tutarlı, renkli bir estetikle 12 resimli bir Instagram akışı oluşturması için yönlendiren bir Nano Banana Pro istemi.
+
+#### 📝 İstem
+
+```
+Bu karakter için aynı estetikle {argument name="image count" default="12"} görselden oluşan bir Instagram akışı oluştur. Pembeler, maviler, sarılar ve canlı renkler kullan. Uyumlu bir görsel stilini korurken, farklı konumlar, açılar ve kompozisyonlar kullanarak insanları, hayvanları, doğayı ve çeşitli ortamları dahil et.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577521322_t1h6v2_G7BFMAUXcAA6CKr.jpg" width="600" alt="12 görselli Instagram akışı karakter estetiği istemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577525199_pb5ps5_G7BFMsUW4AATgu_.jpg" width="600" alt="12 görselli Instagram akışı karakter estetiği istemi - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Gizem Akdag](https://x.com/gizakdag)
+- **Kaynak:** [Twitter Post](https://x.com/gizakdag/status/1995171539000361446)
+- **Yayınlandı:** 30 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bu%20karakter%20i%C3%A7in%20ayn%C4%B1%20estetikle%20%7Bargument%20name%3D%22image%20count%22%20default%3D%2212%22%7D%20g%C3%B6rselden%20olu%C5%9Fan%20bir%20Instagram%20ak%C4%B1%C5%9F%C4%B1%20olu%C5%9Ftur.%20Pembeler%2C%20maviler%2C%20sar%C4%B1lar%20ve%20canl%C4%B1%20renkler%20kullan.%20Uyumlu%20bir%20g%C3%B6rsel%20stilini%20korurken%2C%20farkl%C4%B1%20konumlar%2C%20a%C3%A7%C4%B1lar%20ve%20kompozisyonlar%20kullanarak%20insanlar%C4%B1%2C%20hayvanlar%C4%B1%2C%20do%C4%9Fay%C4%B1%20ve%20%C3%A7e%C5%9Fitli%20ortamlar%C4%B1%20dahil%20et.)**
+
+---
+
+### No. 8: Samimi yatak odası portresi istem yapısı
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Yumuşak ışıklı bir yatak odasında, doğal güzelliğe, kompozisyona ve atmosfere odaklanan, göz alıcı genç bir kadının yüksek çözünürlüklü samimi bir fotoğrafı için ayrıntılı bir Nano Banana komut yapısı.
+
+#### 📝 İstem
+
+```
+Yumuşak ışıklı bir yatak odasında, neredeyse kare formatta çekilmiş yüksek çözünürlüklü samimi bir fotoğraf. Merkezi özne – hafif bronz tenli, belli belirsiz çilli, dolgun dudaklı ve rahat, doğal bir ifadeye sahip çekici genç bir kadın – hafifçe buruşmuş beyaz çarşaflı bir yatakta rahatça oturuyor veya uzanıyor. Yakındaki bir pencereden yumuşak, sıcak ışık içeri süzülerek nazik gölgeler oluşturuyor ve rahat, samimi bir atmosfer yaratıyor. Arka planda minimal ama zevkli bir dekor yer alıyor – belki bir komodin, sıcak ışık veren bir lamba ve dikkatleri kadından uzaklaştırmadan kişiliğine dair ipuçları veren birkaç kişisel obje. Genel ruh hali sakin, davetkar ve sinematik; sığ alan derinliği ve otantik, pozsuz güzelliği yakalamaya odaklanılmış.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577188819_xcmvmq_G7A4i_pWAAAHge1.jpg" width="600" alt="Samimi yatak odası portresi istem yapısı - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Niceguy](https://x.com/niceguysash)
+- **Kaynak:** [Twitter Post](https://x.com/niceguysash/status/1995156815961592150)
+- **Yayınlandı:** 30 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Yumu%C5%9Fak%20%C4%B1%C5%9F%C4%B1kl%C4%B1%20bir%20yatak%20odas%C4%B1nda%2C%20neredeyse%20kare%20formatta%20%C3%A7ekilmi%C5%9F%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%20samimi%20bir%20foto%C4%9Fraf.%20Merkezi%20%C3%B6zne%20%E2%80%93%20hafif%20bronz%20tenli%2C%20belli%20belirsiz%20%C3%A7illi%2C%20dolgun%20dudakl%C4%B1%20ve%20rahat%2C%20do%C4%9Fal%20bir%20ifadeye%20sahip%20%C3%A7ekici%20gen%C3%A7%20bir%20kad%C4%B1n%20%E2%80%93%20hafif%C3%A7e%20buru%C5%9Fmu%C5%9F%20beyaz%20%C3%A7ar%C5%9Fafl%C4%B1%20bir%20yatakta%20rahat%C3%A7a%20oturuyor%20veya%20uzan%C4%B1yor.%20Yak%C4%B1ndaki%20bir%20pencereden%20yumu%C5%9Fak%2C%20s%C4%B1cak%20%C4%B1%C5%9F%C4%B1k%20i%C3%A7eri%20s%C3%BCz%C3%BClerek%20nazik%20g%C3%B6lgeler%20olu%C5%9Fturuyor%20ve%20rahat%2C%20samimi%20bir%20atmosfer%20yarat%C4%B1yor.%20Arka%20planda%20minimal%20ama%20zevkli%20bir%20dekor%20yer%20al%C4%B1yor%20%E2%80%93%20belki%20bir%20komodin%2C%20s%C4%B1cak%20%C4%B1%C5%9F%C4%B1k%20veren%20bir%20lamba%20ve%20dikkatleri%20kad%C4%B1ndan%20uzakla%C5%9Ft%C4%B1rmadan%20ki%C5%9Fili%C4%9Fine%20dair%20ipu%C3%A7lar%C4%B1%20veren%20birka%C3%A7%20ki%C5%9Fisel%20obje.%20Genel%20ruh%20hali%20sakin%2C%20davetkar%20ve%20sinematik%3B%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%20ve%20otantik%2C%20pozsuz%20g%C3%BCzelli%C4%9Fi%20yakalamaya%20odaklan%C4%B1lm%C4%B1%C5%9F.)**
+
+---
+
+### No. 9: Nano Banana Pro için sinematik yatak odası otoportre istemi
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Minimalist bir yatak odasında, yatağın kenarında oturan bir kadının, telefonunu kullanarak sinematik tarzda, duygusal bir otoportre çektiğini detaylı olarak anlatan bir Çince komut istemi.
+
+#### 📝 İstem
+
+```
+Konu:
+• Açıklama: {argument name="subject description" default="bir kadın"}
+• Saç: {argument name="hair style" default="uzun koyu dalgalı saç"}
+• Eylem: Yüzünü kapatacak şekilde fotoğraf çekmek için telefonunu yüzünün önünde tutuyor.
+• Poz: Bacakları zarifçe çaprazlanmış bir şekilde yatağın kenarında oturuyor.
+
+Kıyafet:
+• Elbise: {argument name="dress style" default="kare yakalı, vücudu saran siyah uzun kollu mini elbise"}
+• Ayakkabı: {argument name="shoes style" default="parlak siyah topuklu ayakkabılar"}
+
+Ortam:
+• Sahne: {argument name="room style" default="minimalist, modern bir yatak odası"}
+• Yatak: {argument name="bedding color" default="koyu gri nevresim takımı ve uyumlu yastıklarla"} özenle yapılmış ve siyah bir başlığı var.
+• Mobilya: Sade lambalı küçük minimalist komodinler.
+• Dekorasyon: Bej duvarlar ve yumuşak açık gri bir halı.
+
+Aydınlatma ve ruh hali:
+• Aydınlatma: Yumuşak, sıcak ve hafif loş.
+• Atmosfer: Mahrem, şık ve biraz hüzünlü.
+• Doku: Görüntüde hafif grenli bir estetik.
+
+Tarz:
+• Estetik: Sinematik.
+• Renk paleti: Yumuşak ve düşük doygunlukta.
+
+Tam sahne açıklaması:
+Minimalist modern bir yatağın kenarında bir kadın oturuyor. Uzun koyu dalgalı saçları var ve yüzünü kapatacak şekilde telefonunu yüzünün önünde tutuyor. Kare yakalı, vücudu saran siyah uzun kollu mini bir elbise ve parlak siyah topuklu ayakkabılar giymiş, bacakları zarifçe çaprazlanmış. Odanın ışığı yumuşak, sıcak ve biraz loş, görüntüde hafif grenli bir doku var. Yatak, koyu gri nevresim takımı ve uyumlu yastıklarla özenle yapılmış ve siyah bir başlığı var. Her iki yanda da sade lambalı küçük minimalist komodinler bulunuyor. Duvarlar nötr bej renginde ve halı yumuşak açık gri. Genel olarak, kare mahrem, şık, nazik ve sinematik bir his veriyor.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577201145_4x09r9_G7AwPUHaIAE61O_.jpg" width="600" alt="Nano Banana Pro için sinematik yatak odası otoportre istemi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [唐一](https://x.com/Makkiiil)
+- **Kaynak:** [Twitter Post](https://x.com/Makkiiil/status/1995147687814164488)
+- **Yayınlandı:** 30 Kasım 2025
+- **Diller:** zh
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Konu%3A%0A%E2%80%A2%20A%C3%A7%C4%B1klama%3A%20%7Bargument%20name%3D%22subject%20description%22%20default%3D%22bir%20kad%C4%B1n%22%7D%0A%E2%80%A2%20Sa%C3%A7%3A%20%7Bargument%20name%3D%22hair%20style%22%20default%3D%22uzun%20koyu%20dalgal%C4%B1%20sa%C3%A7%22%7D%0A%E2%80%A2%20Eylem%3A%20Y%C3%BCz%C3%BCn%C3%BC%20kapatacak%20%C5%9Fekilde%20foto%C4%9Fraf%20%C3%A7ekmek%20i%C3%A7in%20telefonunu%20y%C3%BCz%C3%BCn%C3%BCn%20%C3%B6n%C3%BCnde%20tutuyor.%0A%E2%80%A2%20Poz%3A%20Bacaklar%C4%B1%20zarif%C3%A7e%20%C3%A7aprazlanm%C4%B1%C5%9F%20bir%20%C5%9Fekilde%20yata%C4%9F%C4%B1n%20kenar%C4%B1nda%20oturuyor.%0A%0AK%C4%B1yafet%3A%0A%E2%80%A2%20Elbise%3A%20%7Bargument%20name%3D%22dress%20style%22%20default%3D%22kare%20yakal%C4%B1%2C%20v%C3%BCcudu%20saran%20siyah%20uzun%20kollu%20mini%20elbise%22%7D%0A%E2%80%A2%20Ayakkab%C4%B1%3A%20%7Bargument%20name%3D%22shoes%20style%22%20default%3D%22parlak%20siyah%20topuklu%20ayakkab%C4%B1lar%22%7D%0A%0AOrtam%3A%0A%E2%80%A2%20Sahne%3A%20%7Bargument%20name%3D%22room%20style%22%20default%3D%22minimalist%2C%20modern%20bir%20yatak%20odas%C4%B1%22%7D%0A%E2%80%A2%20Yatak%3A%20%7Bargument%20name%3D%22bedding%20color%22%20default%3D%22koyu%20gri%20nevresim%20tak%C4%B1m%C4%B1%20ve%20uyumlu%20yast%C4%B1klarla%22%7D%20%C3%B6zenle%20yap%C4%B1lm%C4%B1%C5%9F%20ve%20siyah%20bir%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20var.%0A%E2%80%A2%20Mobilya%3A%20Sade%20lambal%C4%B1%20k%C3%BC%C3%A7%C3%BCk%20minimalist%20komodinler.%0A%E2%80%A2%20Dekorasyon%3A%20Bej%20duvarlar%20ve%20yumu%C5%9Fak%20a%C3%A7%C4%B1k%20gri%20bir%20hal%C4%B1.%0A%0AAyd%C4%B1nlatma%20ve%20ruh%20hali%3A%0A%E2%80%A2%20Ayd%C4%B1nlatma%3A%20Yumu%C5%9Fak%2C%20s%C4%B1cak%20ve%20hafif%20lo%C5%9F.%0A%E2%80%A2%20Atmosfer%3A%20Mahrem%2C%20%C5%9F%C4%B1k%20ve%20biraz%20h%C3%BCz%C3%BCnl%C3%BC.%0A%E2%80%A2%20Doku%3A%20G%C3%B6r%C3%BCnt%C3%BCde%20hafif%20grenli%20bir%20estetik.%0A%0ATarz%3A%0A%E2%80%A2%20Estetik%3A%20Sinematik.%0A%E2%80%A2%20Renk%20paleti%3A%20Yumu%C5%9Fak%20ve%20d%C3%BC%C5%9F%C3%BCk%20doygunlukta.%0A%0ATam%20sahne%20a%C3%A7%C4%B1klamas%C4%B1%3A%0AMinimalist%20modern%20bir%20yata%C4%9F%C4%B1n%20kenar%C4%B1nda%20bir%20kad%C4%B1n%20oturuyor.%20Uzun%20koyu%20dalgal%C4%B1%20sa%C3%A7lar%C4%B1%20var%20ve%20y%C3%BCz%C3%BCn%C3%BC%20kapatacak%20%C5%9Fekilde%20telefonunu%20y%C3%BCz%C3%BCn%C3%BCn%20%C3%B6n%C3%BCnde%20tutuyor.%20Kare%20yakal%C4%B1%2C%20v%C3%BCcudu%20saran%20siyah%20uzun%20kollu%20mini%20bir%20elbise%20ve%20parlak%20siyah%20topuklu%20ayakkab%C4%B1lar%20giymi%C5%9F%2C%20bacaklar%C4%B1%20zarif%C3%A7e%20%C3%A7aprazlanm%C4%B1%C5%9F.%20Odan%C4%B1n%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%20yumu%C5%9Fak%2C%20s%C4%B1cak%20ve%20biraz%20lo%C5%9F%2C%20g%C3%B6r%C3%BCnt%C3%BCde%20hafif%20grenli%20bir%20doku%20var.%20Yatak%2C%20koyu%20gri%20nevresim%20tak%C4%B1m%C4%B1%20ve%20uyumlu%20yast%C4%B1klarla%20%C3%B6zenle%20yap%C4%B1lm%C4%B1%C5%9F%20ve%20siyah%20bir%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20var.%20Her%20iki%20yanda%20da%20sade%20lambal%C4%B1%20k%C3%BC%C3%A7%C3%BCk%20minimalist%20komodinler%20bulunuyor.%20Duvarlar%20n%C3%B6tr%20bej%20renginde%20ve%20hal%C4%B1%20yumu%C5%9Fak%20a%C3%A7%C4%B1k%20gri.%20Genel%20olarak%2C%20kare%20mahrem%2C%20%C5%9F%C4%B1k%2C%20nazik%20ve%20sinematik%20bir%20his%20veriyor.)**
+
+---
+
+### No. 10: Keçe oyuncaklar tam gövde Nano Banana Pro istem şablonu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Sevimli, yumuşak, çizgi film tarzı render'lar için ideal olan, özelleştirilebilir konu, özellikler, ifadeler ve ortamlarla tam vücut keçe oyuncak karakterleri oluşturmaya yönelik kısa bir Nano Banana Pro istem şablonu.
+
+#### 📝 İstem
+
+```
+Tam vücut {argument name="subject" default="[Konu]"} oyuncak, {argument name="attributes and accessories" default="[nitelikler/aksesuarlar]"}, {argument name="expression" default="[ifade]"}, keçeden yapılmış, {argument name="place" default="[yer]"} içinde, {argument name="lighting" default="[aydınlatma]"}, arkadaş canlısı ve çizgi filmimsi görünüm, zengin ve yumuşak dokular
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg" width="600" alt="Keçe oyuncaklar tam gövde Nano Banana Pro istem şablonu - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg" width="600" alt="Keçe oyuncaklar tam gövde Nano Banana Pro istem şablonu - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg" width="600" alt="Keçe oyuncaklar tam gövde Nano Banana Pro istem şablonu - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg" width="600" alt="Keçe oyuncaklar tam gövde Nano Banana Pro istem şablonu - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [MayorkingAI](https://x.com/MayorKingAI)
+- **Kaynak:** [Twitter Post](https://x.com/MayorKingAI/status/1995109461875114311)
+- **Yayınlandı:** 30 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Tam%20v%C3%BCcut%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5BKonu%5D%22%7D%20oyuncak%2C%20%7Bargument%20name%3D%22attributes%20and%20accessories%22%20default%3D%22%5Bnitelikler%2Faksesuarlar%5D%22%7D%2C%20%7Bargument%20name%3D%22expression%22%20default%3D%22%5Bifade%5D%22%7D%2C%20ke%C3%A7eden%20yap%C4%B1lm%C4%B1%C5%9F%2C%20%7Bargument%20name%3D%22place%22%20default%3D%22%5Byer%5D%22%7D%20i%C3%A7inde%2C%20%7Bargument%20name%3D%22lighting%22%20default%3D%22%5Bayd%C4%B1nlatma%5D%22%7D%2C%20arkada%C5%9F%20canl%C4%B1s%C4%B1%20ve%20%C3%A7izgi%20filmimsi%20g%C3%B6r%C3%BCn%C3%BCm%2C%20zengin%20ve%20yumu%C5%9Fak%20dokular)**
+
+---
+
+### No. 11: Nano Banana Pro için mürekkep resim yalnız tekne istemi
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Felsefi Doğu havası taşıyan, teknede yalnız bir balıkçının minimalist siyah beyaz mürekkep resmini oluşturmak için kısa bir Çince bilgi istemi.
+
+#### 📝 İstem
+
+```
+Siyah beyaz mürekkep resim stili, boş alanın şiirsel kullanımı, {argument name="main subject" default="küçük bir teknede yalnız bir balıkçı"} tasviri, minimalist çizgiler, xuan kağıdı dokusu, vurgu olarak kırmızı bir mühür damgası ve Doğu felsefesi hissi.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577572880_gscsmz_G67wSyab0AABZB1.jpg" width="600" alt="Nano Banana Pro için mürekkep resim yalnız tekne istemi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [松果先森](https://x.com/songguoxiansen)
+- **Kaynak:** [Twitter Post](https://x.com/songguoxiansen/status/1994949753524609418)
+- **Yayınlandı:** 30 Kasım 2025
+- **Diller:** zh
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Siyah%20beyaz%20m%C3%BCrekkep%20resim%20stili%2C%20bo%C5%9F%20alan%C4%B1n%20%C5%9Fiirsel%20kullan%C4%B1m%C4%B1%2C%20%7Bargument%20name%3D%22main%20subject%22%20default%3D%22k%C3%BC%C3%A7%C3%BCk%20bir%20teknede%20yaln%C4%B1z%20bir%20bal%C4%B1k%C3%A7%C4%B1%22%7D%20tasviri%2C%20minimalist%20%C3%A7izgiler%2C%20xuan%20ka%C4%9F%C4%B1d%C4%B1%20dokusu%2C%20vurgu%20olarak%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20m%C3%BCh%C3%BCr%20damgas%C4%B1%20ve%20Do%C4%9Fu%20felsefesi%20hissi.)**
+
+---
+
+### No. 12: Ortaokul öğrencisi tarih ders kitabının sayfalarına karalamalar yapıyor
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+Bir öğrencinin tarihi bir figürün portre fotoğrafına komik kurşun kalem karalamaları çizdiği, ancak metnin doğru ve gerçeklere uygun kaldığı bir Japon ortaokul tarihi ders kitabı sayfasını oluşturan eğlenceli bir Nano Banana Pro istemi.
+
+#### 📝 İstem
+
+```
+Japon ortaokul öğrencilerinin kullandığı bir tarih ders kitabından bir sayfa. Bir öğrencinin, büyük bir şahsiyetin profilindeki portre fotoğrafının üzerine kurşun kalemle karalama yaparak onu komik bir yüze dönüştürdüğü bir sayfa. Ders kitabı metnini uygun Japonca ile yazılacak şekilde düzenleyin ve düzeltin ve içeriğin tarihi gerçeklere dayandığından emin olun.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577552231_rk6sr8_G69dRFxagAAzb4K.jpg" width="600" alt="Ortaokul öğrencisi tarih ders kitabının sayfalarına karalamalar yapıyor - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577556067_mlrlsl_G69dRFxaUAAkBI2.jpg" width="600" alt="Ortaokul öğrencisi tarih ders kitabının sayfalarına karalamalar yapıyor - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577559688_altgjq_G69dRGXbkAMzpI9.jpg" width="600" alt="Ortaokul öğrencisi tarih ders kitabının sayfalarına karalamalar yapıyor - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577563330_r7mlnw_G69dRHGbwAAoX8J.jpg" width="600" alt="Ortaokul öğrencisi tarih ders kitabının sayfalarına karalamalar yapıyor - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
+- **Kaynak:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/1994915711169564873)
+- **Yayınlandı:** 29 Kasım 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Japon%20ortaokul%20%C3%B6%C4%9Frencilerinin%20kulland%C4%B1%C4%9F%C4%B1%20bir%20tarih%20ders%20kitab%C4%B1ndan%20bir%20sayfa.%20Bir%20%C3%B6%C4%9Frencinin%2C%20b%C3%BCy%C3%BCk%20bir%20%C5%9Fahsiyetin%20profilindeki%20portre%20foto%C4%9Fraf%C4%B1n%C4%B1n%20%C3%BCzerine%20kur%C5%9Fun%20kalemle%20karalama%20yaparak%20onu%20komik%20bir%20y%C3%BCze%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCrd%C3%BC%C4%9F%C3%BC%20bir%20sayfa.%20Ders%20kitab%C4%B1%20metnini%20uygun%20Japonca%20ile%20yaz%C4%B1lacak%20%C5%9Fekilde%20d%C3%BCzenleyin%20ve%20d%C3%BCzeltin%20ve%20i%C3%A7eri%C4%9Fin%20tarihi%20ger%C3%A7eklere%20dayand%C4%B1%C4%9F%C4%B1ndan%20emin%20olun.)**
+
+---
+
+### No. 13: Sinematik yağmurlu şehir sahnesi JSON istemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Sinematik, hareket bulanıklığına sahip, yoğun yağmur altındaki kasvetli bir şehir sahnesinin noir atmosferini tasvir eden, tutarlı 16:9 kompozisyonlar için tasarlanmış bir Nano Banana Pro JSON istemi.
+
+#### 📝 İstem
+
+```
+{
+  "intent": "Yoğun yağmur altında, kasvetli, atmosferik bir şehir sahnesini betimleyen, aciliyet ve kara film gizemi hissi uyandıran, sinematik, hareket bulanıklığına sahip bir film karesi.",
+  "frame": {
+    "aspect_ratio": "16:9",
+    "composition": "Şehir sokağındaki derinliği ve perspektifi vurgulayan, üçler kuralına uyan, dinamik, hafifçe merkez dışı bir kompozisyon."
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577522024_vkoftz_G67psTzbwAAX0tQ.jpg" width="600" alt="Sinematik yağmurlu şehir sahnesi JSON istemi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Johnny Wang](https://x.com/JohnnyWang8802)
+- **Kaynak:** [Twitter Post](https://x.com/JohnnyWang8802/status/1994789007419662445)
+- **Yayınlandı:** 29 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22intent%22%3A%20%22Yo%C4%9Fun%20ya%C4%9Fmur%20alt%C4%B1nda%2C%20kasvetli%2C%20atmosferik%20bir%20%C5%9Fehir%20sahnesini%20betimleyen%2C%20aciliyet%20ve%20kara%20film%20gizemi%20hissi%20uyand%C4%B1ran%2C%20sinematik%2C%20hareket%20bulan%C4%B1kl%C4%B1%C4%9F%C4%B1na%20sahip%20bir%20film%20karesi.%22%2C%0A%20%20%22frame%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%2216%3A9%22%2C%0A%20%20%20%20%22composition%22%3A%20%22%C5%9Eehir%20soka%C4%9F%C4%B1ndaki%20derinli%C4%9Fi%20ve%20perspektifi%20vurgulayan%2C%20%C3%BC%C3%A7ler%20kural%C4%B1na%20uyan%2C%20dinamik%2C%20hafif%C3%A7e%20merkez%20d%C4%B1%C5%9F%C4%B1%20bir%20kompozisyon.%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 14: Nano Banana Pro kontak sayfası çoklu çekim kamera istemi
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Bir girdi görüntüsünü analiz eden ve aynı konunun dokuz farklı çekim türüyle 3x3 sinematik bir kontak baskısı oluşturan güçlü bir talimat tarzı istem.
+
+#### 📝 İstem
+
+```
+Giriş görüntüsünün tüm kompozisyonunu analiz edin. Mekansal ilişkileri ve etkileşimleriyle birlikte mevcut tüm ana konuları (ister {argument name="type of subject" default="tek bir kişi, bir grup/çift, bir araç veya belirli bir nesne"} olsun) belirleyin.
+Bu konuların aynı ortamda 9 farklı çekimini gösteren tutarlı bir 3x3 "kontak tabaka" ızgarası oluşturun.
+İçeriğe uyacak şekilde standart sinematik çekim türlerini uyarlamalısınız (örneğin, bir grupsa grubu bir arada tutun; bir nesneyse nesnenin tamamını dahil edin):
+1. Satır (Ortamı Belirleme):
+Aşırı Uzun Çekim (ELS): Konu, geniş bir ortamda küçük görünür.
+Uzun Çekim (LS): Konu veya grup baştan aşağı (baştan ayağa / tekerleklerden çatıya) tamamen görünür.
+Orta Uzun Çekim (Amerikan çekimi / üç çeyrek): İnsanlar için dizlerin üzerinden, nesneler için 3/4 görünümden çerçevelenmiştir.
+2. Satır (Temel Kapsam):
+4. Orta Çekim (MS): Belden yukarı (veya bir nesnenin merkezi çekirdeği) çerçevelenmiş, etkileşime/eyleme odaklanılmıştır.
+5. Orta Yakın Çekim (MCU): Göğüsten yukarı çerçevelenmiş. Ana konunun samimi bir çerçevelemesi.
+6. Yakın Çekim (CU): Yüze veya nesnenin "önüne" sıkı çerçeveleme.
+3. Satır (Detaylar ve Açılar):
+7. Aşırı Yakın Çekim (ECU): Ana özelliklerin mikro detaylarına güçlü odaklanma (gözler, eller, logolar, dokular).
+8. Alçak Açı Çekim (solucan gözü görünümü): Konuya yerden yukarı bakma (dramatik/kahramanca his).
+9. Yüksek Açı Çekim (kuş bakışı görünümü): Konuya yukarıdan aşağı bakma.
+Kesin tutarlılık sağlayın: 9 panelin tamamında aynı kişi/nesne, aynı kıyafet ve aynı aydınlatma. Alan derinliği gerçekçi bir şekilde değişmelidir (yakın çekimlerde arka plan bulanıklığı ile).
+
+9 panelli profesyonel bir 3x3 sinematik storyboard ızgarası.
+Izgara, giriş görüntüsündeki belirli konuyu/sahneyi tam bir odak uzaklığı aralığında sunar.
+Üst sıra: geniş çevresel çekim, tam görünüm, 3/4 kırpma (dizlerin üzeri).
+Orta sıra: belden yukarı görünüm, göğüsten yukarı görünüm, yüz/ön yakın çekim.
+Alt sıra: makro detaylar, alçak açı, yüksek açı.
+Tüm kareler fotogerçekçi dokulara, tutarlı sinematik renk derecelendirmesine ve analiz edilen konuların veya nesnelerin sayısı ve türü için doğru kompozisyona sahip olmalıdır.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="Nano Banana Pro kontak sayfası çoklu çekim kamera istemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="Nano Banana Pro kontak sayfası çoklu çekim kamera istemi - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="Nano Banana Pro kontak sayfası çoklu çekim kamera istemi - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="Nano Banana Pro kontak sayfası çoklu çekim kamera istemi - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="Nano Banana Pro kontak sayfası çoklu çekim kamera istemi - Image 5">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [松果先森](https://x.com/songguoxiansen)
+- **Kaynak:** [Twitter Post](https://x.com/songguoxiansen/status/1994783047825473774)
+- **Yayınlandı:** 29 Kasım 2025
+- **Diller:** zh
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Giri%C5%9F%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCn%C3%BCn%20t%C3%BCm%20kompozisyonunu%20analiz%20edin.%20Mekansal%20ili%C5%9Fkileri%20ve%20etkile%C5%9Fimleriyle%20birlikte%20mevcut%20t%C3%BCm%20ana%20konular%C4%B1%20(ister%20%7Bargument%20name%3D%22type%20of%20subject%22%20default%3D%22tek%20bir%20ki%C5%9Fi%2C%20bir%20grup%2F%C3%A7ift%2C%20bir%20ara%C3%A7%20veya%20belirli%20bir%20nesne%22%7D%20olsun)%20belirleyin.%0ABu%20konular%C4%B1n%20ayn%C4%B1%20ortamda%209%20farkl%C4%B1%20%C3%A7ekimini%20g%C3%B6steren%20tutarl%C4%B1%20bir%203x3%20%22kontak%20tabaka%22%20%C4%B1zgaras%C4%B1%20olu%C5%9Fturun.%0A%C4%B0%C3%A7eri%C4%9Fe%20uyacak%20%C5%9Fekilde%20standart%20sinematik%20%C3%A7ekim%20t%C3%BCrlerini%20uyarlamal%C4%B1s%C4%B1n%C4%B1z%20(%C3%B6rne%C4%9Fin%2C%20bir%20grupsa%20grubu%20bir%20arada%20tutun%3B%20bir%20nesneyse%20nesnenin%20tamam%C4%B1n%C4%B1%20dahil%20edin)%3A%0A1.%20Sat%C4%B1r%20(Ortam%C4%B1%20Belirleme)%3A%0AA%C5%9F%C4%B1r%C4%B1%20Uzun%20%C3%87ekim%20(ELS)%3A%20Konu%2C%20geni%C5%9F%20bir%20ortamda%20k%C3%BC%C3%A7%C3%BCk%20g%C3%B6r%C3%BCn%C3%BCr.%0AUzun%20%C3%87ekim%20(LS)%3A%20Konu%20veya%20grup%20ba%C5%9Ftan%20a%C5%9Fa%C4%9F%C4%B1%20(ba%C5%9Ftan%20aya%C4%9Fa%20%2F%20tekerleklerden%20%C3%A7at%C4%B1ya)%20tamamen%20g%C3%B6r%C3%BCn%C3%BCr.%0AOrta%20Uzun%20%C3%87ekim%20(Amerikan%20%C3%A7ekimi%20%2F%20%C3%BC%C3%A7%20%C3%A7eyrek)%3A%20%C4%B0nsanlar%20i%C3%A7in%20dizlerin%20%C3%BCzerinden%2C%20nesneler%20i%C3%A7in%203%2F4%20g%C3%B6r%C3%BCn%C3%BCmden%20%C3%A7er%C3%A7evelenmi%C5%9Ftir.%0A2.%20Sat%C4%B1r%20(Temel%20Kapsam)%3A%0A4.%20Orta%20%C3%87ekim%20(MS)%3A%20Belden%20yukar%C4%B1%20(veya%20bir%20nesnenin%20merkezi%20%C3%A7ekirde%C4%9Fi)%20%C3%A7er%C3%A7evelenmi%C5%9F%2C%20etkile%C5%9Fime%2Feyleme%20odaklan%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0A5.%20Orta%20Yak%C4%B1n%20%C3%87ekim%20(MCU)%3A%20G%C3%B6%C4%9F%C3%BCsten%20yukar%C4%B1%20%C3%A7er%C3%A7evelenmi%C5%9F.%20Ana%20konunun%20samimi%20bir%20%C3%A7er%C3%A7evelemesi.%0A6.%20Yak%C4%B1n%20%C3%87ekim%20(CU)%3A%20Y%C3%BCze%20veya%20nesnenin%20%22%C3%B6n%C3%BCne%22%20s%C4%B1k%C4%B1%20%C3%A7er%C3%A7eveleme.%0A3.%20Sat%C4%B1r%20(Detaylar%20ve%20A%C3%A7%C4%B1lar)%3A%0A7.%20A%C5%9F%C4%B1r%C4%B1%20Yak%C4%B1n%20%C3%87ekim%20(ECU)%3A%20Ana%20%C3%B6zelliklerin%20mikro%20detaylar%C4%B1na%20g%C3%BC%C3%A7l%C3%BC%20odaklanma%20(g%C3%B6zler%2C%20eller%2C%20logolar%2C%20dokular).%0A8.%20Al%C3%A7ak%20A%C3%A7%C4%B1%20%C3%87ekim%20(solucan%20g%C3%B6z%C3%BC%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC)%3A%20Konuya%20yerden%20yukar%C4%B1%20bakma%20(dramatik%2Fkahramanca%20his).%0A9.%20Y%C3%BCksek%20A%C3%A7%C4%B1%20%C3%87ekim%20(ku%C5%9F%20bak%C4%B1%C5%9F%C4%B1%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC)%3A%20Konuya%20yukar%C4%B1dan%20a%C5%9Fa%C4%9F%C4%B1%20bakma.%0AKesin%20tutarl%C4%B1l%C4%B1k%20sa%C4%9Flay%C4%B1n%3A%209%20panelin%20tamam%C4%B1nda%20ayn%C4%B1%20ki%C5%9Fi%2Fnesne%2C%20ayn%C4%B1%20k%C4%B1yafet%20ve%20ayn%C4%B1%20ayd%C4%B1nlatma.%20Alan%20derinli%C4%9Fi%20ger%C3%A7ek%C3%A7i%20bir%20%C5%9Fekilde%20de%C4%9Fi%C5%9Fmelidir%20(yak%C4%B1n%20%C3%A7ekimlerde%20arka%20plan%20bulan%C4%B1kl%C4%B1%C4%9F%C4%B1%20ile).%0A%0A9%20panelli%20profesyonel%20bir%203x3%20sinematik%20storyboard%20%C4%B1zgaras%C4%B1.%0AIzgara%2C%20giri%C5%9F%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCndeki%20belirli%20konuyu%2Fsahneyi%20tam%20bir%20odak%20uzakl%C4%B1%C4%9F%C4%B1%20aral%C4%B1%C4%9F%C4%B1nda%20sunar.%0A%C3%9Cst%20s%C4%B1ra%3A%20geni%C5%9F%20%C3%A7evresel%20%C3%A7ekim%2C%20tam%20g%C3%B6r%C3%BCn%C3%BCm%2C%203%2F4%20k%C4%B1rpma%20(dizlerin%20%C3%BCzeri).%0AOrta%20s%C4%B1ra%3A%20belden%20yukar%C4%B1%20g%C3%B6r%C3%BCn%C3%BCm%2C%20g%C3%B6%C4%9F%C3%BCsten%20yukar%C4%B1%20g%C3%B6r%C3%BCn%C3%BCm%2C%20y%C3%BCz%2F%C3%B6n%20yak%C4%B1n%20%C3%A7ekim.%0AAlt%20s%C4%B1ra%3A%20makro%20detaylar%2C%20al%C3%A7ak%20a%C3%A7%C4%B1%2C%20y%C3%BCksek%20a%C3%A7%C4%B1.%0AT%C3%BCm%20kareler%20fotoger%C3%A7ek%C3%A7i%20dokulara%2C%20tutarl%C4%B1%20sinematik%20renk%20derecelendirmesine%20ve%20analiz%20edilen%20konular%C4%B1n%20veya%20nesnelerin%20say%C4%B1s%C4%B1%20ve%20t%C3%BCr%C3%BC%20i%C3%A7in%20do%C4%9Fru%20kompozisyona%20sahip%20olmal%C4%B1d%C4%B1r.)**
+
+---
+
+### No. 15: Görseller ve Diyagramlar için YAML İstemi Dönüştürme
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+Nano Banana Pro için, modele verilen görseli, fotoğrafı veya diyagramı boyut ve detaylar dahil olmak üzere yapılandırılmış bir YAML istemine dönüştürmesini ve bunu bir kod bloğu içinde çıktı olarak vermesini söyleyen bir talimat istemi.
+
+#### 📝 İstem
+
+```
+Bunu, görsel boyutu ve tüm görsel ayrıntıları içeren bir YAML istemine dönüştürün ve bir kod kutusunun içine çıktı olarak verin.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577566138_041vou_G67R84uaoAAb33m.jpg" width="600" alt="Görseller ve Diyagramlar için YAML İstemi Dönüştürme - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [テツメモ｜AI図解×検証｜Newsletter](https://x.com/tetumemo)
+- **Kaynak:** [Twitter Post](https://x.com/tetumemo/status/1994765066198290751)
+- **Yayınlandı:** 29 Kasım 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bunu%2C%20g%C3%B6rsel%20boyutu%20ve%20t%C3%BCm%20g%C3%B6rsel%20ayr%C4%B1nt%C4%B1lar%C4%B1%20i%C3%A7eren%20bir%20YAML%20istemine%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn%20ve%20bir%20kod%20kutusunun%20i%C3%A7ine%20%C3%A7%C4%B1kt%C4%B1%20olarak%20verin.)**
+
+---
+
+### No. 16: Referansla eşleşen kadın portresi JSON istemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Bir kadını referans görseldekiyle tamamen aynı şekilde yeniden yaratmaya odaklanmış, %100 yüz özelliği ve kemik yapısı eşleşmesiyle kimliğini koruyan Nano Banana Pro JSON tarzı bir istem.
+
+#### 📝 İstem
+
+```
+{
+  "image_description": {
+    "identity": {
+      "preserve_face": true,
+      "reference_match": true,
+      "description": "Kadını referans görselde gösterildiği gibi, %100 aynı yüz hatları ve kemik yapısıyla birebir yeniden oluşturun."
+    }
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577187204_54fdgj_G66s0h2bkAIW6PV.jpg" width="600" alt="Referansla eşleşen kadın portresi JSON istemi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Eyisha Zyer](https://x.com/eyishazyer)
+- **Kaynak:** [Twitter Post](https://x.com/eyishazyer/status/1994724289623593011)
+- **Yayınlandı:** 29 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_description%22%3A%20%7B%0A%20%20%20%20%22identity%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_face%22%3A%20true%2C%0A%20%20%20%20%20%20%22reference_match%22%3A%20true%2C%0A%20%20%20%20%20%20%22description%22%3A%20%22Kad%C4%B1n%C4%B1%20referans%20g%C3%B6rselde%20g%C3%B6sterildi%C4%9Fi%20gibi%2C%20%25100%20ayn%C4%B1%20y%C3%BCz%20hatlar%C4%B1%20ve%20kemik%20yap%C4%B1s%C4%B1yla%20birebir%20yeniden%20olu%C5%9Fturun.%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 17: Referans görüntülü ultra gerçekçi portre JSON istemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Yüksek referans doğruluğu kullanarak bir referans fotoğrafın yüzüne ve kıyafetine kesinlikle uyan ultra gerçekçi portreler için bir Nano Banana Pro JSON istem yapılandırması.
+
+#### 📝 İstem
+
+```
+{
+  "project": "{argument name=\"project name\" default=\"Ultra-Realistic Portrait\"}",
+  "reference_settings": {
+    "use_reference_image": true,
+    "fidelity_strength": "{argument name=\"fidelity strength\" default=\"100%\"}",
+    "instruction": "Yüz ve kıyafet, referans fotoğrafla %100 eşleşmeli ve kesinlikle hiçbir değişiklik yapılmamalıdır."
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="Referans görüntülü ultra gerçekçi portre JSON istemi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Alejo](https://x.com/ecommartinez)
+- **Kaynak:** [Twitter Post](https://x.com/ecommartinez/status/1994722200394633230)
+- **Yayınlandı:** 29 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22%7Bargument%20name%3D%5C%22project%20name%5C%22%20default%3D%5C%22Ultra-Realistic%20Portrait%5C%22%7D%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22%7Bargument%20name%3D%5C%22fidelity%20strength%5C%22%20default%3D%5C%22100%25%5C%22%7D%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22Y%C3%BCz%20ve%20k%C4%B1yafet%2C%20referans%20foto%C4%9Frafla%20%25100%20e%C5%9Fle%C5%9Fmeli%20ve%20kesinlikle%20hi%C3%A7bir%20de%C4%9Fi%C5%9Fiklik%20yap%C4%B1lmamal%C4%B1d%C4%B1r.%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 18: Eski fotoğrafları modern portrelere dönüştürmek için Nano Banana Pro istemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Eski bir fotoğrafı, orijinal poz ve ifadeyi koruyarak modern, yüksek kaliteli bir dijital portreye dönüştürmek için Nano Banana Pro kullanımına yönelik ayrıntılı bir İngilizce-Çince istem çifti. Güncel renkler ve stilin yanı sıra orijinal görüntüye yüksek benzerlik istediğiniz fotoğraf restorasyon iş akışları için harika.
+
+#### 📝 İstem
+
+```
+Görseli canlı, güncellenmiş renklere, pürüzsüz ve gerçekçi cilt dokularına ve doğal ışıklandırmaya sahip modern, yüksek kaliteli bir dijital portreye dönüştürün. Orijinal pozun ve ifadenin özgünlüğünü koruyarak kıyafeti ve arka planı temiz, modern bir estetiğe yükseltin.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="Eski fotoğrafları modern portrelere dönüştürmek için Nano Banana Pro istemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="Eski fotoğrafları modern portrelere dönüştürmek için Nano Banana Pro istemi - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="Eski fotoğrafları modern portrelere dönüştürmek için Nano Banana Pro istemi - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="Eski fotoğrafları modern portrelere dönüştürmek için Nano Banana Pro istemi - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [苍何](https://x.com/canghecode)
+- **Kaynak:** [Twitter Post](https://x.com/canghecode/status/1994693495421112739)
+- **Yayınlandı:** 29 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=G%C3%B6rseli%20canl%C4%B1%2C%20g%C3%BCncellenmi%C5%9F%20renklere%2C%20p%C3%BCr%C3%BCzs%C3%BCz%20ve%20ger%C3%A7ek%C3%A7i%20cilt%20dokular%C4%B1na%20ve%20do%C4%9Fal%20%C4%B1%C5%9F%C4%B1kland%C4%B1rmaya%20sahip%20modern%2C%20y%C3%BCksek%20kaliteli%20bir%20dijital%20portreye%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn.%20Orijinal%20pozun%20ve%20ifadenin%20%C3%B6zg%C3%BCnl%C3%BC%C4%9F%C3%BCn%C3%BC%20koruyarak%20k%C4%B1yafeti%20ve%20arka%20plan%C4%B1%20temiz%2C%20modern%20bir%20esteti%C4%9Fe%20y%C3%BCkseltin.)**
+
+---
+
+### No. 19: Bir görselden siyah beyaz storyboard'lar oluşturun
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+Yüklenen bir görüntüyü alıp hikayenin duygusal özünü ve gerilimini yaklaşık dört panelde yakalayan siyah beyaz storyboard kareleri dizisi oluşturan bir Nano Banana Pro istemi.
+
+#### 📝 İstem
+
+```
+Yüklenen görsele dayanarak, hikayenin ana sahnelerini tasvir eden siyah beyaz storyboard kareleri dizisi oluşturun.
+Her karede, hikayenin duygusal akışını ve gerilimini ifade etmek için aşağıdaki öğeleri ayrıntılı olarak açıklayın:
+Toplamda yaklaşık dört panel.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577554408_2kooiv_G61QpVVbMAAB7Jl.jpg" width="600" alt="Bir görselden siyah beyaz storyboard'lar oluşturun - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577557466_nw8fne_G61QqlsbcAAbOMW.jpg" width="600" alt="Bir görselden siyah beyaz storyboard'lar oluşturun - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Wondershare UniConverter｜動画変換・圧縮・補正オールインワンソフト](https://x.com/UniConverterJP)
+- **Kaynak:** [Twitter Post](https://x.com/UniConverterJP/status/1994666889491222818)
+- **Yayınlandı:** 29 Kasım 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Y%C3%BCklenen%20g%C3%B6rsele%20dayanarak%2C%20hikayenin%20ana%20sahnelerini%20tasvir%20eden%20siyah%20beyaz%20storyboard%20kareleri%20dizisi%20olu%C5%9Fturun.%0AHer%20karede%2C%20hikayenin%20duygusal%20ak%C4%B1%C5%9F%C4%B1n%C4%B1%20ve%20gerilimini%20ifade%20etmek%20i%C3%A7in%20a%C5%9Fa%C4%9F%C4%B1daki%20%C3%B6%C4%9Feleri%20ayr%C4%B1nt%C4%B1l%C4%B1%20olarak%20a%C3%A7%C4%B1klay%C4%B1n%3A%0AToplamda%20yakla%C5%9F%C4%B1k%20d%C3%B6rt%20panel.)**
+
+---
+
+### No. 20: Referans bir kişi kullanarak Cheki tarzı idol fotoğrafı istemi
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Sağlanan bir kişi görüntüsüne dayalı olarak idol tarzı cheki fotoğrafları oluşturmak için bir Nano Banana Pro istemi; burada şablonun içine konunun adını eklersiniz.
+
+#### 📝 İstem
+
+```
+Lütfen ekteki görseldeki kişiyi kullanın. Adı {argument name="name" default="[adınız]"} şeklindedir.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577574244_ebjxyq_G6520uubcAAaYhr.jpg" width="600" alt="Referans bir kişi kullanarak Cheki tarzı idol fotoğrafı istemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577577700_hnylyz_G6520vVbkAIuuyN.jpg" width="600" alt="Referans bir kişi kullanarak Cheki tarzı idol fotoğrafı istemi - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577580224_8yiwvi_G6520yzacAArjn8.jpg" width="600" alt="Referans bir kişi kullanarak Cheki tarzı idol fotoğrafı istemi - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577582701_dm8cld_G65204EbkAAiP6E.jpg" width="600" alt="Referans bir kişi kullanarak Cheki tarzı idol fotoğrafı istemi - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Shi-on🎀AI沼](https://x.com/cheese_ai07)
+- **Kaynak:** [Twitter Post](https://x.com/cheese_ai07/status/1994662338608161086)
+- **Yayınlandı:** 29 Kasım 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=L%C3%BCtfen%20ekteki%20g%C3%B6rseldeki%20ki%C5%9Fiyi%20kullan%C4%B1n.%20Ad%C4%B1%20%7Bargument%20name%3D%22name%22%20default%3D%22%5Bad%C4%B1n%C4%B1z%5D%22%7D%20%C5%9Feklindedir.)**
+
+---
+
+### No. 21: Nano Banana Pro için fütüristik cam morfoz PPT tasarım istemi
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Sizi uzman bir UI/UX slayt tasarımcısına dönüştüren, Apple Keynote ve modern SaaS tasarımından ilham alan, yüksek kaliteli, fütüristik cam morfüzme tarzında 16:9 sunumlar oluşturan ayrıntılı bir PPT oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Uzman seviyesinde bir UI/UX sunum tasarımcısısınız. Yüksek kaliteli, fütüristik 16:9 sunum slaytları oluşturun. Görsel denge ve estetik ilkelerine dayanarak, bir kapak, ızgara düzeni veya veri görselleştirmesi arasından en mükemmel kompozisyonu otomatik olarak seçin.
+
+Küresel görsel dil için stil, Apple Keynote minimalizmini, modern SaaS ürün tasarımını ve glassmorphism'i sorunsuz bir şekilde harmanlamalıdır. Genel ruh hali üst düzey, sürükleyici, temiz ve ferahlatıcı olmalıdır. Sinematik hacimsel aydınlatma, yumuşak ışın izlemeli yansımalar ve ortam tıkanıklığı kullanın. Renk şeması, temel olarak {argument name="base color" default="derin boşluk siyahı veya saf seramik beyazı"} kullanmalı, arka plan ve UI vurguları için {argument name="gradient accent colors" default="neon moru, elektrik mavisi, yumuşak mercan turuncusu, camgöbeği"} gibi akıcı aurora gradyanlarıyla vurgulanmalıdır.
+
+Görsellerdeki içerik modülleri için aşağıdaki öğeleri akıllıca entegre edin:
+
+1. İçeriği modüler yuvarlak köşeli dikdörtgen kapsayıcılara düzenleyen bir bento kutusu ızgara sistemi kullanın. Kapsayıcılar, bulanıklık, narin beyaz kenarlıklar ve yumuşak gölgeler içeren buzlu cam malzemeye sahip olmalı ve kalabalığı önlemek için geniş iç boşlukları korumalıdır.
+
+2. Lüks hediye benzeri bir dokuya sahip 3D nesneler ekleyin, görsel çapa olarak benzersiz üst düzey soyut 3D parçalar oluşturun. Görünümleri, {argument name="3D object materials" default="cilalı metal, yanardöner akrilik, şeffaf cam veya yumuşak silikon"} gibi malzemelerle ve {argument name="3D object shapes" default="yüzen kapsüller, küreler, kalkanlar, Möbius şeritleri veya akışkan dalgalar"} gibi şekillerle pahalı fiziksel hediyeleri veya koleksiyonluk eşyaları andırmalıdır.
+
+3. Tipografi ve veriler için yüksek kontrastlı temiz sans-serif yazı tipleri kullanın. Grafikler varsa, parlayan 3D donut grafikler, kapsül şeklinde ilerleme çubukları veya yüzen rakamlar kullanın ve grafikleri parlayan neon oyuncaklar gibi gösterin.
+
+Kompozisyon mantığı referansı: Bir kapak slaytı oluşturuluyorsa, ortaya büyük, karmaşık bir 3D cam nesne yerleştirin, üzerine kalın büyük metinler ekleyin ve arka planda aurora dalgalarını uzatın. Bir içerik slaytı oluşturuluyorsa, bento ızgara düzeni kullanın, küçük kartlara 3D simgeler ve büyük kartlara metin yerleştirin. Bir veri slaytı oluşturuluyorsa, bölünmüş ekran düzeni kullanın: metin solda düzenlenmiş, sağda ise büyük yüzen parlayan bir 3D veri görselleştirme grafiği.
+
+Render gereksinimleri: Unreal Engine 5 render, 8K çözünürlük, ultra detaylı dokular, güçlü UI tasarım anlayışı, UX arayüz kalitesi, Dribbble'da trend olan, ödüllü tasarım çalışması.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg" width="600" alt="Nano Banana Pro için fütüristik cam morfoz PPT tasarım istemi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [歸藏(guizang.ai)](https://x.com/op7418)
+- **Kaynak:** [Twitter Post](https://x.com/op7418/status/1994640215160287637)
+- **Yayınlandı:** 29 Kasım 2025
+- **Diller:** zh
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Uzman%20seviyesinde%20bir%20UI%2FUX%20sunum%20tasar%C4%B1mc%C4%B1s%C4%B1s%C4%B1n%C4%B1z.%20Y%C3%BCksek%20kaliteli%2C%20f%C3%BCt%C3%BCristik%2016%3A9%20sunum%20slaytlar%C4%B1%20olu%C5%9Fturun.%20G%C3%B6rsel%20denge%20ve%20estetik%20ilkelerine%20dayanarak%2C%20bir%20kapak%2C%20%C4%B1zgara%20d%C3%BCzeni%20veya%20veri%20g%C3%B6rselle%C5%9Ftirmesi%20aras%C4%B1ndan%20en%20m%C3%BCkemmel%20kompozisyonu%20otomatik%20olarak%20se%C3%A7in.%0A%0AK%C3%BCresel%20g%C3%B6rsel%20dil%20i%C3%A7in%20stil%2C%20Apple%20Keynote%20minimalizmini%2C%20modern%20SaaS%20%C3%BCr%C3%BCn%20tasar%C4%B1m%C4%B1n%C4%B1%20ve%20glassmorphism'i%20sorunsuz%20bir%20%C5%9Fekilde%20harmanlamal%C4%B1d%C4%B1r.%20Genel%20ruh%20hali%20%C3%BCst%20d%C3%BCzey%2C%20s%C3%BCr%C3%BCkleyici%2C%20temiz%20ve%20ferahlat%C4%B1c%C4%B1%20olmal%C4%B1d%C4%B1r.%20Sinematik%20hacimsel%20ayd%C4%B1nlatma%2C%20yumu%C5%9Fak%20%C4%B1%C5%9F%C4%B1n%20izlemeli%20yans%C4%B1malar%20ve%20ortam%20t%C4%B1kan%C4%B1kl%C4%B1%C4%9F%C4%B1%20kullan%C4%B1n.%20Renk%20%C5%9Femas%C4%B1%2C%20temel%20olarak%20%7Bargument%20name%3D%22base%20color%22%20default%3D%22derin%20bo%C5%9Fluk%20siyah%C4%B1%20veya%20saf%20seramik%20beyaz%C4%B1%22%7D%20kullanmal%C4%B1%2C%20arka%20plan%20ve%20UI%20vurgular%C4%B1%20i%C3%A7in%20%7Bargument%20name%3D%22gradient%20accent%20colors%22%20default%3D%22neon%20moru%2C%20elektrik%20mavisi%2C%20yumu%C5%9Fak%20mercan%20turuncusu%2C%20camg%C3%B6be%C4%9Fi%22%7D%20gibi%20ak%C4%B1c%C4%B1%20aurora%20gradyanlar%C4%B1yla%20vurgulanmal%C4%B1d%C4%B1r.%0A%0AG%C3%B6rsellerdeki%20i%C3%A7erik%20mod%C3%BClleri%20i%C3%A7in%20a%C5%9Fa%C4%9F%C4%B1daki%20%C3%B6%C4%9Feleri%20ak%C4%B1ll%C4%B1ca%20entegre%20edin%3A%0A%0A1.%20%C4%B0%C3%A7eri%C4%9Fi%20mod%C3%BCler%20yuvarlak%20k%C3%B6%C5%9Feli%20dikd%C3%B6rtgen%20kapsay%C4%B1c%C4%B1lara%20d%C3%BCzenleyen%20bir%20bento%20kutusu%20%C4%B1zgara%20sistemi%20kullan%C4%B1n.%20Kapsay%C4%B1c%C4%B1lar%2C%20bulan%C4%B1kl%C4%B1k%2C%20narin%20beyaz%20kenarl%C4%B1klar%20ve%20yumu%C5%9Fak%20g%C3%B6lgeler%20i%C3%A7eren%20buzlu%20cam%20malzemeye%20sahip%20olmal%C4%B1%20ve%20kalabal%C4%B1%C4%9F%C4%B1%20%C3%B6nlemek%20i%C3%A7in%20geni%C5%9F%20i%C3%A7%20bo%C5%9Fluklar%C4%B1%20korumal%C4%B1d%C4%B1r.%0A%0A2.%20L%C3%BCks%20hediye%20benzeri%20bir%20dokuya%20sahip%203D%20nesneler%20ekleyin%2C%20g%C3%B6rsel%20%C3%A7apa%20olarak%20benzersiz%20%C3%BCst%20d%C3%BCzey%20soyut%203D%20par%C3%A7alar%20olu%C5%9Fturun.%20G%C3%B6r%C3%BCn%C3%BCmleri%2C%20%7Bargument%20name%3D%223D%20object%20materials%22%20default%3D%22cilal%C4%B1%20metal%2C%20yanard%C3%B6ner%20akrilik%2C%20%C5%9Feffaf%20cam%20veya%20yumu%C5%9Fak%20silikon%22%7D%20gibi%20malzemelerle%20ve%20%7Bargument%20name%3D%223D%20object%20shapes%22%20default%3D%22y%C3%BCzen%20kaps%C3%BCller%2C%20k%C3%BCreler%2C%20kalkanlar%2C%20M%C3%B6bius%20%C5%9Feritleri%20veya%20ak%C4%B1%C5%9Fkan%20dalgalar%22%7D%20gibi%20%C5%9Fekillerle%20pahal%C4%B1%20fiziksel%20hediyeleri%20veya%20koleksiyonluk%20e%C5%9Fyalar%C4%B1%20and%C4%B1rmal%C4%B1d%C4%B1r.%0A%0A3.%20Tipografi%20ve%20veriler%20i%C3%A7in%20y%C3%BCksek%20kontrastl%C4%B1%20temiz%20sans-serif%20yaz%C4%B1%20tipleri%20kullan%C4%B1n.%20Grafikler%20varsa%2C%20parlayan%203D%20donut%20grafikler%2C%20kaps%C3%BCl%20%C5%9Feklinde%20ilerleme%20%C3%A7ubuklar%C4%B1%20veya%20y%C3%BCzen%20rakamlar%20kullan%C4%B1n%20ve%20grafikleri%20parlayan%20neon%20oyuncaklar%20gibi%20g%C3%B6sterin.%0A%0AKompozisyon%20mant%C4%B1%C4%9F%C4%B1%20referans%C4%B1%3A%20Bir%20kapak%20slayt%C4%B1%20olu%C5%9Fturuluyorsa%2C%20ortaya%20b%C3%BCy%C3%BCk%2C%20karma%C5%9F%C4%B1k%20bir%203D%20cam%20nesne%20yerle%C5%9Ftirin%2C%20%C3%BCzerine%20kal%C4%B1n%20b%C3%BCy%C3%BCk%20metinler%20ekleyin%20ve%20arka%20planda%20aurora%20dalgalar%C4%B1n%C4%B1%20uzat%C4%B1n.%20Bir%20i%C3%A7erik%20slayt%C4%B1%20olu%C5%9Fturuluyorsa%2C%20bento%20%C4%B1zgara%20d%C3%BCzeni%20kullan%C4%B1n%2C%20k%C3%BC%C3%A7%C3%BCk%20kartlara%203D%20simgeler%20ve%20b%C3%BCy%C3%BCk%20kartlara%20metin%20yerle%C5%9Ftirin.%20Bir%20veri%20slayt%C4%B1%20olu%C5%9Fturuluyorsa%2C%20b%C3%B6l%C3%BCnm%C3%BC%C5%9F%20ekran%20d%C3%BCzeni%20kullan%C4%B1n%3A%20metin%20solda%20d%C3%BCzenlenmi%C5%9F%2C%20sa%C4%9Fda%20ise%20b%C3%BCy%C3%BCk%20y%C3%BCzen%20parlayan%20bir%203D%20veri%20g%C3%B6rselle%C5%9Ftirme%20grafi%C4%9Fi.%0A%0ARender%20gereksinimleri%3A%20Unreal%20Engine%205%20render%2C%208K%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCk%2C%20ultra%20detayl%C4%B1%20dokular%2C%20g%C3%BC%C3%A7l%C3%BC%20UI%20tasar%C4%B1m%20anlay%C4%B1%C5%9F%C4%B1%2C%20UX%20aray%C3%BCz%20kalitesi%2C%20Dribbble'da%20trend%20olan%2C%20%C3%B6d%C3%BCll%C3%BC%20tasar%C4%B1m%20%C3%A7al%C4%B1%C5%9Fmas%C4%B1.)**
+
+---
+
+### No. 22: Enerji alanı bariyeri VFX ve poz ayarlaması YAML istemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Bir karakterin pozunu her iki kolunu da ileri uzatacak şekilde değiştiren ve ellerinin önüne eş merkezli sekizgen enerji alanı bariyerleri ekleyen, tüm orijinal karakter ve arka plan ayrıntılarını koruyan ayrıntılı bir YAML Nano Banana Pro istemi.
+
+#### 📝 İstem
+
+```
+task: "poz-ve-bariyer-vfx"
+
+reference_image:
+  keep_original: true
+
+subject:
+  keep_character_design: true
+
+rules:
+  - karakterin yüzünü, ifadesini, saç stilini, anatomisini veya oranlarını değiştirmeyin
+  - kıyafeti, renkleri, çizgi sanatını veya sanat stilini değiştirmeyin
+  - arka planı, kompozisyonu, gölgelendirmeyi veya aydınlatmayı değiştirmeyin
+  - tüm değişiklikler yalnızca tanımlanmış adımlar aracılığıyla gerçekleşir
+
+steps:
+
+  - step: "poz-ayarlaması"
+    action:
+      - her iki kolu da izleyiciye doğru ileri uzatın
+      - her iki avuç içini de doğrudan kameraya bakacak şekilde döndürün
+      - parmaklar doğal olarak açık
+    constraints:
+      forbidden:
+        - yüz ifadesini değiştirmek
+        - kıyafeti değiştirmek
+        - sahne donanımı veya yeni öğeler eklemek
+        - parlama veya VFX eklemek
+
+  - step: "enerji-bariyeri-vfx"
+    vfx:
+      type: "eşmerkezli-sekizgen-bariyer"
+      placement: "her iki avuç içinin önünde"
+
+      geometry:
+        shape: "düzgün sekizgen"
+        structure: "çoklu eşmerkezli sekizgen yüzeyler"
+        alignment:
+          - tüm yüzeyler aynı merkezi paylaşır
+          - tüm yüzeyler kamera düzlemine paraleldir
+          - eğrilik veya küresel bozulma yok
+        forbidden:
+          - yalnızca ana hat şekilleri
+          - içi boş çerçeveler
+          - altıgen şekiller
+          - kubbeli veya çarpık yüzeyler
+
+      surface:
+        fill: "merkezden-kenara radyal gradyan"
+        colors:
+          center: "beyaz-sarı"
+          mid: "turuncu-altın"
+          edge: "şeffaf turuncu"
+        glow:
+          - güçlü merkez parlaklığı
+          - yumuşak parlama
+          - kırılma parıltısı
+        opacity: "yarı-şeffaf"
+
+      layering:
+        count: {argument name="bariyer katmanlarının sayısı" default="8"}
+        direction: "öne doğru yığılmış"
+
+  - step: "metin-katmanı"
+    text:
+      content: "Prompt by てんねん@ munou_ac"
+      position: "sol-alt"
+      font_color: "beyaz"
+      font_size: "küçük"
+      opacity: "0.9"
+
+composition:
+  camera:
+    angle: "önden"
+    distance: "orta çekim"
+    focus: "eller ve bariyer yüzeyi"
+  lighting:
+    keep_original: true
+  placement:
+    barrier_position: "her iki avuç içinin ortasında"
+    size: "büyük ön bariyer"
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577540773_v85176_G64gFJzbkAQpKL2.jpg" width="600" alt="Enerji alanı bariyeri VFX ve poz ayarlaması YAML istemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577543806_hhuvsz_G64gKH-bkAQsjS9.jpg" width="600" alt="Enerji alanı bariyeri VFX ve poz ayarlaması YAML istemi - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [てんねん](https://x.com/munou_ac)
+- **Kaynak:** [Twitter Post](https://x.com/munou_ac/status/1994567138384994796)
+- **Yayınlandı:** 29 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=task%3A%20%22poz-ve-bariyer-vfx%22%0A%0Areference_image%3A%0A%20%20keep_original%3A%20true%0A%0Asubject%3A%0A%20%20keep_character_design%3A%20true%0A%0Arules%3A%0A%20%20-%20karakterin%20y%C3%BCz%C3%BCn%C3%BC%2C%20ifadesini%2C%20sa%C3%A7%20stilini%2C%20anatomisini%20veya%20oranlar%C4%B1n%C4%B1%20de%C4%9Fi%C5%9Ftirmeyin%0A%20%20-%20k%C4%B1yafeti%2C%20renkleri%2C%20%C3%A7izgi%20sanat%C4%B1n%C4%B1%20veya%20sanat%20stilini%20de%C4%9Fi%C5%9Ftirmeyin%0A%20%20-%20arka%20plan%C4%B1%2C%20kompozisyonu%2C%20g%C3%B6lgelendirmeyi%20veya%20ayd%C4%B1nlatmay%C4%B1%20de%C4%9Fi%C5%9Ftirmeyin%0A%20%20-%20t%C3%BCm%20de%C4%9Fi%C5%9Fiklikler%20yaln%C4%B1zca%20tan%C4%B1mlanm%C4%B1%C5%9F%20ad%C4%B1mlar%20arac%C4%B1l%C4%B1%C4%9F%C4%B1yla%20ger%C3%A7ekle%C5%9Fir%0A%0Asteps%3A%0A%0A%20%20-%20step%3A%20%22poz-ayarlamas%C4%B1%22%0A%20%20%20%20action%3A%0A%20%20%20%20%20%20-%20her%20iki%20kolu%20da%20izleyiciye%20do%C4%9Fru%20ileri%20uzat%C4%B1n%0A%20%20%20%20%20%20-%20her%20iki%20avu%C3%A7%20i%C3%A7ini%20de%20do%C4%9Frudan%20kameraya%20bakacak%20%C5%9Fekilde%20d%C3%B6nd%C3%BCr%C3%BCn%0A%20%20%20%20%20%20-%20parmaklar%20do%C4%9Fal%20olarak%20a%C3%A7%C4%B1k%0A%20%20%20%20constraints%3A%0A%20%20%20%20%20%20forbidden%3A%0A%20%20%20%20%20%20%20%20-%20y%C3%BCz%20ifadesini%20de%C4%9Fi%C5%9Ftirmek%0A%20%20%20%20%20%20%20%20-%20k%C4%B1yafeti%20de%C4%9Fi%C5%9Ftirmek%0A%20%20%20%20%20%20%20%20-%20sahne%20donan%C4%B1m%C4%B1%20veya%20yeni%20%C3%B6%C4%9Feler%20eklemek%0A%20%20%20%20%20%20%20%20-%20parlama%20veya%20VFX%20eklemek%0A%0A%20%20-%20step%3A%20%22enerji-bariyeri-vfx%22%0A%20%20%20%20vfx%3A%0A%20%20%20%20%20%20type%3A%20%22e%C5%9Fmerkezli-sekizgen-bariyer%22%0A%20%20%20%20%20%20placement%3A%20%22her%20iki%20avu%C3%A7%20i%C3%A7inin%20%C3%B6n%C3%BCnde%22%0A%0A%20%20%20%20%20%20geometry%3A%0A%20%20%20%20%20%20%20%20shape%3A%20%22d%C3%BCzg%C3%BCn%20sekizgen%22%0A%20%20%20%20%20%20%20%20structure%3A%20%22%C3%A7oklu%20e%C5%9Fmerkezli%20sekizgen%20y%C3%BCzeyler%22%0A%20%20%20%20%20%20%20%20alignment%3A%0A%20%20%20%20%20%20%20%20%20%20-%20t%C3%BCm%20y%C3%BCzeyler%20ayn%C4%B1%20merkezi%20payla%C5%9F%C4%B1r%0A%20%20%20%20%20%20%20%20%20%20-%20t%C3%BCm%20y%C3%BCzeyler%20kamera%20d%C3%BCzlemine%20paraleldir%0A%20%20%20%20%20%20%20%20%20%20-%20e%C4%9Frilik%20veya%20k%C3%BCresel%20bozulma%20yok%0A%20%20%20%20%20%20%20%20forbidden%3A%0A%20%20%20%20%20%20%20%20%20%20-%20yaln%C4%B1zca%20ana%20hat%20%C5%9Fekilleri%0A%20%20%20%20%20%20%20%20%20%20-%20i%C3%A7i%20bo%C5%9F%20%C3%A7er%C3%A7eveler%0A%20%20%20%20%20%20%20%20%20%20-%20alt%C4%B1gen%20%C5%9Fekiller%0A%20%20%20%20%20%20%20%20%20%20-%20kubbeli%20veya%20%C3%A7arp%C4%B1k%20y%C3%BCzeyler%0A%0A%20%20%20%20%20%20surface%3A%0A%20%20%20%20%20%20%20%20fill%3A%20%22merkezden-kenara%20radyal%20gradyan%22%0A%20%20%20%20%20%20%20%20colors%3A%0A%20%20%20%20%20%20%20%20%20%20center%3A%20%22beyaz-sar%C4%B1%22%0A%20%20%20%20%20%20%20%20%20%20mid%3A%20%22turuncu-alt%C4%B1n%22%0A%20%20%20%20%20%20%20%20%20%20edge%3A%20%22%C5%9Feffaf%20turuncu%22%0A%20%20%20%20%20%20%20%20glow%3A%0A%20%20%20%20%20%20%20%20%20%20-%20g%C3%BC%C3%A7l%C3%BC%20merkez%20parlakl%C4%B1%C4%9F%C4%B1%0A%20%20%20%20%20%20%20%20%20%20-%20yumu%C5%9Fak%20parlama%0A%20%20%20%20%20%20%20%20%20%20-%20k%C4%B1r%C4%B1lma%20par%C4%B1lt%C4%B1s%C4%B1%0A%20%20%20%20%20%20%20%20opacity%3A%20%22yar%C4%B1-%C5%9Feffaf%22%0A%0A%20%20%20%20%20%20layering%3A%0A%20%20%20%20%20%20%20%20count%3A%20%7Bargument%20name%3D%22bariyer%20katmanlar%C4%B1n%C4%B1n%20say%C4%B1s%C4%B1%22%20default%3D%228%22%7D%0A%20%20%20%20%20%20%20%20direction%3A%20%22%C3%B6ne%20do%C4%9Fru%20y%C4%B1%C4%9F%C4%B1lm%C4%B1%C5%9F%22%0A%0A%20%20-%20step%3A%20%22metin-katman%C4%B1%22%0A%20%20%20%20text%3A%0A%20%20%20%20%20%20content%3A%20%22Prompt%20by%20%E3%81%A6%E3%82%93%E3%81%AD%E3%82%93%40%20munou_ac%22%0A%20%20%20%20%20%20position%3A%20%22sol-alt%22%0A%20%20%20%20%20%20font_color%3A%20%22beyaz%22%0A%20%20%20%20%20%20font_size%3A%20%22k%C3%BC%C3%A7%C3%BCk%22%0A%20%20%20%20%20%20opacity%3A%20%220.9%22%0A%0Acomposition%3A%0A%20%20camera%3A%0A%20%20%20%20angle%3A%20%22%C3%B6nden%22%0A%20%20%20%20distance%3A%20%22orta%20%C3%A7ekim%22%0A%20%20%20%20focus%3A%20%22eller%20ve%20bariyer%20y%C3%BCzeyi%22%0A%20%20lighting%3A%0A%20%20%20%20keep_original%3A%20true%0A%20%20placement%3A%0A%20%20%20%20barrier_position%3A%20%22her%20iki%20avu%C3%A7%20i%C3%A7inin%20ortas%C4%B1nda%22%0A%20%20%20%20size%3A%20%22b%C3%BCy%C3%BCk%20%C3%B6n%20bariyer%22)**
+
+---
+
+### No. 23: Ürün eskizinden son oluşturma istemine
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Kaba bir ürün eskizini, orijinal oranlarını korurken belirli malzemeler ve aydınlatma ile temiz, seri üretim tarzında bir render'a dönüştürmek için bir istem.
+
+#### 📝 İstem
+
+```
+Bu taslağı nihai, seri üretilmiş bir ürün olarak render'la. Stüdyo aydınlatması, enjeksiyon kalıplı parlak beyaz plastik gövde, cilalı meşe sap, paslanmaz çelik damlama tepsisi. Dağınık taslağın tam oranlarını koru.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577197724_4u7hm0_6uEg00so5XfBLc7c.jpg" width="600" alt="Ürün eskizinden son oluşturma istemine - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Gadgetify](https://x.com/Gdgtify)
+- **Kaynak:** [Twitter Post](https://x.com/Gdgtify/status/1994487583125246021)
+- **Yayınlandı:** 28 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bu%20tasla%C4%9F%C4%B1%20nihai%2C%20seri%20%C3%BCretilmi%C5%9F%20bir%20%C3%BCr%C3%BCn%20olarak%20render'la.%20St%C3%BCdyo%20ayd%C4%B1nlatmas%C4%B1%2C%20enjeksiyon%20kal%C4%B1pl%C4%B1%20parlak%20beyaz%20plastik%20g%C3%B6vde%2C%20cilal%C4%B1%20me%C5%9Fe%20sap%2C%20paslanmaz%20%C3%A7elik%20damlama%20tepsisi.%20Da%C4%9F%C4%B1n%C4%B1k%20tasla%C4%9F%C4%B1n%20tam%20oranlar%C4%B1n%C4%B1%20koru.)**
+
+---
+
+### No. 24: Nano Banana Pro için Dikey Ultra Yüksek Detaylı Görüntü Kurulumu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Nano Banana Pro için uzun, dikey 8K tuval ve ultra yüksek detay belirten, JSON yapılandırma tarzında bir istem. Dikey çekimler için boyutları ve teknik kaliteyi tanımlayan, yeniden kullanılabilir bir temel istemdir.
+
+#### 📝 İstem
+
+```
+{
+  "image_info": {
+    "width": {argument name="image width" default="4096"},
+    "height": {argument name="image height" default="8192"},
+    "aspect_ratio": "{argument name="aspect ratio" default="1:2"}",
+    "orientation": "{argument name="orientation" default="vertical"}"
+  },
+
+  "technical": {
+    "resolution": "{argument name="resolution" default="8k"}",
+    "dimensions": "{argument name="dimensions" default="4096x8192 or higher"}",
+    "quality": "{argument name="quality" default="ultra high detail"}"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577532761_diywuf_G63J0rlbYAAVOje.jpg" width="600" alt="Nano Banana Pro için Dikey Ultra Yüksek Detaylı Görüntü Kurulumu - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577536218_wr8uh4_G63J1XKbkAEBch2.jpg" width="600" alt="Nano Banana Pro için Dikey Ultra Yüksek Detaylı Görüntü Kurulumu - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [tenso](https://x.com/distributedkv)
+- **Kaynak:** [Twitter Post](https://x.com/distributedkv/status/1994472225714647245)
+- **Yayınlandı:** 28 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_info%22%3A%20%7B%0A%20%20%20%20%22width%22%3A%20%7Bargument%20name%3D%22image%20width%22%20default%3D%224096%22%7D%2C%0A%20%20%20%20%22height%22%3A%20%7Bargument%20name%3D%22image%20height%22%20default%3D%228192%22%7D%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%22%7Bargument%20name%3D%22aspect%20ratio%22%20default%3D%221%3A2%22%7D%22%2C%0A%20%20%20%20%22orientation%22%3A%20%22%7Bargument%20name%3D%22orientation%22%20default%3D%22vertical%22%7D%22%0A%20%20%7D%2C%0A%0A%20%20%22technical%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22%7Bargument%20name%3D%22resolution%22%20default%3D%228k%22%7D%22%2C%0A%20%20%20%20%22dimensions%22%3A%20%22%7Bargument%20name%3D%22dimensions%22%20default%3D%224096x8192%20or%20higher%22%7D%22%2C%0A%20%20%20%20%22quality%22%3A%20%22%7Bargument%20name%3D%22quality%22%20default%3D%22ultra%20high%20detail%22%7D%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 25: Küçük metin testi istemi içeren ambalaj maketi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Nano Banana Pro'dan doğru etiketler ve talimatlarla bir bitki çayı kutusu ambalaj maketi oluşturmasını isteyerek küçük metin oluşturmayı ve derinlemesine muhakemeyi test etmek için kullanılan kısa bir İngilizce istemi.
+
+#### 📝 İstem
+
+```
+Bitkisel çay kutusu için, doğru besin etiketi, barkod ve küçük puntolu demleme talimatları içeren ambalaj maketi.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577541810_8jheny_G62kTkUaQAAzxY8.jpg" width="600" alt="Küçük metin testi istemi içeren ambalaj maketi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Nas](https://x.com/Nas_tech_AI)
+- **Kaynak:** [Twitter Post](https://x.com/Nas_tech_AI/status/1994430868975493199)
+- **Yayınlandı:** 28 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bitkisel%20%C3%A7ay%20kutusu%20i%C3%A7in%2C%20do%C4%9Fru%20besin%20etiketi%2C%20barkod%20ve%20k%C3%BC%C3%A7%C3%BCk%20puntolu%20demleme%20talimatlar%C4%B1%20i%C3%A7eren%20ambalaj%20maketi.)**
+
+---
+
+### No. 26: Katı fotogerçekçilik kısıtlamaları Nano Banana Pro'yu gerektiriyor
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Nano Banana Pro için katı proje kısıtlamalarını tanımlayan, saf fotogerçekçiliği, referanstan tam yüz korumasını ve ellerin bütünlüğünü zorunlu kılan bir JSON istemi. Bu, diğer istemlerde yeniden kullanabileceğiniz küresel bir kısıtlama bloğu olarak tasarlanmıştır.
+
+#### 📝 İstem
+
+```
+{
+  "project_constraints": {
+    "style": "{argument name=\"style\" default=\"yalnızca katı fotogerçekçilik, çizgi film yok, illüstrasyon yok, stilizasyon yok\"}",
+    "face_preservation": "{argument name=\"face preservation\" default=\"referanstan %100 orijinal insan yüzü, kimlik, ifade veya dokuda değişiklik yok\"}",
+    "hand_integrity": "{argument name=\"hand integrity\" default=\"eller anatomik olarak doğru olmalı, doğru sayıda parmak, doğal pozlar ve bozulma olmamalıdır\"}"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577530234_xt1e2y_G609phDaYAAwT-W.jpg" width="600" alt="Katı fotogerçekçilik kısıtlamaları Nano Banana Pro'yu gerektiriyor - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577533011_80mx1g_G609phBbAAAxC4b.jpg" width="600" alt="Katı fotogerçekçilik kısıtlamaları Nano Banana Pro'yu gerektiriyor - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [tenso](https://x.com/distributedkv)
+- **Kaynak:** [Twitter Post](https://x.com/distributedkv/status/1994317999147503924)
+- **Yayınlandı:** 28 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project_constraints%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%5C%22style%5C%22%20default%3D%5C%22yaln%C4%B1zca%20kat%C4%B1%20fotoger%C3%A7ek%C3%A7ilik%2C%20%C3%A7izgi%20film%20yok%2C%20ill%C3%BCstrasyon%20yok%2C%20stilizasyon%20yok%5C%22%7D%22%2C%0A%20%20%20%20%22face_preservation%22%3A%20%22%7Bargument%20name%3D%5C%22face%20preservation%5C%22%20default%3D%5C%22referanstan%20%25100%20orijinal%20insan%20y%C3%BCz%C3%BC%2C%20kimlik%2C%20ifade%20veya%20dokuda%20de%C4%9Fi%C5%9Fiklik%20yok%5C%22%7D%22%2C%0A%20%20%20%20%22hand_integrity%22%3A%20%22%7Bargument%20name%3D%5C%22hand%20integrity%5C%22%20default%3D%5C%22eller%20anatomik%20olarak%20do%C4%9Fru%20olmal%C4%B1%2C%20do%C4%9Fru%20say%C4%B1da%20parmak%2C%20do%C4%9Fal%20pozlar%20ve%20bozulma%20olmamal%C4%B1d%C4%B1r%5C%22%7D%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 27: Belirtilen GPS koordinatlarıyla fotoğrafları kötü gösterin
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Belirli bir enlem ve boylama göre bir fotoğrafın kalitesini ve gerçekçiliğini kasıtlı olarak düşürerek bulanık yüzler ve yansımalar gibi ürkütücü yapaylıklar üreten bir Nano Banana Pro görsel istemi.
+
+#### 📝 İstem
+
+```
+Bunu, enlem ve boylam {argument name="latitude and longitude" default="35.31721720077321"} olan bir yerde kötü çekilmiş bir anlık görüntü gibi göster.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577559103_scnta3_G602uKHa0AM1g0_.jpg" width="600" alt="Belirtilen GPS koordinatlarıyla fotoğrafları kötü gösterin - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577561703_3tn84b_G602yzga0AAZVnK.jpg" width="600" alt="Belirtilen GPS koordinatlarıyla fotoğrafları kötü gösterin - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577564067_2udq7q_G602z0_a0AMFYyd.jpg" width="600" alt="Belirtilen GPS koordinatlarıyla fotoğrafları kötü gösterin - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577567323_lh77bg_G603KzUa8AArCK0.jpg" width="600" alt="Belirtilen GPS koordinatlarıyla fotoğrafları kötü gösterin - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [空想写真家](https://x.com/KusoPhoto)
+- **Kaynak:** [Twitter Post](https://x.com/KusoPhoto/status/1994310947528429640)
+- **Yayınlandı:** 28 Kasım 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bunu%2C%20enlem%20ve%20boylam%20%7Bargument%20name%3D%22latitude%20and%20longitude%22%20default%3D%2235.31721720077321%22%7D%20olan%20bir%20yerde%20k%C3%B6t%C3%BC%20%C3%A7ekilmi%C5%9F%20bir%20anl%C4%B1k%20g%C3%B6r%C3%BCnt%C3%BC%20gibi%20g%C3%B6ster.)**
+
+---
+
+### No. 28: Verilen karakter ve hikayeden Moe tarzı tam renkli manga
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+Ekli karakterleri kullanarak tam renkli moe tarzı bir manga oluşturan, Japonca sağdan sola okuma sırasını, esnek panel düzenlerini uygulayan ve belirli değişiklikleri veya çıktıları yasaklayan, Japonca uzun biçimli bir Nano Banana Pro istemi.
+
+#### 📝 İstem
+
+```
+Ekteki karakteri kullanarak, moe tarzı çizim, yönlendirme ve yüz ifadelerini vurgulayan bir manga oluşturun.
+Japon manga formatında, panellerin sağdan sola ve yukarıdan aşağıya doğal bir şekilde okunabilmesi için panel düzenini bu şekilde yapın.
+Panellerin yerleşimi ve şekilleri serbesttir, ancak okuyucunun bakış akışı Japon okuma sırasını takip etmelidir.
+Tek tip bir düzen yerine, düzensiz veya serbestçe düzenlenmiş bir panel yapısı kullanın.
+Tam renkli bir manga olarak oluşturduğunuzdan emin olun.
+
+"Nano Banana Pro (Probanana) piyasaya sürülmesinin üzerinden bir hafta geçti.
+Durmaksızın test etmeye ve paylaşmaya devam ettikten sonra... +235 takipçi kazandım ve 450.000 gösterime ulaştım!
+
+Faydalı içerik paylaşma konusunda pek deneyimim yoktu, bu yüzden endişeliydim, ancak 'Paylaşımlarınız sayesinde XX yapabildim!' gibi birçok yorum aldım, bu da beni gerçekten cesaretlendirdi.
+Paylaştığım içeriği insanların yeni yöntemler ve örnekler oluşturmak için düzenlediğini her gördüğümde, bunu paylaştığım için gerçekten mutlu oluyorum.
+
+Eğer benim geçmişteki halim gibi, 'Bir şeyler paylaşmamın bir değeri var mı?' diye merak ediyorsanız, lütfen sadece bir adım ileri atın.
+Geçmişteki bilmeyen halinizi mutlu edecek bir bilgi bulduğunuzda, kısa bir gönderi bile olsa, lütfen paylaşın.
+O tek adım, bir başkasına ihtiyacı olan itici gücü verebilir."
+
+Yasaklananlar:
+・Soldan sağa veya aşağıdan yukarıya okunan düzenler
+・Karakterin farklı bir kişi gibi görünmesini sağlayan düzenlemeler
+・Referans karakterin özelliklerini diğer karakterlerin özellikleriyle değiştirmek
+・Konuşma çizgileri için İngilizce veya yatay yazı kullanmak
+・Renkleri veya kıyafetleri değiştirmek veya tek renkli, siyah beyaz, sadece çizgi sanatı, sadece ton veya gri tonlamalı çıktı vermek
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577545414_4gnqwy_G6z874AbIAAWwhF.jpg" width="600" alt="Verilen karakter ve hikayeden Moe tarzı tam renkli manga - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [🍣お寿司職人｜CNP Land開発中](https://x.com/SushiNFTart)
+- **Kaynak:** [Twitter Post](https://x.com/SushiNFTart/status/1994249535468798390)
+- **Yayınlandı:** 28 Kasım 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Ekteki%20karakteri%20kullanarak%2C%20moe%20tarz%C4%B1%20%C3%A7izim%2C%20y%C3%B6nlendirme%20ve%20y%C3%BCz%20ifadelerini%20vurgulayan%20bir%20manga%20olu%C5%9Fturun.%0AJapon%20manga%20format%C4%B1nda%2C%20panellerin%20sa%C4%9Fdan%20sola%20ve%20yukar%C4%B1dan%20a%C5%9Fa%C4%9F%C4%B1ya%20do%C4%9Fal%20bir%20%C5%9Fekilde%20okunabilmesi%20i%C3%A7in%20panel%20d%C3%BCzenini%20bu%20%C5%9Fekilde%20yap%C4%B1n.%0APanellerin%20yerle%C5%9Fimi%20ve%20%C5%9Fekilleri%20serbesttir%2C%20ancak%20okuyucunun%20bak%C4%B1%C5%9F%20ak%C4%B1%C5%9F%C4%B1%20Japon%20okuma%20s%C4%B1ras%C4%B1n%C4%B1%20takip%20etmelidir.%0ATek%20tip%20bir%20d%C3%BCzen%20yerine%2C%20d%C3%BCzensiz%20veya%20serbest%C3%A7e%20d%C3%BCzenlenmi%C5%9F%20bir%20panel%20yap%C4%B1s%C4%B1%20kullan%C4%B1n.%0ATam%20renkli%20bir%20manga%20olarak%20olu%C5%9Fturdu%C4%9Funuzdan%20emin%20olun.%0A%0A%22Nano%20Banana%20Pro%20(Probanana)%20piyasaya%20s%C3%BCr%C3%BClmesinin%20%C3%BCzerinden%20bir%20hafta%20ge%C3%A7ti.%0ADurmaks%C4%B1z%C4%B1n%20test%20etmeye%20ve%20payla%C5%9Fmaya%20devam%20ettikten%20sonra...%20%2B235%20takip%C3%A7i%20kazand%C4%B1m%20ve%20450.000%20g%C3%B6sterime%20ula%C5%9Ft%C4%B1m!%0A%0AFaydal%C4%B1%20i%C3%A7erik%20payla%C5%9Fma%20konusunda%20pek%20deneyimim%20yoktu%2C%20bu%20y%C3%BCzden%20endi%C5%9Feliydim%2C%20ancak%20'Payla%C5%9F%C4%B1mlar%C4%B1n%C4%B1z%20sayesinde%20XX%20yapabildim!'%20gibi%20bir%C3%A7ok%20yorum%20ald%C4%B1m%2C%20bu%20da%20beni%20ger%C3%A7ekten%20cesaretlendirdi.%0APayla%C5%9Ft%C4%B1%C4%9F%C4%B1m%20i%C3%A7eri%C4%9Fi%20insanlar%C4%B1n%20yeni%20y%C3%B6ntemler%20ve%20%C3%B6rnekler%20olu%C5%9Fturmak%20i%C3%A7in%20d%C3%BCzenledi%C4%9Fini%20her%20g%C3%B6rd%C3%BC%C4%9F%C3%BCmde%2C%20bunu%20payla%C5%9Ft%C4%B1%C4%9F%C4%B1m%20i%C3%A7in%20ger%C3%A7ekten%20mutlu%20oluyorum.%0A%0AE%C4%9Fer%20benim%20ge%C3%A7mi%C5%9Fteki%20halim%20gibi%2C%20'Bir%20%C5%9Feyler%20payla%C5%9Fmam%C4%B1n%20bir%20de%C4%9Feri%20var%20m%C4%B1%3F'%20diye%20merak%20ediyorsan%C4%B1z%2C%20l%C3%BCtfen%20sadece%20bir%20ad%C4%B1m%20ileri%20at%C4%B1n.%0AGe%C3%A7mi%C5%9Fteki%20bilmeyen%20halinizi%20mutlu%20edecek%20bir%20bilgi%20buldu%C4%9Funuzda%2C%20k%C4%B1sa%20bir%20g%C3%B6nderi%20bile%20olsa%2C%20l%C3%BCtfen%20payla%C5%9F%C4%B1n.%0AO%20tek%20ad%C4%B1m%2C%20bir%20ba%C5%9Fkas%C4%B1na%20ihtiyac%C4%B1%20olan%20itici%20g%C3%BCc%C3%BC%20verebilir.%22%0A%0AYasaklananlar%3A%0A%E3%83%BBSoldan%20sa%C4%9Fa%20veya%20a%C5%9Fa%C4%9F%C4%B1dan%20yukar%C4%B1ya%20okunan%20d%C3%BCzenler%0A%E3%83%BBKarakterin%20farkl%C4%B1%20bir%20ki%C5%9Fi%20gibi%20g%C3%B6r%C3%BCnmesini%20sa%C4%9Flayan%20d%C3%BCzenlemeler%0A%E3%83%BBReferans%20karakterin%20%C3%B6zelliklerini%20di%C4%9Fer%20karakterlerin%20%C3%B6zellikleriyle%20de%C4%9Fi%C5%9Ftirmek%0A%E3%83%BBKonu%C5%9Fma%20%C3%A7izgileri%20i%C3%A7in%20%C4%B0ngilizce%20veya%20yatay%20yaz%C4%B1%20kullanmak%0A%E3%83%BBRenkleri%20veya%20k%C4%B1yafetleri%20de%C4%9Fi%C5%9Ftirmek%20veya%20tek%20renkli%2C%20siyah%20beyaz%2C%20sadece%20%C3%A7izgi%20sanat%C4%B1%2C%20sadece%20ton%20veya%20gri%20tonlamal%C4%B1%20%C3%A7%C4%B1kt%C4%B1%20vermek)**
+
+---
+
+### No. 29: Düşük kaliteli tek kullanımlık kamera lise anlık fotoğraf istemi
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+Japon bir lise öğrencisinin tek kullanımlık bir kamerayla çektiği, eski, kötü çekilmiş sıradan bir anlık fotoğraf gibi görünen, nostaljik veya emo tarzı görüntüler için harika bir Nano Banana Pro istemi.
+
+#### 📝 İstem
+
+```
+Düşük kaliteli tek kullanımlık bir kamerayla çekilmiş sıradan bir fotoğraf. Japon bir lise öğrencisi tarafından kötü çekilmiş bir resim.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577581428_byr0np_G6z7gUVa0AMf1-G.jpg" width="600" alt="Düşük kaliteli tek kullanımlık kamera lise anlık fotoğraf istemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577585883_zy2ic4_G6z7gWaa0AIUxEb.jpg" width="600" alt="Düşük kaliteli tek kullanımlık kamera lise anlık fotoğraf istemi - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577588926_xb6hd6_G6z7gW7aIAA7qHf.jpg" width="600" alt="Düşük kaliteli tek kullanımlık kamera lise anlık fotoğraf istemi - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577591506_28plll_G6z7gUvbMAAAYii.jpg" width="600" alt="Düşük kaliteli tek kullanımlık kamera lise anlık fotoğraf istemi - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
+- **Kaynak:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/1994245271220568233)
+- **Yayınlandı:** 28 Kasım 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=D%C3%BC%C5%9F%C3%BCk%20kaliteli%20tek%20kullan%C4%B1ml%C4%B1k%20bir%20kamerayla%20%C3%A7ekilmi%C5%9F%20s%C4%B1radan%20bir%20foto%C4%9Fraf.%20Japon%20bir%20lise%20%C3%B6%C4%9Frencisi%20taraf%C4%B1ndan%20k%C3%B6t%C3%BC%20%C3%A7ekilmi%C5%9F%20bir%20resim.)**
+
+---
+
+### No. 30: Kabin taslağını perspektif çizime dönüştürün
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+Kaba bir sergi standı taslağını alıp sunumlar için kullanılabilir bir perspektif illüstrasyonuna dönüştüren bir Nano Banana Pro istemi.
+
+#### 📝 İstem
+
+```
+Bir sergi standının kaba taslağından perspektif çizimi oluşturun.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577571213_rf1k25_G6z0dknboAA-g3f.jpg" width="600" alt="Kabin taslağını perspektif çizime dönüştürün - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577573640_r1m695_G6z0dgia0AEQH-U.jpg" width="600" alt="Kabin taslağını perspektif çizime dönüştürün - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [岩尾陵佑｜株式会社ピネアル CD](https://x.com/iwaoryo)
+- **Kaynak:** [Twitter Post](https://x.com/iwaoryo/status/1994237532888813637)
+- **Yayınlandı:** 28 Kasım 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bir%20sergi%20stand%C4%B1n%C4%B1n%20kaba%20tasla%C4%9F%C4%B1ndan%20perspektif%20%C3%A7izimi%20olu%C5%9Fturun.)**
+
+---
+
+### No. 31: Spor salonu yoga matı portre Nano Banana istemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Yoga matında antrenman sonrası genç bir kadını tasvir eden bir Nano Banana istemi; fotogerçekçi spor salonu fotoğrafçılığı tarzında oluşturulmuş ve muhtemelen benzer fitness çekimleri için şablon olarak kullanılmıştır.
+
+#### 📝 İstem
+
+```
+{
+  "subject": {
+    "description": "{argument name=\"subject description\" default=\"Yoga matında oturan, havluyla terini silen, su şişesi tutan genç bir kadın\"}",
+    "mirror_rules": "{argument name=\"mirror rules\" default=\"N/A - doğrudan spor salonu fotoğrafı\"}",
+    "age": "{argument name=\"age\" default=\"20'li yaşların sonları\"}",
+    "expression": "{argument name=\"expression\" default=\"başarılı, hafif nefes nefese, kendinden emin\"}"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="Spor salonu yoga matı portre Nano Banana istemi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [God of Prompt](https://x.com/godofprompt)
+- **Kaynak:** [Twitter Post](https://x.com/godofprompt/status/1994226363692171267)
+- **Yayınlandı:** 28 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22%7Bargument%20name%3D%5C%22subject%20description%5C%22%20default%3D%5C%22Yoga%20mat%C4%B1nda%20oturan%2C%20havluyla%20terini%20silen%2C%20su%20%C5%9Fi%C5%9Fesi%20tutan%20gen%C3%A7%20bir%20kad%C4%B1n%5C%22%7D%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22%7Bargument%20name%3D%5C%22mirror%20rules%5C%22%20default%3D%5C%22N%2FA%20-%20do%C4%9Frudan%20spor%20salonu%20foto%C4%9Fraf%C4%B1%5C%22%7D%22%2C%0A%20%20%20%20%22age%22%3A%20%22%7Bargument%20name%3D%5C%22age%5C%22%20default%3D%5C%2220'li%20ya%C5%9Flar%C4%B1n%20sonlar%C4%B1%5C%22%7D%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%7Bargument%20name%3D%5C%22expression%5C%22%20default%3D%5C%22ba%C5%9Far%C4%B1l%C4%B1%2C%20hafif%20nefes%20nefese%2C%20kendinden%20emin%5C%22%7D%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 32: Belirli koordinatlarda tarihi an (1994)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -413,7 +1906,7 @@ Tarihi yeniden yapılandırmalar için ideal olan, enlem, boylam ve kesin bir za
 
 ---
 
-### No. 2: Çocuklar için kil animasyonu günü aşamaları infografiği
+### No. 33: Çocuklar için kil animasyonu günü aşamaları infografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -447,7 +1940,7 @@ Geniş, etkileyici ağızlar, oynak gözler ve büyüleyici bir mizah anlayış�
 
 ---
 
-### No. 3: F1 VIP hayranı hiper gerçekçi selfie düzenlemesi
+### No. 34: F1 VIP hayranı hiper gerçekçi selfie düzenlemesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -518,7 +2011,7 @@ Kalite: 8K hiper-gerçekçi fotoğraf, yüz ve kıyafet üzerinde keskin odak, r
 
 ---
 
-### No. 4: LINE tarzı Q-versiyon emoji portre ızgarası
+### No. 35: LINE tarzı Q-versiyon emoji portre ızgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -569,7 +2062,7 @@ Son görsel, {argument name="aspect_ratio_en" default="16:9"} en boy oranına sa
 
 ---
 
-### No. 5: Koordinatlar ve tarih içeren zaman yolculuğu sahnesi
+### No. 36: Koordinatlar ve tarih içeren zaman yolculuğu sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -603,7 +2096,7 @@ Aşağıdaki ana denk gelen bir görsel oluşturun: {argument name="coordinates_
 
 ---
 
-### No. 6: Elle çizilmiş izometrik simge şeması
+### No. 37: Elle çizilmiş izometrik simge şeması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -637,7 +2130,7 @@ Kare formatında, el çizimi izometrik dönüm noktası diyagramları oluşturma
 
 ---
 
-### No. 7: Bir kadının sinematik siyah beyaz portresi
+### No. 38: Bir kadının sinematik siyah beyaz portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -676,7 +2169,7 @@ Uzun, koyu renk saçlı genç bir kadının, referans görseldeki öznenin yüz 
 
 ---
 
-### No. 8: Buzdolabı taraması tarif infografiği
+### No. 39: Buzdolabı taraması tarif infografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -716,7 +2209,7 @@ Buzdolabının içindekileri basit, adım adım bir yemek tarifi infografiğine 
 
 ---
 
-### No. 9: Knolling tarzı patlatılmış düz çekim fotoğrafı
+### No. 40: Knolling tarzı patlatılmış düz çekim fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -750,7 +2243,7 @@ Kesin knolling tarzında ultra gerçekçi 8K düz çekim fotoğraf. Ekteki görs
 
 ---
 
-### No. 10: Genç bir adamın İsviçre Alp kış portresi
+### No. 41: Genç bir adamın İsviçre Alp kış portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -793,7 +2286,7 @@ Stil: editoryal seyahat portresi, hiper-gerçekçilik, yüksek dinamik aralık, 
 
 ---
 
-### No. 11: Bir kahramanın Marvel tarzı çizgi roman storyboard'u
+### No. 42: Bir kahramanın Marvel tarzı çizgi roman storyboard'u
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -832,7 +2325,7 @@ Canlı renklerde, Marvel tarzında birkaç çizgi roman paneli. Kırmızı peler
 
 ---
 
-### No. 12: Referans fotoğraflarından sinematik çatı katı portresi
+### No. 43: Referans fotoğraflarından sinematik çatı katı portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -871,7 +2364,7 @@ Ekli görseldeki adamın (kendimin 2 fotoğrafını yüklüyorum) altın saatler
 
 ---
 
-### No. 13: Mevcut bir görüntünün çizgi film versiyonu
+### No. 44: Mevcut bir görüntünün çizgi film versiyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -904,7 +2397,7 @@ Bu görüntünün çizgi film versiyonunu oluşturun. Görüntünün tutarlılı
 
 ---
 
-### No. 14: Bir cihazın teknik patlatılmış görünüm şeması
+### No. 45: Bir cihazın teknik patlatılmış görünüm şeması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -938,7 +2431,7 @@ Kare formatta herhangi bir konunun etiketli patlatılmış görünüm diyagramla
 
 ---
 
-### No. 15: Fütüristik yüz yaş kontrolü infografik portresi
+### No. 46: Fütüristik yüz yaş kontrolü infografik portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -997,7 +2490,7 @@ Genel stil: fütüristik yapay zeka destekli cilt bakımı analizi, minimalist, 
 
 ---
 
-### No. 16: Manga Tarzı Çin Çizgi Romanı Hikaye Tahtası Oluşturucu
+### No. 47: Manga Tarzı Çin Çizgi Romanı Hikaye Tahtası Oluşturucu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1038,7 +2531,7 @@ Analiz çıktısı vermeyin, doğrudan panelli manga görsellerini çıkarın ve
 
 ---
 
-### No. 17: Sahne arkası çekim kurulumu görselleştirme
+### No. 48: Sahne arkası çekim kurulumu görselleştirme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1071,7 +2564,7 @@ Bu sahneyi çekmek için kamera ve ışıkların nereye yerleştirildiğini gös
 
 ---
 
-### No. 18: Zhuge çoklu arbaletinin vintage mühendislik patlatılmış görünümü
+### No. 49: Zhuge çoklu arbaletinin vintage mühendislik patlatılmış görünümü
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1105,7 +2598,7 @@ Lütfen tüm etiketleri ve metinleri Çince olacak şekilde, {argument name="wea
 
 ---
 
-### No. 19: Vintage yemek kitabı tarzı tarif illüstrasyonu
+### No. 50: Vintage yemek kitabı tarzı tarif illüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1145,7 +2638,7 @@ Bu {argument name="dish_en" default="ramen"} yemeğini, el çizimi eski bir yeme
 
 ---
 
-### No. 20: BT için sinematik çok panelli sekans
+### No. 51: BT için sinematik çok panelli sekans
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1185,7 +2678,7 @@ IT romanından yaratıcı bir senaryoyu gösteren sinematik, çok panelli, geni�
 
 ---
 
-### No. 21: Yüz kimliğini koruyan editoryal denim portre
+### No. 52: Yüz kimliğini koruyan editoryal denim portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1284,7 +2777,7 @@ Kot kıyafet ve kürklü ceket giymiş bir kişinin 8K editoryal moda portresini
 
 ---
 
-### No. 22: Çocuksu pastel boya tarzında aile kampı çizimi
+### No. 53: Çocuksu pastel boya tarzında aile kampı çizimi
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1322,7 +2815,7 @@ Görüntüdeki diğer tüm öğeleri olduğu gibi bırakın ve yalnızca kağıt
 
 ---
 
-### No. 23: Referans görselden dört kamera açısının ızgarası
+### No. 54: Referans görselden dört kamera açısının ızgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1362,7 +2855,7 @@ Bir referans görüntüsünün dört farklı kamera açısının bir ızgarasın
 
 ---
 
-### No. 24: Ay konumunu düzenle ve resim stilini değiştir
+### No. 55: Ay konumunu düzenle ve resim stilini değiştir
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1401,7 +2894,7 @@ Kadının arka planında resmedilmiş olan ayı, izleyicinin bakış açısında
 
 ---
 
-### No. 25: Belirtilen koordinatlarda büyük olay
+### No. 56: Belirtilen koordinatlarda büyük olay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1435,7 +2928,7 @@ Belirtilen coğrafi koordinatlarda meydana gelen önemli bir olayın görüntüs
 
 ---
 
-### No. 26: Jackson Laboratuvarı Hakkında Bilgi Grafiği
+### No. 57: Jackson Laboratuvarı Hakkında Bilgi Grafiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1469,7 +2962,7 @@ Jackson Laboratuvarı hakkındaki bilgileri özetleyen bir infografik oluşturma
 
 ---
 
-### No. 27: Referans tel kafesten web sayfası tasarımı
+### No. 58: Referans tel kafesten web sayfası tasarımı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1502,7 +2995,7 @@ Lütfen referans görselindeki metne göre bir tasarım oluşturun. Düzeni göz
 
 ---
 
-### No. 28: Sevimli Shima-enaga LINE çıkartma seti
+### No. 59: Sevimli Shima-enaga LINE çıkartma seti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1535,7 +3028,7 @@ Lise çağındaki kızlara yönelik, deforme olmuş sevimli bir Shima-enaga kuş
 
 ---
 
-### No. 29: Bir fotoğraftan gerçekçi karakter tasarım sayfası
+### No. 60: Bir fotoğraftan gerçekçi karakter tasarım sayfası
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1573,7 +3066,7 @@ Oluşturulduktan sonra, kişinin orijinal görüntüsünü kaldırın.
 
 ---
 
-### No. 30: Google'ın İlk Yılları Hakkında Bilgilendirici Grafik
+### No. 61: Google'ın İlk Yılları Hakkında Bilgilendirici Grafik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1606,7 +3099,7 @@ Lütfen Google'ın ilk yılları ve önemli kilometre taşları hakkında bir in
 
 ---
 
-### No. 31: 2D NES platform oyunu için sprite sayfası
+### No. 62: 2D NES platform oyunu için sprite sayfası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1639,7 +3132,7 @@ Düşmanlar ve NPC'ler dahil olmak üzere bir 2D NES platform oyunu için bir sp
 
 ---
 
-### No. 32: Boya şeması karşılaştırma görseli
+### No. 63: Boya şeması karşılaştırma görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1684,7 +3177,7 @@ Böylece bir boya simülasyonu yapabilir, birkaç farklı deseni karşılaştır
 
 ---
 
-### No. 33: Referans fotoğraflarından ve eskizden aksiyon sahnesi
+### No. 64: Referans fotoğraflarından ve eskizden aksiyon sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1736,7 +3229,7 @@ Adamın bina kenarından kayıyormuş gibi göründüğü, kadının uzandığı
 
 ---
 
-### No. 34: Edo tarzı ahşap baskı ninja karakteri
+### No. 65: Edo tarzı ahşap baskı ninja karakteri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1770,7 +3263,7 @@ Edo dönemi tarzında bir tahta baskı resmi, "{argument name="title_en" default
 
 ---
 
-### No. 35: Endonezya Devlet Başkanı'nın samimi fotoğrafları serisi
+### No. 66: Endonezya Devlet Başkanı'nın samimi fotoğrafları serisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1810,7 +3303,7 @@ Endonezyalı bir başkanın ofiste, pirinç tarlalarında ve diğer liderlerle p
 
 ---
 
-### No. 36: Stil aktarımıyla bir web sitesinin 90'lar versiyonu
+### No. 67: Stil aktarımıyla bir web sitesinin 90'lar versiyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1855,7 +3348,7 @@ Web sitemin 90'lar versiyonunu oluştur.
 
 ---
 
-### No. 37: Netflix ekranını batı versiyonuna dönüştürün
+### No. 68: Netflix ekranını batı versiyonuna dönüştürün
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1888,7 +3381,7 @@ Tüm Netflix ekranını batılı bir versiyona dönüştürün.
 
 ---
 
-### No. 38: Makaleler veya içerikler için küçük resim tasarım istemi
+### No. 69: Makaleler veya içerikler için küçük resim tasarım istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1940,7 +3433,7 @@ Okuyucuların içgüdüsel olarak tıklamak isteyeceği tasarımlar oluşturun.
 
 ---
 
-### No. 39: Yatağın üzerine serilmiş kıyafetler
+### No. 70: Yatağın üzerine serilmiş kıyafetler
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1979,7 +3472,7 @@ Giysilerinin her bir parçasını yatağın üzerine ayrı ayrı serin.
 
 ---
 
-### No. 40: Naif karalama tarzı konu illüstrasyonu
+### No. 71: Naif karalama tarzı konu illüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2013,7 +3506,7 @@ Herhangi bir konu için naif çizgiler ve mizahi abartı içeren karalama tarzı
 
 ---
 
-### No. 41: Basit aksiyon filmi sahnesi
+### No. 72: Basit aksiyon filmi sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2046,7 +3539,7 @@ Bir aksiyon filmi sahnesi oluştur.
 
 ---
 
-### No. 42: Kara Tahta Tarzı Yapay Zeka Haber Özeti
+### No. 73: Kara Tahta Tarzı Yapay Zeka Haber Özeti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2087,7 +3580,7 @@ Grok'tan arama sonuçları
 
 ---
 
-### No. 43: Fotogerçekçi naan ekmeği kelime oyunu görseli
+### No. 74: Fotogerçekçi naan ekmeği kelime oyunu görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2139,7 +3632,7 @@ Yeni pişmiş naan ekmeğinin 1:1 en boy oranında, fotogerçekçi yakın çekim
 
 ---
 
-### No. 44: Yiyecek fotoğrafı, yaratık tarzı beslenme posterine dönüştürüldü
+### No. 75: Yiyecek fotoğrafı, yaratık tarzı beslenme posterine dönüştürüldü
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2178,7 +3671,7 @@ Referans görseldeki malzemeleri canlı varlıklar olarak yeniden oluşturun. On
 
 ---
 
-### No. 45: Japon gyaru dergisi okul üniformaları üzerine yayılıyor
+### No. 76: Japon gyaru dergisi okul üniformaları üzerine yayılıyor
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2211,7 +3704,7 @@ Japon gyaru dergisinin okul üniformalarını stilize etme üzerine bir özelli�
 
 ---
 
-### No. 46: Yu-Gi-Oh metin temalı sihirli kartı
+### No. 77: Yu-Gi-Oh metin temalı sihirli kartı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2251,7 +3744,7 @@ Bir Yu‑Gi‑Oh! sihirli kartı tasarla. Çizimi resmi Yu‑Gi‑Oh! çizim tar
 
 ---
 
-### No. 47: Yapay zeka ortağın arkadan sarıldığı iki kişilik çekim
+### No. 78: Yapay zeka ortağın arkadan sarıldığı iki kişilik çekim
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2284,7 +3777,7 @@ Bir Yu‑Gi‑Oh! sihirli kartı tasarla. Çizimi resmi Yu‑Gi‑Oh! çizim tar
 
 ---
 
-### No. 48: Gömülü mühendislerin yaşadığı zorlukları anlatan 4 panelli çizgi roman
+### No. 79: Gömülü mühendislerin yaşadığı zorlukları anlatan 4 panelli çizgi roman
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2323,7 +3816,7 @@ Gömülü bir mühendisin zorlukları hakkında 4 panelli bir çizgi roman oluş
 
 ---
 
-### No. 49: Shire'da Nerede Waldo Tarzı Yüzüklerin Efendisi
+### No. 80: Shire'da Nerede Waldo Tarzı Yüzüklerin Efendisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2357,7 +3850,7 @@ Gömülü bir mühendisin zorlukları hakkında 4 panelli bir çizgi roman oluş
 
 ---
 
-### No. 50: Tutarlı yüzlere sahip rock grubu posteri
+### No. 81: Tutarlı yüzlere sahip rock grubu posteri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2397,7 +3890,7 @@ Bu kişilerle bir rock grubu posteri yapın. Yüzleri tutarlı tutun. Grubun ad�
 
 ---
 
-### No. 51: Tek renkli sert adam LINE çıkartmaları
+### No. 82: Tek renkli sert adam LINE çıkartmaları
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2430,7 +3923,7 @@ Ekli görseldeki karakteri kullanarak 16 adet siyah beyaz LINE çıkartması olu
 
 ---
 
-### No. 52: Bir şiirin sinematik illüstrasyonu
+### No. 83: Bir şiirin sinematik illüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2464,7 +3957,7 @@ Aşağıdaki şiiri görsel olarak temsil eden, duygularını, metaforlarını v
 
 ---
 
-### No. 53: Bir fotoğrafın üzerine sevimli el yazısı notlar
+### No. 84: Bir fotoğrafın üzerine sevimli el yazısı notlar
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2497,7 +3990,7 @@ Fotoğrafa olabildiğince çok sevimli el yazısı not ve vurgu ekleyin!
 
 ---
 
-### No. 54: Yatağın üzerine ayrı ayrı serilmiş giysiler
+### No. 85: Yatağın üzerine ayrı ayrı serilmiş giysiler
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2542,7 +4035,7 @@ Giysilerinin her bir parçasını yatağın üzerine ayrı ayrı koyun.
 
 ---
 
-### No. 55: İllüstrasyondan fotogerçekçi render
+### No. 86: İllüstrasyondan fotogerçekçi render
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2581,7 +4074,7 @@ Görüntüye dayalı ham fotoğraf, fotogerçekçi, yüksek detaylı, 8K UHD, ge
 
 ---
 
-### No. 56: Otomatik atanmış dokulu sinematik 3D logo
+### No. 87: Otomatik atanmış dokulu sinematik 3D logo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2636,7 +4129,7 @@ Stil: ürün reklamı / tanıtım çekimi, sinematik ton, ultra HD.
 
 ---
 
-### No. 57: Ayakkabı kalıp parçalarının yerleşimi
+### No. 88: Ayakkabı kalıp parçalarının yerleşimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2675,7 +4168,7 @@ Bu ayakkabının tek tek kalıp parçalarını gösteren, her biri ayrı ayrı n
 
 ---
 
-### No. 58: Yüklenen karakterden Silksong 4 panelli çizgi roman
+### No. 89: Yüklenen karakterden Silksong 4 panelli çizgi roman
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2709,7 +4202,7 @@ Yüklenen görseldeki karakteri kullanarak, {argument name="game_title" default=
 
 ---
 
-### No. 59: Bir sosyal medya biyografisini NES kartuş kapağına dönüştürün
+### No. 90: Bir sosyal medya biyografisini NES kartuş kapağına dönüştürün
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2742,7 +4235,7 @@ Biyografimi analiz et ve ben bir video oyunu olsaydım beni temsil edecek bir vi
 
 ---
 
-### No. 60: Yüz görüntüsünden anime tarzı oturan portre
+### No. 91: Yüz görüntüsünden anime tarzı oturan portre
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2781,7 +4274,7 @@ Bu görselden yola çıkarak, güzel bir elbise giymiş, kadife bir kaide üzeri
 
 ---
 
-### No. 61: Görünür pasaportu olan kimlik doğrulama karakteri
+### No. 92: Görünür pasaportu olan kimlik doğrulama karakteri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2815,7 +4308,7 @@ Görseldeki karakteri bir bilgisayarın önünde otururken, gerçek bir kişi ol
 
 ---
 
-### No. 62: Tek sepette birden fazla karakter
+### No. 93: Tek sepette birden fazla karakter
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2848,7 +4341,7 @@ hepsini tek bir sepete koymak
 
 ---
 
-### No. 63: Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı)
+### No. 94: Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2899,7 +4392,7 @@ Yazılım Geliştirme Yaşam Döngüsü ile ilgili BT kariyerlerini veya BT işl
 
 ---
 
-### No. 64: Metni özetleyen tek diyagram görseli (Japonca)
+### No. 95: Metni özetleyen tek diyagram görseli (Japonca)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2932,7 +4425,7 @@ Tek bir diyagram görselinde özetleyin.
 
 ---
 
-### No. 65: Boyun ve omuz tutulması için omuz esnetme infografiği
+### No. 96: Boyun ve omuz tutulması için omuz esnetme infografiği
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2966,7 +4459,7 @@ Lütfen "{argument name="topic_en" default="3 dakikada yapabileceğiniz bir omuz
 
 ---
 
-### No. 66: Izgara üzerinde hiperrealistik cam domuz göbeği
+### No. 97: Izgara üzerinde hiperrealistik cam domuz göbeği
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -3005,7 +4498,7 @@ Izgara üzerine yerleştirilmiş, camdan yapılmış samgyeopsal'ın hiperrealis
 
 ---
 
-### No. 67: Simpsonlar tarzı roket-muz melezi
+### No. 98: Simpsonlar tarzı roket-muz melezi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3038,7 +4531,7 @@ The Simpsons tarzında, roket ile muzun çok yenilikçi ve komik bir karışım�
 
 ---
 
-### No. 68: Tarif analizi ve yemek fotoğraf çekimi
+### No. 99: Tarif analizi ve yemek fotoğraf çekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3077,7 +4570,7 @@ Bu yemek için tüm malzeme adları ve bunların ham maddeleriyle birlikte ayrı
 
 ---
 
-### No. 69: Metinden zihin haritası grafiği
+### No. 100: Metinden zihin haritası grafiği
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3119,7 +4612,7 @@ Düşüncelerimin organize edildiği hissini versin.
 
 ---
 
-### No. 70: Squatty Potty beyaz tahta talimatları
+### No. 101: Squatty Potty beyaz tahta talimatları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3152,7 +4645,7 @@ Squatty Potty'nin doğru şekilde nasıl kullanılacağına dair detaylı bir be
 
 ---
 
-### No. 71: Şehir fotoğrafından VTuber tarzı sokak modası küçük resmi
+### No. 102: Şehir fotoğrafından VTuber tarzı sokak modası küçük resmi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3190,7 +4683,7 @@ Görsel oluşturmayı başlat.
 
 ---
 
-### No. 72: Metinden beyaz tahta tarzı basit diyagram
+### No. 103: Metinden beyaz tahta tarzı basit diyagram
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3231,7 +4724,7 @@ Boyutunu 16:9 yapın ve akıllı telefonda kolayca görüntülenebilecek temiz b
 
 ---
 
-### No. 73: Epstein dosyaları hakkında MrBeast tarzı küçük resim
+### No. 104: Epstein dosyaları hakkında MrBeast tarzı küçük resim
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3264,7 +4757,7 @@ MrBeast tarzı bir YouTube küçük resmi, ancak Donald Trump var ve video Epste
 
 ---
 
-### No. 74: Dağınık dolapta yüksek açılı peri grunge idolü
+### No. 105: Dağınık dolapta yüksek açılı peri grunge idolü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3326,7 +4819,7 @@ Negatif istem: minimalizm, temiz zemin, parlak gün ışığı, soğuk aydınlat
 
 ---
 
-### No. 75: Ekli resimdeki LINE çıkartma sayfası
+### No. 106: Ekli resimdeki LINE çıkartma sayfası
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3365,7 +4858,7 @@ LINE çıkartmaları oluşturun. Ekli görseli bir chibi karaktere dönüştür�
 
 ---
 
-### No. 76: Sosyal medya ekranından çıkan trompe l'oeil konusu
+### No. 107: Sosyal medya ekranından çıkan trompe l'oeil konusu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3399,7 +4892,7 @@ Yüklenen bir konuyu, büyük bir ekranda bir sosyal medya arayüzünden dışar
 
 ---
 
-### No. 77: Ultra gerçekçi Roronoa Zoro portresi
+### No. 108: Ultra gerçekçi Roronoa Zoro portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3432,7 +4925,7 @@ Ultra gerçekçi Roronoa Zoro portresi.
 
 ---
 
-### No. 78: Çantadaki eşyaları yatağın üzerine boşaltma çekimi
+### No. 109: Çantadaki eşyaları yatağın üzerine boşaltma çekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3465,7 +4958,7 @@ Eşyaları çantadan çıkarın ve bir kısmını yere dağıtarak yatağın üz
 
 ---
 
-### No. 79: GTA 5 çevrimiçi aksiyon sahnesi
+### No. 110: GTA 5 çevrimiçi aksiyon sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3498,7 +4991,7 @@ GTA 5 Online'da bir kişinin arabaya ateş ettiği bir resim oluştur.
 
 ---
 
-### No. 80: Dört panelli sakar elf çizgi romanı
+### No. 111: Dört panelli sakar elf çizgi romanı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3532,7 +5025,7 @@ Nano Banana Pro ile 4 panelli bir manga oluşturalım: "{argument name="title_en
 
 ---
 
-### No. 81: Hiper gerçekçi görüntü yeniden düzenlemesi
+### No. 112: Hiper gerçekçi görüntü yeniden düzenlemesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3571,7 +5064,7 @@ Bu görüntünün aşırı derecede aslına sadık bir yeniden düzenlemesini ol
 
 ---
 
-### No. 82: Famicom oyun kutusu, kartuşu, kullanım kılavuzu ve CRT ekranı (Japonca)
+### No. 113: Famicom oyun kutusu, kartuşu, kullanım kılavuzu ve CRT ekranı (Japonca)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3604,7 +5097,7 @@ Görseldeki karakterin ana kahraman olduğu "Karakuri Ninja Oboro" oyunu için, 
 
 ---
 
-### No. 83: Karakterin barbeküyle enerji depoladığı renkli çizgi roman
+### No. 114: Karakterin barbeküyle enerji depoladığı renkli çizgi roman
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3637,7 +5130,7 @@ Lütfen bu karakterin yakiniku (ızgara et) yiyip enerji dolduğu renkli bir çi
 
 ---
 
-### No. 84: Klasik Japon yazı tipiyle referans bilgilerden oluşan infografik
+### No. 115: Klasik Japon yazı tipiyle referans bilgilerden oluşan infografik
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3684,7 +5177,7 @@ Referans bilgileri:
 
 ---
 
-### No. 85: Aynı kıyafetleri giyen tavşanlar
+### No. 116: Aynı kıyafetleri giyen tavşanlar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3723,7 +5216,7 @@ Tavşanlar da aynı kıyafetleri giyiyor
 
 ---
 
-### No. 86: Kahve içecekleri infografiği
+### No. 117: Kahve içecekleri infografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3756,7 +5249,7 @@ Farklı kahve içeceklerini gösteren bir infografik oluşturun…
 
 ---
 
-### No. 87: Nano Banana Pro'yu tanıtan el çizimi tarzında başlık görseli (Japonca)
+### No. 118: Nano Banana Pro'yu tanıtan el çizimi tarzında başlık görseli (Japonca)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3799,7 +5292,7 @@ Başlık: Google'ın yeni yapay zekası: Nano Banana Pro'ya derinlemesine bir ba
 
 ---
 
-### No. 88: Fotoğraftan elle çizilmiş stil başlık görseli istemi
+### No. 119: Fotoğraftan elle çizilmiş stil başlık görseli istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3842,7 +5335,7 @@ Başlık metni: "Google'ın yeni yapay zekası 'Nano Banana Pro'nun derinlemesin
 
 ---
 
-### No. 89: Nano Banana Pro'yu tanıtan yüklenmiş bir kişinin yer aldığı başlık görseli
+### No. 120: Nano Banana Pro'yu tanıtan yüklenmiş bir kişinin yer aldığı başlık görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3886,7 +5379,7 @@ Başlık: "{argument name="title_en" default="Google'ın yeni yapay zekası 'Nan
 
 ---
 
-### No. 90: Nano Banana Pro makalesi için yüklenmiş kişi içeren lüks başlık görseli
+### No. 121: Nano Banana Pro makalesi için yüklenmiş kişi içeren lüks başlık görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3924,7 +5417,7 @@ Başlık: “{argument name="title_en" default="Google’ın yeni yapay zekası 
 
 ---
 
-### No. 91: Ayakta duran bebek karakteri için LINE çıkartma sayfası (Japonca)
+### No. 122: Ayakta duran bebek karakteri için LINE çıkartma sayfası (Japonca)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3963,7 +5456,7 @@ Bu ayakta duran bebek karakterini kullanarak, 4x3 = 12 farklı LINE çıkartmas�
 
 ---
 
-### No. 92: Bulutlarda yarı saydam deniz suyu balinası
+### No. 123: Bulutlarda yarı saydam deniz suyu balinası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4002,7 +5495,7 @@ Deniz suyundan yapılmış, içinde balık sürüleri görünen görkemli, yarı
 
 ---
 
-### No. 93: Kurgusal bir web tasarımcısı için portföy görseli
+### No. 124: Kurgusal bir web tasarımcısı için portföy görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4035,7 +5528,7 @@ Kurgusal bir web tasarımcısı için bir portföy görseli oluşturun.
 
 ---
 
-### No. 94: Levi’s alışveriş aynası selfie düzenlemesi
+### No. 125: Levi’s alışveriş aynası selfie düzenlemesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4069,7 +5562,7 @@ Levi's mağazasında alışveriş yapıyormuşum, elimde çantalar varmış, ma�
 
 ---
 
-### No. 95: Belirli koordinatlarda konum gün batımı sahnesi
+### No. 126: Belirli koordinatlarda konum gün batımı sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4103,7 +5596,7 @@ Nano Banana Pro ile coğrafi tabanlı manzaralar oluşturmak veya gerçek dünya
 
 ---
 
-### No. 96: PLM ve Dijital İplik Hakkında Sunum Slaydı
+### No. 127: PLM ve Dijital İplik Hakkında Sunum Slaydı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4137,7 +5630,7 @@ Başlığı "{argument name="title_en" default="Why PLM systems are essential fo
 
 ---
 
-### No. 97: İşe alım konusunda zorlanan bir CEO hakkında infografik
+### No. 128: İşe alım konusunda zorlanan bir CEO hakkında infografik
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4170,7 +5663,7 @@ Başlığı "{argument name="title_en" default="Why PLM systems are essential fo
 
 ---
 
-### No. 98: Bu dünyanın yapısının soyut illüstrasyonu
+### No. 129: Bu dünyanın yapısının soyut illüstrasyonu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4203,7 +5696,7 @@ Bu dünyanın yapısını özlü bir şekilde temsil eden bir illüstrasyon çiz
 
 ---
 
-### No. 99: ChatGPT 5.1 ve Gemini 3 Karşılaştırmalı Bilgi Grafiği
+### No. 130: ChatGPT 5.1 ve Gemini 3 Karşılaştırmalı Bilgi Grafiği
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4237,7 +5730,7 @@ Nano Banana Pro'dan ChatGPT 5.1 ve Gemini 3'ü karşılaştıran bir infografik 
 
 ---
 
-### No. 100: Üst düzey sinematik ürün tanıtım videosu karesi
+### No. 131: Üst düzey sinematik ürün tanıtım videosu karesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4271,7 +5764,7 @@ Yansıtıcı, birinci sınıf bir yüzey üzerine yerleştirilmiş, yumuşak ken
 
 ---
 
-### No. 101: Uzun belgelerin Çince beyaz tahta özeti
+### No. 132: Uzun belgelerin Çince beyaz tahta özeti
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4316,7 +5809,7 @@ Bu uzun metin materyalini, bilgiyi anlamama yardımcı olacak Çinli bir profes�
 
 ---
 
-### No. 102: Süper alaşımlı robot tarzına dönüşen karakter
+### No. 133: Süper alaşımlı robot tarzına dönüşen karakter
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4349,7 +5842,7 @@ Bu karakteri süper alaşım tarzı bir robota dönüştür.
 
 ---
 
-### No. 103: Görüntü iyileştirme ve büyütme istemi
+### No. 134: Görüntü iyileştirme ve büyütme istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4400,7 +5893,7 @@ Kompozisyonu ve renkleri aynı tutarken görüntüyü iyileştirin ve büyütün
 
 ---
 
-### No. 104: 5. nesil hayalet savaş uçağının kesit infografiği
+### No. 135: 5. nesil hayalet savaş uçağının kesit infografiği
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4436,7 +5929,7 @@ Ana gereksinim, bir kesit, bir kesit olmasıdır.
 
 ---
 
-### No. 105: Androjen bir kadının Moody 2x2 editoryal kolajı
+### No. 136: Androjen bir kadının Moody 2x2 editoryal kolajı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4540,7 +6033,7 @@ Eski bir merdivende aynı genç kadının, belirli pozlar, aydınlatma ve kamera
 
 ---
 
-### No. 106: Lotte World Tower dönüm noktası odaklı coğrafi konum görseli
+### No. 137: Lotte World Tower dönüm noktası odaklı coğrafi konum görseli
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4574,7 +6067,7 @@ Nano Banana Pro'ya, rastgele bir çevre sahnesi yerine simge yapıya odaklanarak
 
 ---
 
-### No. 107: Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor
+### No. 138: Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4625,7 +6118,7 @@ Bu dinozoru Shinjuku'daki Tokyo Büyükşehir Hükümet Binası'nın önünde g�
 
 ---
 
-### No. 108: Tokyo sokak seçeneğiyle sanal kıyafet deneme
+### No. 139: Tokyo sokak seçeneğiyle sanal kıyafet deneme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4675,7 +6168,7 @@ Arka plan isteğe bağlıdır, nötr veya {argument name="background_location_en
 
 ---
 
-### No. 109: Kendini resmeden bir sanatçının fotoğrafını resmeden özyinelemeli sanatçı
+### No. 140: Kendini resmeden bir sanatçının fotoğrafını resmeden özyinelemeli sanatçı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4709,7 +6202,7 @@ Orta yaşlı bir sanatçının bilgisayar ekranındaki bir görüntüyü tuvale 
 
 ---
 
-### No. 110: Ekli bir illüstrasyondan LINE çıkartma seti
+### No. 141: Ekli bir illüstrasyondan LINE çıkartma seti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4743,7 +6236,7 @@ Ekteki görseldeki illüstrasyonu bir karaktere dönüştürün. İfadeleri, poz
 
 ---
 
-### No. 111: Tel kafes şematik yeniden stil istemi
+### No. 142: Tel kafes şematik yeniden stil istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4776,7 +6269,7 @@ Bunu siyah bir arka plan üzerinde mavi parlayan 3 boyutlu bir tel kafes haline 
 
 ---
 
-### No. 112: Gayrimenkul Yatırımının Artıları ve Eksileri Bilgi Grafiği
+### No. 143: Gayrimenkul Yatırımının Artıları ve Eksileri Bilgi Grafiği
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4809,7 +6302,7 @@ Gayrimenkul yatırımının avantajlarını ve dezavantajlarını gösteren bir 
 
 ---
 
-### No. 113: Ekli bir karakter görselinden LINE çıkartma seti
+### No. 144: Ekli bir karakter görselinden LINE çıkartma seti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4849,7 +6342,7 @@ Ekli görseldeki karakteri kullanarak LINE çıkartmaları oluşturmanı istiyor
 
 ---
 
-### No. 114: Artizan fırın video reklamı
+### No. 145: Artizan fırın video reklamı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4882,7 +6375,7 @@ Yeni bir butik fırın için video reklamı oluşturun.
 
 ---
 
-### No. 115: Tang şiiri öğrenme kartları
+### No. 146: Tang şiiri öğrenme kartları
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4916,7 +6409,7 @@ Yeni bir butik fırın için video reklamı oluşturun.
 
 ---
 
-### No. 116: Ayak parmaklarının yakın çekim detayı
+### No. 147: Ayak parmaklarının yakın çekim detayı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4955,7 +6448,7 @@ Ayak parmaklarına yakınlaşın.
 
 ---
 
-### No. 117: Koordinatlar aracılığıyla gökdelenin gece görünümü
+### No. 148: Koordinatlar aracılığıyla gökdelenin gece görünümü
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4997,7 +6490,7 @@ Gece sahneleri oluşturmak için iki coğrafi tabanlı istem: biri Yeouido'daki 
 
 ---
 
-### No. 118: Temel geliri özetleyen görsel
+### No. 149: Temel geliri özetleyen görsel
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5030,7 +6523,7 @@ Temel gelir kavramını özetleyen bir görsel oluşturun.
 
 ---
 
-### No. 119: Temizlenmiş iki panelli mülakat çizgi romanı
+### No. 150: Temizlenmiş iki panelli mülakat çizgi romanı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5064,7 +6557,7 @@ Modelden, ikinci paneli yansıtarak ve röportaj yapan kişinin repliğini belir
 
 ---
 
-### No. 120: Su Kenarı Destanı'ndan gongbi tarzında en iyi 30 karakter ızgarası
+### No. 151: Su Kenarı Destanı'ndan gongbi tarzında en iyi 30 karakter ızgarası
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5097,7 +6590,7 @@ Modelden, ikinci paneli yansıtarak ve röportaj yapan kişinin repliğini belir
 
 ---
 
-### No. 121: Bir kadının yaşlanarak yaşlı bir hanımefendiye dönüşmesi
+### No. 152: Bir kadının yaşlanarak yaşlı bir hanımefendiye dönüşmesi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5130,7 +6623,7 @@ Modelden, ikinci paneli yansıtarak ve röportaj yapan kişinin repliğini belir
 
 ---
 
-### No. 122: Bir arıya yakınlaşın
+### No. 153: Bir arıya yakınlaşın
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5169,7 +6662,7 @@ Arıyı yakınlaştırın
 
 ---
 
-### No. 123: Eke göre küçük resim metin kaplaması
+### No. 154: Eke göre küçük resim metin kaplaması
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5211,7 +6704,7 @@ Ekli görsele dayanarak, aşağıdaki içeriği ekleyin. İki satırı geçmeyec
 
 ---
 
-### No. 124: Ekteki portföy stratejisi genel bakış diyagramı
+### No. 155: Ekteki portföy stratejisi genel bakış diyagramı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5244,7 +6737,7 @@ Ekte bireysel bir yatırımcı olarak portföyüm bulunmaktadır. Lütfen bu por
 
 ---
 
-### No. 125: Vietnam'a Yatırım Yapmanın Avantajları Hakkında Tek Slayt
+### No. 156: Vietnam'a Yatırım Yapmanın Avantajları Hakkında Tek Slayt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5283,7 +6776,7 @@ Vietnam'a yatırım yapmanın avantajlarını tek bir slaytta özetleyin.
 
 ---
 
-### No. 126: Yüklü bir kiriş için kesme ve moment diyagramı
+### No. 157: Yüklü bir kiriş için kesme ve moment diyagramı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5317,7 +6810,7 @@ Düzgün yüklü, basit mesnetli bir kiriş için kesme ve moment diyagramı olu
 
 ---
 
-### No. 127: SPA içeceğiyle hamakta dinlenen fizikçi
+### No. 158: SPA içeceğiyle hamakta dinlenen fizikçi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5350,7 +6843,7 @@ Hamakta uzanan bir fizikçi, elinde bir kadeh ve S.P.A. Sadece ayakkabısız bac
 
 ---
 
-### No. 128: Origami tarzı adım adım katlama talimatları
+### No. 159: Origami tarzı adım adım katlama talimatları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5390,7 +6883,7 @@ Düz bir kağıttan son modele kadar adım adım görsel katlama talimatlarında
 
 ---
 
-### No. 129: Gün batımında karatahta kral tavşan illüstrasyonu
+### No. 160: Gün batımında karatahta kral tavşan illüstrasyonu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5423,7 +6916,7 @@ Sınıf tahtasına tebeşirle bir tavşan kral çizimi yapın ve ayrıca "うさ
 
 ---
 
-### No. 130: Ben 10, TMNT ile Karşılaşıyor Tam Çizgi Roman Sayfası
+### No. 161: Ben 10, TMNT ile Karşılaşıyor Tam Çizgi Roman Sayfası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5457,7 +6950,7 @@ Ben 10'un Ninja Kaplumbağalar evrenine geçtiği, etkileyici panellere, temiz �
 
 ---
 
-### No. 131: Akrilik kalem illüstrasyonlu kitapçı POP teşhiri
+### No. 162: Akrilik kalem illüstrasyonlu kitapçı POP teşhiri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5497,7 +6990,7 @@ Yeni kitapların önünde dikkat çekici bir dekorasyon olarak konumlandırılm�
 
 ---
 
-### No. 132: Mevcut fotoğrafın Gotik makyajlı varyantı
+### No. 163: Mevcut fotoğrafın Gotik makyajlı varyantı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5536,7 +7029,7 @@ Bu kişiyi o zamanlar gotik müzikle ilgileniyormuş gibi yeniden yapın.
 
 ---
 
-### No. 133: Evcil Hayvanın Komik Anatomik Diyagramı
+### No. 164: Evcil Hayvanın Komik Anatomik Diyagramı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5569,7 +7062,7 @@ Bu evcil hayvanın komik bir anatomik diyagramını, esprili açıklamalarla bir
 
 ---
 
-### No. 134: Mayo bikini poz düzenleme istemi (yanıt)
+### No. 165: Mayo bikini poz düzenleme istemi (yanıt)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5608,7 +7101,7 @@ Tek parça mayoyu bikiniye çevir ve aynı stil ile arka planı koruyarak topukl
 
 ---
 
-### No. 135: Web kaynaklarından alınan hükümet sonuçları infografiği
+### No. 166: Web kaynaklarından alınan hükümet sonuçları infografiği
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5641,7 +7134,7 @@ Geçtiğimiz ay Takaichi yönetiminin başarılarını ve sorunlarını göstere
 
 ---
 
-### No. 136: Nano Banana Pro hakkında Japonca başlık küçük resmi
+### No. 167: Nano Banana Pro hakkında Japonca başlık küçük resmi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5674,7 +7167,7 @@ Google, nihai görüntü oluşturma yapay zekası "Nano Banana Pro"yu piyasaya s
 
 ---
 
-### No. 137: Panda kız karakterli dört panelli anime manga
+### No. 168: Panda kız karakterli dört panelli anime manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5719,7 +7212,7 @@ Tipik bir Japon anime tarzında dört panelli bir manga oluşturun. Görsel, yuk
 
 ---
 
-### No. 138: Think-cell'in belge sorunlarını çözmesine ilişkin görsel açıklama
+### No. 169: Think-cell'in belge sorunlarını çözmesine ilişkin görsel açıklama
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5752,7 +7245,7 @@ Belge oluşturmanın sorunlarını ve Think-cell'in neleri çözebileceğini aç
 
 ---
 
-### No. 139: Herhangi bir karakter görseli için HUD savaş gücü katmanı
+### No. 170: Herhangi bir karakter görseli için HUD savaş gücü katmanı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5805,7 +7298,7 @@ görev: "görseli-düzenle: yalnızca tam ekran analiz HUD katmanı ekle"
 
 ---
 
-### No. 140: Hareketli gösterişli metin açığa çıkarma sırası
+### No. 171: Hareketli gösterişli metin açığa çıkarma sırası
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5838,7 +7331,7 @@ Metin, göz alıcı efektler ve animasyonlarla beliriyor.
 
 ---
 
-### No. 141: Güzel yürümenin nasıl yapılacağını açıklayan diyagram
+### No. 172: Güzel yürümenin nasıl yapılacağını açıklayan diyagram
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5871,7 +7364,7 @@ Güzel yürümenin nasıl yapılacağını gösteren bir diyagram oluşturun.
 
 ---
 
-### No. 142: İnsanlaştırılmış elma ve muz çifti
+### No. 173: İnsanlaştırılmış elma ve muz çifti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5910,7 +7403,7 @@ Güzel yürümenin nasıl yapılacağını gösteren bir diyagram oluşturun.
 
 ---
 
-### No. 143: Japonca temiz infografik stil kısıtlamaları
+### No. 174: Japonca temiz infografik stil kısıtlamaları
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5943,7 +7436,7 @@ Metni son derece az kullanın ve grafiksel ifadeye odaklanın. Japonca karakter 
 
 ---
 
-### No. 144: Nanami'nin ramen yediği 4 panelli Japon gag mangası
+### No. 175: Nanami'nin ramen yediği 4 panelli Japon gag mangası
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5977,7 +7470,7 @@ Genç Japon kadın "{argument name="character_name" default="Nanami"}"nin {argum
 
 ---
 
-### No. 145: Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi
+### No. 176: Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6067,7 +7560,7 @@ Her dönem doğal hissettirmeli ve tek bir 16:9 çerçeve içinde yan yana bir z
 
 ---
 
-### No. 146: Açık gri bir tavşanın bakış açısı
+### No. 177: Açık gri bir tavşanın bakış açısı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6106,7 +7599,7 @@ Açık gri tavşanın bakış açısından çekilmiş görüntü
 
 ---
 
-### No. 147: Siberpunk bakış açısıyla Bitcoin hakkında dört panelli manga
+### No. 178: Siberpunk bakış açısıyla Bitcoin hakkında dört panelli manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6139,7 +7632,7 @@ Referans görseldeki karakterin, siberpunk bakış açısıyla Bitcoin'in köken
 
 ---
 
-### No. 148: Buharda pişmiş çörek otomatına yapıştırılmış idol el ilanı
+### No. 179: Buharda pişmiş çörek otomatına yapıştırılmış idol el ilanı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6172,7 +7665,7 @@ El çizimi tarzındaki idol karakter broşürünü alıp, bir marketteki buharda
 
 ---
 
-### No. 149: Şehir fotoğrafını Vietnamlı motorcularla yağmurlu bir sahneye dönüştürün
+### No. 180: Şehir fotoğrafını Vietnamlı motorcularla yağmurlu bir sahneye dönüştürün
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6219,7 +7712,7 @@ Yağmur yağdığında, Vietnamlılar yağmurluk giyer ve motosiklet sürer.
 
 ---
 
-### No. 150: "Linjiangxian" şiiri için ders kitabı tarzı illüstrasyon
+### No. 181: "Linjiangxian" şiiri için ders kitabı tarzı illüstrasyon
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6259,7 +7752,7 @@ Klasik Çin şiiri "Linjiangxian · Yuvarlanan Yangtze Nehri Doğuya Akar" için
 
 ---
 
-### No. 151: Bir not makalesi için pop tarzı el ilanı görseli
+### No. 182: Bir not makalesi için pop tarzı el ilanı görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6293,7 +7786,7 @@ Bu Not makalesini tanıtmak için pop tarzı bir el ilanı görseli oluşturun. 
 
 ---
 
-### No. 152: Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni
+### No. 183: Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6344,7 +7837,7 @@ Bu kanepeye uygun bir oturma odası düzeni oluşturun. Evli bir çiftin yaşad�
 
 ---
 
-### No. 153: Bir araştırma makalesini açıklayan beyaz tahta tarzı slayt
+### No. 184: Bir araştırma makalesini açıklayan beyaz tahta tarzı slayt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6377,7 +7870,7 @@ Bu makaleyi, bilgileri anlamama yardımcı olacak Çinli bir profesör tarzı be
 
 ---
 
-### No. 154: Einstein, Elon Musk'tan selfie çekmeyi öğreniyor (Çince)
+### No. 185: Einstein, Elon Musk'tan selfie çekmeyi öğreniyor (Çince)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6411,7 +7904,7 @@ Dağınık saçlı Albert Einstein, şaşkınlıkla bir akıllı telefona bakıy
 
 ---
 
-### No. 155: Nano Banana Pro sürümü hakkında dikkat çekici küçük resim
+### No. 186: Nano Banana Pro sürümü hakkında dikkat çekici küçük resim
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6444,7 +7937,7 @@ Nano Banana Pro'nun çıktığını gösteren dikkat çekici bir küçük resim 
 
 ---
 
-### No. 156: Bruce Lee, bir dojo'da Yoda ile antrenman yapıyor
+### No. 187: Bruce Lee, bir dojo'da Yoda ile antrenman yapıyor
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6477,7 +7970,7 @@ Sarı tulum giyen Bruce Lee, Yoda ile dostane bir dövüş yapıyor. Bruce Lee'n
 
 ---
 
-### No. 157: Çerçeveler ve konuşma balonları içeren, yüksek detaylı hikaye-sanat düzeni
+### No. 188: Çerçeveler ve konuşma balonları içeren, yüksek detaylı hikaye-sanat düzeni
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6522,7 +8015,7 @@ Referans görselin sanat tarzını, narin çizgi çalışması ve yüksek detayl
 
 ---
 
-### No. 158: TV'den çıkan piksel oyun karakteri
+### No. 189: TV'den çıkan piksel oyun karakteri
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6555,7 +8048,7 @@ Pikselli bir video oyunu karakteri, TV ekranından oturma odasına tırmanmaya �
 
 ---
 
-### No. 159: Sevimli chibi kedi kulaklı kız illüstrasyonu
+### No. 190: Sevimli chibi kedi kulaklı kız illüstrasyonu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6589,7 +8082,7 @@ Sevimli, kedi kulaklı bir kız illüstrasyonu oluştur. Chibi tarzında, fırf�
 
 ---
 
-### No. 160: Referans kıyafetle eşleşecek şekilde giysiyi değiştirin
+### No. 191: Referans kıyafetle eşleşecek şekilde giysiyi değiştirin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6634,7 +8127,7 @@ Referanstaki kıyafetleri al ve benim kıyafetlerimi onlarla eşleşecek şekild
 
 ---
 
-### No. 161: Şık bir kadının hiper gerçekçi çevresel portresi istemi (kısmi)
+### No. 192: Şık bir kadının hiper gerçekçi çevresel portresi istemi (kısmi)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6673,7 +8166,7 @@ Hiper-gerçekçi, yoğun tropikal bambu ormanında duran şık genç bir kadın�
 
 ---
 
-### No. 162: Dört panelli manga şeritlerinden oluşan bağlantılı seri
+### No. 193: Dört panelli manga şeritlerinden oluşan bağlantılı seri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6724,7 +8217,7 @@ Dört panelli dört sayfalık manga oluşturun. Her dört panelli şeride kendi 
 
 ---
 
-### No. 163: Sitotoksik T hücrelerinin kanser hücrelerini öldürmesini gösteren bilimsel diyagram
+### No. 194: Sitotoksik T hücrelerinin kanser hücrelerini öldürmesini gösteren bilimsel diyagram
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6757,7 +8250,7 @@ Sitotoksik T hücrelerinin kanser hücrelerini tanıma ve öldürme sürecini ta
 
 ---
 
-### No. 164: Kaptan'ın yıpranmış seyir defteri taslağı
+### No. 195: Kaptan'ın yıpranmış seyir defteri taslağı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6790,7 +8283,7 @@ Eskimiş bir kaptanın seyir defteri. Luffy'nin lastik kolunu bir hazine sandı�
 
 ---
 
-### No. 165: Verilen makale metnini içeren dergi tarzı fotoğraf
+### No. 196: Verilen makale metnini içeren dergi tarzı fotoğraf
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6824,7 +8317,7 @@ Lütfen bu metni, güzel bir dergi makalesinin fotoğrafına kelimesi kelimesine
 
 ---
 
-### No. 166: Google markalı AIFocus Twitter başlığı
+### No. 197: Google markalı AIFocus Twitter başlığı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6857,7 +8350,7 @@ AIFocus için Google'ın marka tonu ve tasarım öğeleriyle uyumlu, MUZ temalı
 
 ---
 
-### No. 167: Siyah beyaz hayvanların 16 bit piksel sanat posteri
+### No. 198: Siyah beyaz hayvanların 16 bit piksel sanat posteri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6908,7 +8401,7 @@ Doğadaki tüm siyah beyaz hayvanları sergileyen 16 bit piksel sanat posteri. K
 
 ---
 
-### No. 168: Eyfel Kulesi, Çin Seddi, Kolezyum, Tac Mahal'in açıklamalı önemli nokta görselleri
+### No. 199: Eyfel Kulesi, Çin Seddi, Kolezyum, Tac Mahal'in açıklamalı önemli nokta görselleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6951,7 +8444,7 @@ Her görüntü, konumun ihtişamını vurgulamak için olağanüstü detay, canl
 
 ---
 
-### No. 169: Dünya'nın bir kedi gezegeni olduğunu düşünen bir perinin dört panelli mangası
+### No. 200: Dünya'nın bir kedi gezegeni olduğunu düşünen bir perinin dört panelli mangası
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6984,1325 +8477,13 @@ Cennetten Dünya'ya inen bir perinin dört panelli bir mangasını çizin. Karş
 
 ---
 
-### No. 170: Yapılandırılmış çatı katı kış portresi (JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Karlı bir çatıda duran bir kadını üç dikey bölümde, gözlerine, vücuduna ve yüzüne odaklanarak, retro Y2K ve neon kış havasıyla anlatan detaylı, JSON tarzı İngilizce bir komut istemi.
-
-#### 📝 İstem
-
-```
-{
-  "image_description": {
-    "upper_third": {
-      "focus": "{argument name=\"upper_focus_en\" default=\"Gözleri\"}",
-      "details": [
-        "Aşağıdaki bulanık şehir ışıklarını yansıtıyor",
-        "Kirpiklerine değen ince bir buz tabakası",
-        "Rüzgarın alnına birkaç saç telini itmesi"
-      ],
-      "vibe": "{argument name=\"upper_vibe_en\" default=\"Keskin retro-Y2K\"}"
-    },
-    "middle_third": {
-      "focus": "{argument name=\"middle_focus_en\" default=\"Vücudu ve yakın çevresi\"}",
-      "details": [
-        "Karla kaplı bir çatı katı şezlongunda uzanıyor",
-        "Payetli kışlık elbisesinin üzerine beyaz suni kürklü bir ceket giymiş",
-        "Kollarındaki kar tanelerinden yansıyan yumuşak neon parıltısı"
-      ]
-    },
-    "lower_third": {
-      "focus": "{argument name=\"lower_focus_en\" default=\"Yüzünün ve ellerinin yakın çekimi\"}",
-      "details": [
-        "Bir eli gözlerinin üzerinde kameraya dönük",
-        "Parlak pembe neon ışığı siper ediyor",
-        "Takılarına yapışmış kar taneleri",
-        "Dudaklarının yakınında oluşan minik damlacıklar"
-      ]
-    }
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886147117_zgmdh6_G6RAtP9WkAAyJUJ.jpg" width="600" alt="Yapılandırılmış çatı katı kış portresi (JSON) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886151281_x3vkyl_G6PoCMoXUAEgOy9.jpg" width="600" alt="Yapılandırılmış çatı katı kış portresi (JSON) - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Kaan](https://x.com/wkaandemir)
-- **Kaynak:** [Twitter Post](https://x.com/wkaandemir/status/1991788166941114799)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_description%22%3A%20%7B%0A%20%20%20%20%22upper_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22upper_focus_en%5C%22%20default%3D%5C%22G%C3%B6zleri%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22A%C5%9Fa%C4%9F%C4%B1daki%20bulan%C4%B1k%20%C5%9Fehir%20%C4%B1%C5%9F%C4%B1klar%C4%B1n%C4%B1%20yans%C4%B1t%C4%B1yor%22%2C%0A%20%20%20%20%20%20%20%20%22Kirpiklerine%20de%C4%9Fen%20ince%20bir%20buz%20tabakas%C4%B1%22%2C%0A%20%20%20%20%20%20%20%20%22R%C3%BCzgar%C4%B1n%20aln%C4%B1na%20birka%C3%A7%20sa%C3%A7%20telini%20itmesi%22%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22vibe%22%3A%20%22%7Bargument%20name%3D%5C%22upper_vibe_en%5C%22%20default%3D%5C%22Keskin%20retro-Y2K%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22middle_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22middle_focus_en%5C%22%20default%3D%5C%22V%C3%BCcudu%20ve%20yak%C4%B1n%20%C3%A7evresi%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Karla%20kapl%C4%B1%20bir%20%C3%A7at%C4%B1%20kat%C4%B1%20%C5%9Fezlongunda%20uzan%C4%B1yor%22%2C%0A%20%20%20%20%20%20%20%20%22Payetli%20k%C4%B1%C5%9Fl%C4%B1k%20elbisesinin%20%C3%BCzerine%20beyaz%20suni%20k%C3%BCrkl%C3%BC%20bir%20ceket%20giymi%C5%9F%22%2C%0A%20%20%20%20%20%20%20%20%22Kollar%C4%B1ndaki%20kar%20tanelerinden%20yans%C4%B1yan%20yumu%C5%9Fak%20neon%20par%C4%B1lt%C4%B1s%C4%B1%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22lower_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22lower_focus_en%5C%22%20default%3D%5C%22Y%C3%BCz%C3%BCn%C3%BCn%20ve%20ellerinin%20yak%C4%B1n%20%C3%A7ekimi%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Bir%20eli%20g%C3%B6zlerinin%20%C3%BCzerinde%20kameraya%20d%C3%B6n%C3%BCk%22%2C%0A%20%20%20%20%20%20%20%20%22Parlak%20pembe%20neon%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%20siper%20ediyor%22%2C%0A%20%20%20%20%20%20%20%20%22Tak%C4%B1lar%C4%B1na%20yap%C4%B1%C5%9Fm%C4%B1%C5%9F%20kar%20taneleri%22%2C%0A%20%20%20%20%20%20%20%20%22Dudaklar%C4%B1n%C4%B1n%20yak%C4%B1n%C4%B1nda%20olu%C5%9Fan%20minik%20damlac%C4%B1klar%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 171: Tavada dönmeye çalışan tuzlu balık
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Açıklama
-
-Bir tavada ters dönmeye çalışan tuzlanmış bir balığı tasvir eden, minimalist el çizimi tarzında ve eşlik eden metinle birlikte, memler veya motivasyonel şakalar için uygun, mizahi bir Çince istem.
-
-#### 📝 İstem
-
-```
-Bir tuzlu balık kızartma tavasında yatıyor, ters dönmek için çok uğraşıyor ama döndükten sonra bile hala bir tuzlu balık. Sanat tarzı minimalist el çizimi. Yanına şu başlığı ekleyin: "Tuzlu balık ters döner... ama hala bir tuzlu balıktır."
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886810362_yo1f0k_G6Q_SssbAAAOrWs.jpg" width="600" alt="Tavada dönmeye çalışan tuzlu balık - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [松果先森](https://x.com/songguoxiansen)
-- **Kaynak:** [Twitter Post](https://x.com/songguoxiansen/status/1991786544286642625)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bir%20tuzlu%20bal%C4%B1k%20k%C4%B1zartma%20tavas%C4%B1nda%20yat%C4%B1yor%2C%20ters%20d%C3%B6nmek%20i%C3%A7in%20%C3%A7ok%20u%C4%9Fra%C5%9F%C4%B1yor%20ama%20d%C3%B6nd%C3%BCkten%20sonra%20bile%20hala%20bir%20tuzlu%20bal%C4%B1k.%20Sanat%20tarz%C4%B1%20minimalist%20el%20%C3%A7izimi.%20Yan%C4%B1na%20%C5%9Fu%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20ekleyin%3A%20%22Tuzlu%20bal%C4%B1k%20ters%20d%C3%B6ner...%20ama%20hala%20bir%20tuzlu%20bal%C4%B1kt%C4%B1r.%22)**
-
----
-
-### No. 172: Uzun vadeli IP oluşturma hakkında elle çizilmiş infografik kartı
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Kişisel bir IP oluşturmanın uzun vadeli birikimi temalı, fırça yazısı Çince metin ve basit çizimlerle 9:16 oranında el çizimi bir infografik kart oluşturmak için ayrıntılı bir istem.
-
-#### 📝 İstem
-
-```
-9:16 dikey oranında, el çizimi tarzında bir infografik kartı oluşturun. Kartın belirgin bir teması olmalı, bej veya kirli beyaz kağıt dokulu bir arka plan ve genel olarak rustik, samimi, el çizimi bir estetiğe sahip olmalıdır.
-
-Kartın üst kısmında, izleyicinin dikkatini çekmek için çarpıcı kırmızı-siyah kontrastı kullanarak büyük, fırça tarzı el yazısı Çince karakterlerle başlığı vurgulayın. Tüm metin Çince el yazısı ile olmalıdır. Düzen, her biri ana noktaları ifade etmek için kısa, öz Çince ifadeler kullanan 2 ila 4 net bölüme ayrılmıştır. Yazı tipi, okunabilir ve sanatsal kalırken el yazısının akıcı ritmini korumalıdır.
-
-Görsel çekiciliği artırmak ve düşünceyi ve empatiyi tetiklemek için karta karakterler veya sembolik motifler gibi basit, eğlenceli el çizimi illüstrasyonlar veya simgeler ekleyin. Genel düzende görsel dengeyi koruyun ve tasarımın temiz, okunması kolay ve anlaşılması kolay kalması için yeterli beyaz alan bırakın.
-
-Tema şudur: “{argument name="theme" default="Kişisel bir IP oluşturmak uzun vadeli, bileşik bir süreçtir; her gün görünmeye devam ederseniz ve tutarlı bir şekilde sürdürürseniz, kesinlikle sonuçları göreceksiniz, çünkü insanların %99'u buna bağlı kalamaz."}”
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763889946989_0mephc_G6Q-oMuWkAAgOQr.jpg" width="600" alt="Uzun vadeli IP oluşturma hakkında elle çizilmiş infografik kartı - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [宝玉](https://x.com/dotey)
-- **Kaynak:** [Twitter Post](https://x.com/dotey/status/1991786129046044735)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=9%3A16%20dikey%20oran%C4%B1nda%2C%20el%20%C3%A7izimi%20tarz%C4%B1nda%20bir%20infografik%20kart%C4%B1%20olu%C5%9Fturun.%20Kart%C4%B1n%20belirgin%20bir%20temas%C4%B1%20olmal%C4%B1%2C%20bej%20veya%20kirli%20beyaz%20ka%C4%9F%C4%B1t%20dokulu%20bir%20arka%20plan%20ve%20genel%20olarak%20rustik%2C%20samimi%2C%20el%20%C3%A7izimi%20bir%20esteti%C4%9Fe%20sahip%20olmal%C4%B1d%C4%B1r.%0A%0AKart%C4%B1n%20%C3%BCst%20k%C4%B1sm%C4%B1nda%2C%20izleyicinin%20dikkatini%20%C3%A7ekmek%20i%C3%A7in%20%C3%A7arp%C4%B1c%C4%B1%20k%C4%B1rm%C4%B1z%C4%B1-siyah%20kontrast%C4%B1%20kullanarak%20b%C3%BCy%C3%BCk%2C%20f%C4%B1r%C3%A7a%20tarz%C4%B1%20el%20yaz%C4%B1s%C4%B1%20%C3%87ince%20karakterlerle%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20vurgulay%C4%B1n.%20T%C3%BCm%20metin%20%C3%87ince%20el%20yaz%C4%B1s%C4%B1%20ile%20olmal%C4%B1d%C4%B1r.%20D%C3%BCzen%2C%20her%20biri%20ana%20noktalar%C4%B1%20ifade%20etmek%20i%C3%A7in%20k%C4%B1sa%2C%20%C3%B6z%20%C3%87ince%20ifadeler%20kullanan%202%20ila%204%20net%20b%C3%B6l%C3%BCme%20ayr%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%20Yaz%C4%B1%20tipi%2C%20okunabilir%20ve%20sanatsal%20kal%C4%B1rken%20el%20yaz%C4%B1s%C4%B1n%C4%B1n%20ak%C4%B1c%C4%B1%20ritmini%20korumal%C4%B1d%C4%B1r.%0A%0AG%C3%B6rsel%20%C3%A7ekicili%C4%9Fi%20art%C4%B1rmak%20ve%20d%C3%BC%C5%9F%C3%BCnceyi%20ve%20empatiyi%20tetiklemek%20i%C3%A7in%20karta%20karakterler%20veya%20sembolik%20motifler%20gibi%20basit%2C%20e%C4%9Flenceli%20el%20%C3%A7izimi%20ill%C3%BCstrasyonlar%20veya%20simgeler%20ekleyin.%20Genel%20d%C3%BCzende%20g%C3%B6rsel%20dengeyi%20koruyun%20ve%20tasar%C4%B1m%C4%B1n%20temiz%2C%20okunmas%C4%B1%20kolay%20ve%20anla%C5%9F%C4%B1lmas%C4%B1%20kolay%20kalmas%C4%B1%20i%C3%A7in%20yeterli%20beyaz%20alan%20b%C4%B1rak%C4%B1n.%0A%0ATema%20%C5%9Fudur%3A%20%E2%80%9C%7Bargument%20name%3D%22theme%22%20default%3D%22Ki%C5%9Fisel%20bir%20IP%20olu%C5%9Fturmak%20uzun%20vadeli%2C%20bile%C5%9Fik%20bir%20s%C3%BCre%C3%A7tir%3B%20her%20g%C3%BCn%20g%C3%B6r%C3%BCnmeye%20devam%20ederseniz%20ve%20tutarl%C4%B1%20bir%20%C5%9Fekilde%20s%C3%BCrd%C3%BCr%C3%BCrseniz%2C%20kesinlikle%20sonu%C3%A7lar%C4%B1%20g%C3%B6receksiniz%2C%20%C3%A7%C3%BCnk%C3%BC%20insanlar%C4%B1n%20%2599'u%20buna%20ba%C4%9Fl%C4%B1%20kalamaz.%22%7D%E2%80%9D)**
-
----
-
-### No. 173: Yapıştırılan içeriğin Blackboard özeti
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Açıklama
-
-Verilen bir metni alıp tek bir kara tahta tarzı görsel özete dönüştüren basit bir komut istemi.
-
-#### 📝 İstem
-
-```
-Lütfen aşağıdaki içeriği tek bir karatahtada açıkça özetleyin.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886552076_sd4wd3_G6Q-cwGb0AAXK_L.jpg" width="600" alt="Yapıştırılan içeriğin Blackboard özeti - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [岡部颯太|船橋屋](https://x.com/soutaokabe)
-- **Kaynak:** [Twitter Post](https://x.com/soutaokabe/status/1991785607828533253)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=L%C3%BCtfen%20a%C5%9Fa%C4%9F%C4%B1daki%20i%C3%A7eri%C4%9Fi%20tek%20bir%20karatahtada%20a%C3%A7%C4%B1k%C3%A7a%20%C3%B6zetleyin.)**
-
----
-
-### No. 174: Nano Banana Pro hakkında 4 tür 4 panelli manga
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Sağlanan karakter ve panel düzeni referans görsellerini kullanarak, Nano Banana Pro'yu sonunda eğlenceli bir sürprizle açıklayan dört farklı Japon dört panelli manga oluşturan ayrıntılı bir komut istemi.
-
-#### 📝 İstem
-
-```
-Lütfen referans görsellerdeki erkek ve kadın karakterleri içeren 4 panelli bir Japon mangası oluşturun. Referans görseldeki panel düzenini kullanın. Tema, yeni duyurulan {argument name="subject_en" default="Nano Banana Pro"} olmalı ve son, dördüncü panele komik bir espri ekleyin. Üretken yapay zekaya aşina olmayan kullanıcıların bile {argument name="subject_en_again" default="Nano Banana Pro"}'nun ne hakkında olduğunu kolayca anlayabileceği sezgisel bir yapı oluşturun. Bu koşullar altında, dört farklı 4 panelli manga oluşturun.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886513261_0uxvic_G6Q-NGxbQAAOp8b.jpg" width="600" alt="Nano Banana Pro hakkında 4 tür 4 panelli manga - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [小倉＠医療系Pythonプログラム開発サポート](https://x.com/jun_ogulinks)
-- **Kaynak:** [Twitter Post](https://x.com/jun_ogulinks/status/1991785337639866484)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=L%C3%BCtfen%20referans%20g%C3%B6rsellerdeki%20erkek%20ve%20kad%C4%B1n%20karakterleri%20i%C3%A7eren%204%20panelli%20bir%20Japon%20mangas%C4%B1%20olu%C5%9Fturun.%20Referans%20g%C3%B6rseldeki%20panel%20d%C3%BCzenini%20kullan%C4%B1n.%20Tema%2C%20yeni%20duyurulan%20%7Bargument%20name%3D%22subject_en%22%20default%3D%22Nano%20Banana%20Pro%22%7D%20olmal%C4%B1%20ve%20son%2C%20d%C3%B6rd%C3%BCnc%C3%BC%20panele%20komik%20bir%20espri%20ekleyin.%20%C3%9Cretken%20yapay%20zekaya%20a%C5%9Fina%20olmayan%20kullan%C4%B1c%C4%B1lar%C4%B1n%20bile%20%7Bargument%20name%3D%22subject_en_again%22%20default%3D%22Nano%20Banana%20Pro%22%7D'nun%20ne%20hakk%C4%B1nda%20oldu%C4%9Funu%20kolayca%20anlayabilece%C4%9Fi%20sezgisel%20bir%20yap%C4%B1%20olu%C5%9Fturun.%20Bu%20ko%C5%9Fullar%20alt%C4%B1nda%2C%20d%C3%B6rt%20farkl%C4%B1%204%20panelli%20manga%20olu%C5%9Fturun.)**
-
----
-
-### No. 175: Cam beyaz tahtada Python Fibonacci kodu
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Renkli kalemlerle cam bir beyaz tahta üzerine yazılmış Python Fibonacci kodunun fotoğrafa benzer bir görüntüsünü oluşturmak için bir istem, teknoloji veya kodlama temalı görseller için harika.
-
-#### 📝 İstem
-
-```
-Fibonacci sayılarını hesaplamak için {argument name="programming_language_en" default="Python"} kodunun, renkli kalemlerle cam bir beyaz tahta üzerine çizilmiş bir fotoğrafını oluştur.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763887119884_tdofiz_G6Q7IqsXUAA41_W.jpg" width="600" alt="Cam beyaz tahtada Python Fibonacci kodu - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Patrick Loeber](https://x.com/patloeber)
-- **Kaynak:** [Twitter Post](https://x.com/patloeber/status/1991781961610981714)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Fibonacci%20say%C4%B1lar%C4%B1n%C4%B1%20hesaplamak%20i%C3%A7in%20%7Bargument%20name%3D%22programming_language_en%22%20default%3D%22Python%22%7D%20kodunun%2C%20renkli%20kalemlerle%20cam%20bir%20beyaz%20tahta%20%C3%BCzerine%20%C3%A7izilmi%C5%9F%20bir%20foto%C4%9Fraf%C4%B1n%C4%B1%20olu%C5%9Ftur.)**
-
----
-
-### No. 176: Chibi Karakter LINE Çıkartma Seti
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Ekli bir karakteri chibi tarzına dönüştürmek ve farklı ifadeler, pozlar ve konuşma balonları içeren 12 parçalı bir LINE çıkartma seti oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Ekli görseldeki karakteri bir chibi karaktere dönüştürün. Farklı ifadeler, pozlar ve konuşma balonları içeren, {argument name="num_stamps_en" default="12"} varyasyonlu LINE çıkartmaları oluşturun.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886550479_5bflpy_G6Q5lyJbEAAI5Pb.jpg" width="600" alt="Chibi Karakter LINE Çıkartma Seti - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886553249_qsyusa_G6Q5lyHaQAA02bY.jpg" width="600" alt="Chibi Karakter LINE Çıkartma Seti - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [イーサン・マスク](https://x.com/0uhly2VacK23204)
-- **Kaynak:** [Twitter Post](https://x.com/0uhly2VacK23204/status/1991780261068226776)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Ekli%20g%C3%B6rseldeki%20karakteri%20bir%20chibi%20karaktere%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn.%20Farkl%C4%B1%20ifadeler%2C%20pozlar%20ve%20konu%C5%9Fma%20balonlar%C4%B1%20i%C3%A7eren%2C%20%7Bargument%20name%3D%22num_stamps_en%22%20default%3D%2212%22%7D%20varyasyonlu%20LINE%20%C3%A7%C4%B1kartmalar%C4%B1%20olu%C5%9Fturun.)**
-
----
-
-### No. 177: Ulusal Tıbbi Veri Stratejisi Hakkında Politika Tarzı Slayt
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Açıklama
-
-Nano Banana Pro'dan tıbbi verilere ilişkin ulusal politikanın gelecekteki yönünü araştırmasını ve tıbbi veri şirketlerinin nasıl olması gerektiği konusunda yoğun, Kabine Ofisi tarzında bir slayt oluşturmasını isteyen bir Japonca istem.
-
-#### 📝 İstem
-
-```
-Ulusal tıbbi veri politikasının gelecekteki yönünü araştırdıktan sonra, tıbbi veri şirketlerinin gelecekte nasıl olması gerektiğini gösteren, Kabine Ofisi komite materyalleri gibi çok sayıda metin içeren, kabataslak tarzda bir slayt görseli oluşturun.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886317117_qpj4dq_G6Q5MAFacAUc-tE.jpg" width="600" alt="Ulusal Tıbbi Veri Stratejisi Hakkında Politika Tarzı Slayt - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Jun Harada](https://x.com/hrjn)
-- **Kaynak:** [Twitter Post](https://x.com/hrjn/status/1991779958600134854)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Ulusal%20t%C4%B1bbi%20veri%20politikas%C4%B1n%C4%B1n%20gelecekteki%20y%C3%B6n%C3%BCn%C3%BC%20ara%C5%9Ft%C4%B1rd%C4%B1ktan%20sonra%2C%20t%C4%B1bbi%20veri%20%C5%9Firketlerinin%20gelecekte%20nas%C4%B1l%20olmas%C4%B1%20gerekti%C4%9Fini%20g%C3%B6steren%2C%20Kabine%20Ofisi%20komite%20materyalleri%20gibi%20%C3%A7ok%20say%C4%B1da%20metin%20i%C3%A7eren%2C%20kabataslak%20tarzda%20bir%20slayt%20g%C3%B6rseli%20olu%C5%9Fturun.)**
-
----
-
-### No. 178: İki karakterli doujinshi kapağı
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Sağlanan iki karakter görselini hayran yapımı bir doujinshi kapağına dönüştüren hızlı bir istem.
-
-#### 📝 İstem
-
-```
-{argument name="number_of_characters_en" default="Bu iki karakterin"} yer aldığı bir doujinshi'nin kapağı.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886504130_azrlpp_G6Q4s2xacAsvivR.jpg" width="600" alt="İki karakterli doujinshi kapağı - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [852話(hakoniwa)](https://x.com/8co28)
-- **Kaynak:** [Twitter Post](https://x.com/8co28/status/1991779823178641681)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22number_of_characters_en%22%20default%3D%22Bu%20iki%20karakterin%22%7D%20yer%20ald%C4%B1%C4%9F%C4%B1%20bir%20doujinshi'nin%20kapa%C4%9F%C4%B1.)**
-
----
-
-### No. 179: Rakun figürü için ürün reklamı tarzında görsel
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Açıklama
-
-Sağlanan bir figür fotoğrafını, "Tanu Figür" adlı bir rakun figürü için Japon ürün reklamına dönüştüren, bonus küçük bir rakun ve çıkış bilgilerini vurgulayan bir komut istemi.
-
-#### 📝 İstem
-
-```
-Bu görseldeki figür için bir reklam. Metin Japonca olmalıdır. Ürün adı "Tanu Figure"dir. Şimdilik, bonus olarak küçük bir rakun dahildir. 2026'da piyasaya sürülmesi planlanıyor. Fiyatı henüz belirlenmedi.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886396175_34n70g_G6Q5JtvacAUuAQ6.jpg" width="600" alt="Rakun figürü için ürün reklamı tarzında görsel - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886399868_6zfqlk_G6Q5JtracAEyiq-.jpg" width="600" alt="Rakun figürü için ürün reklamı tarzında görsel - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [赤城（あかぎ）](https://x.com/akagi401)
-- **Kaynak:** [Twitter Post](https://x.com/akagi401/status/1991779779197157448)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bu%20g%C3%B6rseldeki%20fig%C3%BCr%20i%C3%A7in%20bir%20reklam.%20Metin%20Japonca%20olmal%C4%B1d%C4%B1r.%20%C3%9Cr%C3%BCn%20ad%C4%B1%20%22Tanu%20Figure%22dir.%20%C5%9Eimdilik%2C%20bonus%20olarak%20k%C3%BC%C3%A7%C3%BCk%20bir%20rakun%20dahildir.%202026'da%20piyasaya%20s%C3%BCr%C3%BClmesi%20planlan%C4%B1yor.%20Fiyat%C4%B1%20hen%C3%BCz%20belirlenmedi.)**
-
----
-
-### No. 180: Çince beyaz tahta fotoğrafı olarak makale özeti
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Açıklama
-
-Bir makalenin içeriğini görsel bilgi sıkıştırma için özetlenmiş, Çin tarzı beyaz tahta fotoğrafına dönüştüren bir komut istemi.
-
-#### 📝 İstem
-
-```
-Bu makaleyi özetleyin ve Çince beyaz tahta tarzı bir fotoğrafa dönüştürün.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886866812_0u3dqk_G6Qz3TZW4AAMweD.jpg" width="600" alt="Çince beyaz tahta fotoğrafı olarak makale özeti - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886869233_uojom6_G6Q0s48WEAA06yE.jpg" width="600" alt="Çince beyaz tahta fotoğrafı olarak makale özeti - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886872214_xzg6p5_G6PxynpWcAALinh.jpg" width="600" alt="Çince beyaz tahta fotoğrafı olarak makale özeti - Image 3">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [桃子队长](https://x.com/capmmk)
-- **Kaynak:** [Twitter Post](https://x.com/capmmk/status/1991775163655024848)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bu%20makaleyi%20%C3%B6zetleyin%20ve%20%C3%87ince%20beyaz%20tahta%20tarz%C4%B1%20bir%20foto%C4%9Frafa%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn.)**
-
----
-
-### No. 181: Goril ve tavşanlı bir radyo programı için reklam mangası
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Açıklama
-
-Gece geç saatlerde yayınlanan bir radyo programı için ekteki goril ve tavşan karakterlerini, ses efektleri ve yayın bilgileri dahil olmak üzere tek sayfalık renkli bir reklam mangasına dönüştürecek bir komut istemi.
-
-#### 📝 İstem
-
-```
-Goril ve tavşanın ekteki görsellerini kullanın. Goril ve tavşanın sunuculuğunu yaptığı "Genki no Deru Radio" adlı radyo programı için bir reklam mangası oluşturun. Program her Çarşamba saat 22:15'te X Spaces'te yayınlanmaktadır. Tek sayfalık, renkli ve ses efekti metni içeren bir manga olsun.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886369701_sf7129_G6Q0S5FacAUkJCh.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886373307_j8tgmt_G6Q0WyxbMAAW8Oi.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886376112_3z2wze_G6Q0bCzbgAAKWSe.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886379874_7w0c6a_G6Q0cYIacAANC87.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 4">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [きゅにお@行けたら行くで来る率高い小学5年生は人造人間108号📦🚀⛑️](https://x.com/eggkyunio)
-- **Kaynak:** [Twitter Post](https://x.com/eggkyunio/status/1991774896276603361)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Goril%20ve%20tav%C5%9Fan%C4%B1n%20ekteki%20g%C3%B6rsellerini%20kullan%C4%B1n.%20Goril%20ve%20tav%C5%9Fan%C4%B1n%20sunuculu%C4%9Funu%20yapt%C4%B1%C4%9F%C4%B1%20%22Genki%20no%20Deru%20Radio%22%20adl%C4%B1%20radyo%20program%C4%B1%20i%C3%A7in%20bir%20reklam%20mangas%C4%B1%20olu%C5%9Fturun.%20Program%20her%20%C3%87ar%C5%9Famba%20saat%2022%3A15'te%20X%20Spaces'te%20yay%C4%B1nlanmaktad%C4%B1r.%20Tek%20sayfal%C4%B1k%2C%20renkli%20ve%20ses%20efekti%20metni%20i%C3%A7eren%20bir%20manga%20olsun.)**
-
----
-
-### No. 182: Everest Dağı'nın zirvesinde bir otoportre
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Kullanıcının yüklediği bir portre fotoğrafını Everest Dağı'nın zirvesine son derece gerçekçi bir tarzda yerleştirmek için bir bilgi istemi fikri.
-
-#### 📝 İstem
-
-```
-Beni Everest'in zirvesine yerleştir.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886007632_qn1pk3_yP6Eu6_ODiGBnGHb.jpg" width="600" alt="Everest Dağı'nın zirvesinde bir otoportre - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [عمر العطاس](https://x.com/omer_attas)
-- **Kaynak:** [Twitter Post](https://x.com/omer_attas/status/1991773850577809655)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Beni%20Everest'in%20zirvesine%20yerle%C5%9Ftir.)**
-
----
-
-### No. 183: Aç bir kadın ve pankekler hakkında dört panelli manga
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Parlak, detaylı kıyafetli Japon bir kadının açlıktan mutlu bir şekilde pankek yemesine kadar geçen süreci anlatan dört panelli bir manga oluşturmak için yapılandırılmış bir Japonca istem.
-
-#### 📝 İstem
-
-```
-Ana karakteri bir kadın olan 4 panelli bir manga oluşturmak istiyorum.
-Kadın {argument name="nationality_en" default="Japon"}. Neşeli bir ifadesi var.
-{argument name="hairstyle_en" default="Kızıl kurdeleyle bağlanmış sarı bir at kuyruğu."}
-{argument name="top_outfit_en" default="Göğsünde gökkuşağı renkli çiçek yaması olan beyaz bir gömlek."}
-{argument name="bottom_outfit_en" default="Kot pantolon ve kırmızı topuklu ayakkabılar."}
-
-1: Kadın yürüyor ve “{argument name="line1_en" default="Ah, çok açım"}” diyor.
-2: Kadın bir dükkanın vitrinine bakıyor ve “{argument name="line2_en" default="Şu pankekler çok lezzetli görünüyor"}” diyor.
-3: Kadın dükkanda bir masada oturuyor ve “{argument name="line3_en" default="Yemek yemek için sabırsızlanıyorum"}” diyor.
-4: Kadın pankek yiyor ve “{argument name="line4_en" default="Çok lezzetli! Ama şişmanlayacağım!"}” diyor.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886272247_r4i8bs_G6QzoOaacAQYUzi.jpg" width="600" alt="Aç bir kadın ve pankekler hakkında dört panelli manga - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [内田勉 AIキャラと話せるHINA chat開発してます](https://x.com/sidodtv)
-- **Kaynak:** [Twitter Post](https://x.com/sidodtv/status/1991773708248330537)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Ana%20karakteri%20bir%20kad%C4%B1n%20olan%204%20panelli%20bir%20manga%20olu%C5%9Fturmak%20istiyorum.%0AKad%C4%B1n%20%7Bargument%20name%3D%22nationality_en%22%20default%3D%22Japon%22%7D.%20Ne%C5%9Feli%20bir%20ifadesi%20var.%0A%7Bargument%20name%3D%22hairstyle_en%22%20default%3D%22K%C4%B1z%C4%B1l%20kurdeleyle%20ba%C4%9Flanm%C4%B1%C5%9F%20sar%C4%B1%20bir%20at%20kuyru%C4%9Fu.%22%7D%0A%7Bargument%20name%3D%22top_outfit_en%22%20default%3D%22G%C3%B6%C4%9Fs%C3%BCnde%20g%C3%B6kku%C5%9Fa%C4%9F%C4%B1%20renkli%20%C3%A7i%C3%A7ek%20yamas%C4%B1%20olan%20beyaz%20bir%20g%C3%B6mlek.%22%7D%0A%7Bargument%20name%3D%22bottom_outfit_en%22%20default%3D%22Kot%20pantolon%20ve%20k%C4%B1rm%C4%B1z%C4%B1%20topuklu%20ayakkab%C4%B1lar.%22%7D%0A%0A1%3A%20Kad%C4%B1n%20y%C3%BCr%C3%BCyor%20ve%20%E2%80%9C%7Bargument%20name%3D%22line1_en%22%20default%3D%22Ah%2C%20%C3%A7ok%20a%C3%A7%C4%B1m%22%7D%E2%80%9D%20diyor.%0A2%3A%20Kad%C4%B1n%20bir%20d%C3%BCkkan%C4%B1n%20vitrinine%20bak%C4%B1yor%20ve%20%E2%80%9C%7Bargument%20name%3D%22line2_en%22%20default%3D%22%C5%9Eu%20pankekler%20%C3%A7ok%20lezzetli%20g%C3%B6r%C3%BCn%C3%BCyor%22%7D%E2%80%9D%20diyor.%0A3%3A%20Kad%C4%B1n%20d%C3%BCkkanda%20bir%20masada%20oturuyor%20ve%20%E2%80%9C%7Bargument%20name%3D%22line3_en%22%20default%3D%22Yemek%20yemek%20i%C3%A7in%20sab%C4%B1rs%C4%B1zlan%C4%B1yorum%22%7D%E2%80%9D%20diyor.%0A4%3A%20Kad%C4%B1n%20pankek%20yiyor%20ve%20%E2%80%9C%7Bargument%20name%3D%22line4_en%22%20default%3D%22%C3%87ok%20lezzetli!%20Ama%20%C5%9Fi%C5%9Fmanlayaca%C4%9F%C4%B1m!%22%7D%E2%80%9D%20diyor.)**
-
----
-
-### No. 184: Karpuzlu yüzme havuzu mikro dünyası
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Açıklama
-
-Dev bir karpuzun kesitinin tuhaf bir tasviri: karpuzun içi, içinde minik insanların dinlendiği bir yüzme havuzu ve eğlenceli bir yaz havası uyandırıyor.
-
-#### 📝 İstem
-
-```
-Dev bir karpuzun kesit görünümü. Kırmızı et aslında kırmızı suyla dolu bir yüzme havuzu. Siyah karpuz çekirdekleri yüzme simitleri. Minyatür insanlar karpuz kabuğunda yüzüyor ve güneşleniyor. Yaz havası.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886756202_1g3q3v_G6QxDHEacAIO_xc.jpg" width="600" alt="Karpuzlu yüzme havuzu mikro dünyası - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [松果先森](https://x.com/songguoxiansen)
-- **Kaynak:** [Twitter Post](https://x.com/songguoxiansen/status/1991770878154272790)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Dev%20bir%20karpuzun%20kesit%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC.%20K%C4%B1rm%C4%B1z%C4%B1%20et%20asl%C4%B1nda%20k%C4%B1rm%C4%B1z%C4%B1%20suyla%20dolu%20bir%20y%C3%BCzme%20havuzu.%20Siyah%20karpuz%20%C3%A7ekirdekleri%20y%C3%BCzme%20simitleri.%20Minyat%C3%BCr%20insanlar%20karpuz%20kabu%C4%9Funda%20y%C3%BCz%C3%BCyor%20ve%20g%C3%BCne%C5%9Fleniyor.%20Yaz%20havas%C4%B1.)**
-
----
-
-### No. 185: Bulutların içinde gerçeküstü yarı saydam mavi balina
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Açıklama
-
-Dev bir saydam mavi balinanın bulutların arasında yüzdüğü, gökkuşağını kırdığı, görkemli ve gerçeküstü bir altın saat sahnesini anlatan Çince bir komut istemi.
-
-#### 📝 İstem
-
-```
-Altın saatlerde, devasa, yarı saydam bir mavi balina, beyaz, kabarık bulutlardan oluşan bir denizde yüzüyor. Balinanın gövdesi deniz suyundan yapılmış ve içinde yüzen balık sürülerini görebilirsiniz. Güneş ışığı, sudan oluşan balinanın içinden geçerek bir gökkuşağına dönüşüyor. Sahne gerçeküstü ve muhteşem derecede görkemli.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886763402_um7z88_G6QvTkCacAATNjA.jpg" width="600" alt="Bulutların içinde gerçeküstü yarı saydam mavi balina - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [松果先森](https://x.com/songguoxiansen)
-- **Kaynak:** [Twitter Post](https://x.com/songguoxiansen/status/1991768984195400068)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Alt%C4%B1n%20saatlerde%2C%20devasa%2C%20yar%C4%B1%20saydam%20bir%20mavi%20balina%2C%20beyaz%2C%20kabar%C4%B1k%20bulutlardan%20olu%C5%9Fan%20bir%20denizde%20y%C3%BCz%C3%BCyor.%20Balinan%C4%B1n%20g%C3%B6vdesi%20deniz%20suyundan%20yap%C4%B1lm%C4%B1%C5%9F%20ve%20i%C3%A7inde%20y%C3%BCzen%20bal%C4%B1k%20s%C3%BCr%C3%BClerini%20g%C3%B6rebilirsiniz.%20G%C3%BCne%C5%9F%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%2C%20sudan%20olu%C5%9Fan%20balinan%C4%B1n%20i%C3%A7inden%20ge%C3%A7erek%20bir%20g%C3%B6kku%C5%9Fa%C4%9F%C4%B1na%20d%C3%B6n%C3%BC%C5%9F%C3%BCyor.%20Sahne%20ger%C3%A7ek%C3%BCst%C3%BC%20ve%20muhte%C5%9Fem%20derecede%20g%C3%B6rkemli.)**
-
----
-
-### No. 186: Yin-yang koi mürekkep illüstrasyonu
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Açıklama
-
-Sakin, meditatif sanat eserleri veya duvar kağıtları için harika olan, suda yin-yang sembolü oluşturan iki koi balığının minimalist, zen tarzı yukarıdan görünümünü oluşturmak için Çince bir komut istemi.
-
-#### 📝 İstem
-
-```
-İki koi balığı suda yüzerek mükemmel bir yin-yang Taiji deseni oluşturuyor. Balıklardan biri siyah mürekkep benzeri dumandan, diğeri ise parlayan beyaz ışıktan oluşuyor. Kuşbakışı görünüm, su yüzeyindeki dalgalanmalar. Zen havası, minimalist tarz.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886767893_0xgtq6_G6QuUsWacAArtgo.jpg" width="600" alt="Yin-yang koi mürekkep illüstrasyonu - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [松果先森](https://x.com/songguoxiansen)
-- **Kaynak:** [Twitter Post](https://x.com/songguoxiansen/status/1991768051654762799)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%C4%B0ki%20koi%20bal%C4%B1%C4%9F%C4%B1%20suda%20y%C3%BCzerek%20m%C3%BCkemmel%20bir%20yin-yang%20Taiji%20deseni%20olu%C5%9Fturuyor.%20Bal%C4%B1klardan%20biri%20siyah%20m%C3%BCrekkep%20benzeri%20dumandan%2C%20di%C4%9Feri%20ise%20parlayan%20beyaz%20%C4%B1%C5%9F%C4%B1ktan%20olu%C5%9Fuyor.%20Ku%C5%9Fbak%C4%B1%C5%9F%C4%B1%20g%C3%B6r%C3%BCn%C3%BCm%2C%20su%20y%C3%BCzeyindeki%20dalgalanmalar.%20Zen%20havas%C4%B1%2C%20minimalist%20tarz.)**
-
----
-
-### No. 187: Bir kalp kırıklığı yaşayan kız figürü için figür tarzı ürün sayfası tasarımı
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Logolar, yakınlaştırılmış detaylar ve profesyonel bir figür ürün listelemesi gibi bir düzen dahil olmak üzere, bir görüntüyü ultra detaylı figür tarzı bir ürün sayfasına dönüştürmek için ayrıntılı bir bilgi istemi.
-
-#### 📝 İstem
-
-```
-Bu görseli ultra detaylı bir figür tarzı render'a dönüştürün ve bir ürün tanıtım sayfası tasarlayın.
-Ürün adı: "{argument name="product_name_en" default="Heartbreak Girls"}".
-Bu, 1/{argument name="scale_en" default="7"} ölçekli bir figürdür.
-Üretici adı: "{argument name="manufacturer_en" default="TENNEN"}".
-Logo, yuvarlak mavi bir karenin içinde "{argument name="logo_text_en" default="TENNEN"}" kelimesi olmalıdır. "{argument name="logo_top_en" default="TEN"}" kelimesinden sonra satır sonu yapın ve bir sonraki satır olan "{argument name="logo_bottom_en" default="NEN"}" kelimesini satırın başına hizalayarak yuvarlak mavi karenin içine mümkün olduğunca büyük yerleştirin.
-Ürün tanıtımına benzemesi ve profesyonel, görsel olarak çekici bir tasarıma sahip olması için yakınlaştırılmış detay görünümleri vb. yerleştirin.
-Ayrıca "{argument name="product_name_en_again" default="Heartbreak Girls"}" yazısını bir logo gibi gösterin.
-Düzgün bir ürün tanıtım sayfası gibi görünmesini sağlayın.
-Çıkış tarihi: {argument name="release_season_en" default="Kış 2025"}.
-Prototip heykeltıraş: {argument name="sculptor_name_en" default="Tennen"}.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886568950_hg4jfg_G6QsHDgacAANhhz.jpg" width="600" alt="Bir kalp kırıklığı yaşayan kız figürü için figür tarzı ürün sayfası tasarımı - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886572822_uvcn77_G6Qspn7bwAA0eGf.jpg" width="600" alt="Bir kalp kırıklığı yaşayan kız figürü için figür tarzı ürün sayfası tasarımı - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [てんねん](https://x.com/munou_ac)
-- **Kaynak:** [Twitter Post](https://x.com/munou_ac/status/1991767005557583966)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bu%20g%C3%B6rseli%20ultra%20detayl%C4%B1%20bir%20fig%C3%BCr%20tarz%C4%B1%20render'a%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn%20ve%20bir%20%C3%BCr%C3%BCn%20tan%C4%B1t%C4%B1m%20sayfas%C4%B1%20tasarlay%C4%B1n.%0A%C3%9Cr%C3%BCn%20ad%C4%B1%3A%20%22%7Bargument%20name%3D%22product_name_en%22%20default%3D%22Heartbreak%20Girls%22%7D%22.%0ABu%2C%201%2F%7Bargument%20name%3D%22scale_en%22%20default%3D%227%22%7D%20%C3%B6l%C3%A7ekli%20bir%20fig%C3%BCrd%C3%BCr.%0A%C3%9Cretici%20ad%C4%B1%3A%20%22%7Bargument%20name%3D%22manufacturer_en%22%20default%3D%22TENNEN%22%7D%22.%0ALogo%2C%20yuvarlak%20mavi%20bir%20karenin%20i%C3%A7inde%20%22%7Bargument%20name%3D%22logo_text_en%22%20default%3D%22TENNEN%22%7D%22%20kelimesi%20olmal%C4%B1d%C4%B1r.%20%22%7Bargument%20name%3D%22logo_top_en%22%20default%3D%22TEN%22%7D%22%20kelimesinden%20sonra%20sat%C4%B1r%20sonu%20yap%C4%B1n%20ve%20bir%20sonraki%20sat%C4%B1r%20olan%20%22%7Bargument%20name%3D%22logo_bottom_en%22%20default%3D%22NEN%22%7D%22%20kelimesini%20sat%C4%B1r%C4%B1n%20ba%C5%9F%C4%B1na%20hizalayarak%20yuvarlak%20mavi%20karenin%20i%C3%A7ine%20m%C3%BCmk%C3%BCn%20oldu%C4%9Funca%20b%C3%BCy%C3%BCk%20yerle%C5%9Ftirin.%0A%C3%9Cr%C3%BCn%20tan%C4%B1t%C4%B1m%C4%B1na%20benzemesi%20ve%20profesyonel%2C%20g%C3%B6rsel%20olarak%20%C3%A7ekici%20bir%20tasar%C4%B1ma%20sahip%20olmas%C4%B1%20i%C3%A7in%20yak%C4%B1nla%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F%20detay%20g%C3%B6r%C3%BCn%C3%BCmleri%20vb.%20yerle%C5%9Ftirin.%0AAyr%C4%B1ca%20%22%7Bargument%20name%3D%22product_name_en_again%22%20default%3D%22Heartbreak%20Girls%22%7D%22%20yaz%C4%B1s%C4%B1n%C4%B1%20bir%20logo%20gibi%20g%C3%B6sterin.%0AD%C3%BCzg%C3%BCn%20bir%20%C3%BCr%C3%BCn%20tan%C4%B1t%C4%B1m%20sayfas%C4%B1%20gibi%20g%C3%B6r%C3%BCnmesini%20sa%C4%9Flay%C4%B1n.%0A%C3%87%C4%B1k%C4%B1%C5%9F%20tarihi%3A%20%7Bargument%20name%3D%22release_season_en%22%20default%3D%22K%C4%B1%C5%9F%202025%22%7D.%0APrototip%20heykelt%C4%B1ra%C5%9F%3A%20%7Bargument%20name%3D%22sculptor_name_en%22%20default%3D%22Tennen%22%7D.)**
-
----
-
-### No. 188: İki fotoğraf arasında kıyafet aktarımı
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Giysileri bir referans görselden alıp başka bir görseldeki bir kişinin üzerine taşıyarak, giysilerin bilerek büyük beden görünmesini sağlar.
-
-#### 📝 İstem
-
-```
-1. görseldeki kıyafetleri alıp 2. görseldeki kişinin üzerine giydir. Kıyafetlerin bol olduğundan emin ol.
-
-2k kalite 0.14
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763887435473_8n9bws_G6QssNtacAACn18.jpg" width="600" alt="İki fotoğraf arasında kıyafet aktarımı - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763887438384_i92wiw_G6QssNjbkAA5wY1.jpg" width="600" alt="İki fotoğraf arasında kıyafet aktarımı - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763887441000_khtarl_G6QssNpbIAAsjUH.jpg" width="600" alt="İki fotoğraf arasında kıyafet aktarımı - Image 3">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [zhenya](https://x.com/genue)
-- **Kaynak:** [Twitter Post](https://x.com/genue/status/1991766084215795877)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=1.%20g%C3%B6rseldeki%20k%C4%B1yafetleri%20al%C4%B1p%202.%20g%C3%B6rseldeki%20ki%C5%9Finin%20%C3%BCzerine%20giydir.%20K%C4%B1yafetlerin%20bol%20oldu%C4%9Fundan%20emin%20ol.%0A%0A2k%20kalite%200.14)**
-
----
-
-### No. 189: Genç bir kadının tek renkli sinematik portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Minimalist bir arka plana ve sinematik aydınlatmaya sahip genç bir kadının ultra gerçekçi monokrom portresini tanımlayan, yapılandırılmış, JSON tarzı bir istem.
-
-#### 📝 İstem
-
-```
-İfade dolu gözlere ve sakin, yoğun bir bakışa sahip genç bir kadının sinematik, ultra gerçekçi, tek renkli portresi. Kısa, koyu, özenle şekillendirilmiş saçları; yansıtıcı vurgulara ve son derece etkileyici bir görünüme sahip çarpıcı gözleri; hafif çilleri ve gerçekçi dokusu olan açık teni; yumuşak hatlı, doğal şekilli dudakları var. İfadesi sakin ve yoğun, bakışları doğrudan. Beyaz dokulu yakalı siyah giysiler giyiyor, bu da güçlü bir kontrast oluşturuyor. Arka plan pürüzsüz, tek renkli bir gradyan, minimalist ve odağı yüzüne çekiyor. Yüz hatlarında hafif vurgular ve ince gölge derinliği ile yumuşak ama yüksek kontrastlı tek renkli aydınlatma kullanarak sinematik, temiz, rafine bir etki yaratın. Yakın çekim bir portre olarak çerçeveleyin, ultra gerçekçi ve yüksek çözünürlüklü, ince bir ton aralığına, gözlerde ve yüz detaylarında keskin bir odağa ve pürüzsüz bir arka plan gradyanına sahip olsun. Genel estetik minimalist, sanatsal ve zarif; yüksek doku detayına, net tek renkli işlemeye ve üstün gerçekçiliğe sahip.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763887081947_bla0pc_G6QsGexbMAA43DK.jpg" width="600" alt="Genç bir kadının tek renkli sinematik portresi - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Aleena Amir](https://x.com/aleenaamiir)
-- **Kaynak:** [Twitter Post](https://x.com/aleenaamiir/status/1991765428985876879)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%C4%B0fade%20dolu%20g%C3%B6zlere%20ve%20sakin%2C%20yo%C4%9Fun%20bir%20bak%C4%B1%C5%9Fa%20sahip%20gen%C3%A7%20bir%20kad%C4%B1n%C4%B1n%20sinematik%2C%20ultra%20ger%C3%A7ek%C3%A7i%2C%20tek%20renkli%20portresi.%20K%C4%B1sa%2C%20koyu%2C%20%C3%B6zenle%20%C5%9Fekillendirilmi%C5%9F%20sa%C3%A7lar%C4%B1%3B%20yans%C4%B1t%C4%B1c%C4%B1%20vurgulara%20ve%20son%20derece%20etkileyici%20bir%20g%C3%B6r%C3%BCn%C3%BCme%20sahip%20%C3%A7arp%C4%B1c%C4%B1%20g%C3%B6zleri%3B%20hafif%20%C3%A7illeri%20ve%20ger%C3%A7ek%C3%A7i%20dokusu%20olan%20a%C3%A7%C4%B1k%20teni%3B%20yumu%C5%9Fak%20hatl%C4%B1%2C%20do%C4%9Fal%20%C5%9Fekilli%20dudaklar%C4%B1%20var.%20%C4%B0fadesi%20sakin%20ve%20yo%C4%9Fun%2C%20bak%C4%B1%C5%9Flar%C4%B1%20do%C4%9Frudan.%20Beyaz%20dokulu%20yakal%C4%B1%20siyah%20giysiler%20giyiyor%2C%20bu%20da%20g%C3%BC%C3%A7l%C3%BC%20bir%20kontrast%20olu%C5%9Fturuyor.%20Arka%20plan%20p%C3%BCr%C3%BCzs%C3%BCz%2C%20tek%20renkli%20bir%20gradyan%2C%20minimalist%20ve%20oda%C4%9F%C4%B1%20y%C3%BCz%C3%BCne%20%C3%A7ekiyor.%20Y%C3%BCz%20hatlar%C4%B1nda%20hafif%20vurgular%20ve%20ince%20g%C3%B6lge%20derinli%C4%9Fi%20ile%20yumu%C5%9Fak%20ama%20y%C3%BCksek%20kontrastl%C4%B1%20tek%20renkli%20ayd%C4%B1nlatma%20kullanarak%20sinematik%2C%20temiz%2C%20rafine%20bir%20etki%20yarat%C4%B1n.%20Yak%C4%B1n%20%C3%A7ekim%20bir%20portre%20olarak%20%C3%A7er%C3%A7eveleyin%2C%20ultra%20ger%C3%A7ek%C3%A7i%20ve%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%2C%20ince%20bir%20ton%20aral%C4%B1%C4%9F%C4%B1na%2C%20g%C3%B6zlerde%20ve%20y%C3%BCz%20detaylar%C4%B1nda%20keskin%20bir%20oda%C4%9Fa%20ve%20p%C3%BCr%C3%BCzs%C3%BCz%20bir%20arka%20plan%20gradyan%C4%B1na%20sahip%20olsun.%20Genel%20estetik%20minimalist%2C%20sanatsal%20ve%20zarif%3B%20y%C3%BCksek%20doku%20detay%C4%B1na%2C%20net%20tek%20renkli%20i%C5%9Flemeye%20ve%20%C3%BCst%C3%BCn%20ger%C3%A7ek%C3%A7ili%C4%9Fe%20sahip.)**
-
----
-
-### No. 190: Oracle-chan için esprili LINE çıkartma paketi
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Açıklama
-
-Belirli bir karakteri içeren, tüm damgaların internet memlerine benzer bir mizahla birleştirildiği 12 çıkartmalı bir LINE pul sayfası oluşturmak için bir komut istemi.
-
-#### 📝 İstem
-
-```
-Ekteki görseldeki karakteri kullanarak, 12 farklı LINE çıkartması gösteren bir indeks görseli oluşturun. Çıkartma türlerinin hepsi, alıcıyı güldürecek ortak bir mizaha sahip olmalıdır. İçeriklerinde internette meydana gelen gerçek diyaloglara bolca gönderme yapın.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886448330_kuhr59_G6QqoZrbEAAXKvg.jpg" width="600" alt="Oracle-chan için esprili LINE çıkartma paketi - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [オラクルちゃん↵](https://x.com/AI_Oracle_chan)
-- **Kaynak:** [Twitter Post](https://x.com/AI_Oracle_chan/status/1991764949295919160)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Ekteki%20g%C3%B6rseldeki%20karakteri%20kullanarak%2C%2012%20farkl%C4%B1%20LINE%20%C3%A7%C4%B1kartmas%C4%B1%20g%C3%B6steren%20bir%20indeks%20g%C3%B6rseli%20olu%C5%9Fturun.%20%C3%87%C4%B1kartma%20t%C3%BCrlerinin%20hepsi%2C%20al%C4%B1c%C4%B1y%C4%B1%20g%C3%BCld%C3%BCrecek%20ortak%20bir%20mizaha%20sahip%20olmal%C4%B1d%C4%B1r.%20%C4%B0%C3%A7eriklerinde%20internette%20meydana%20gelen%20ger%C3%A7ek%20diyaloglara%20bolca%20g%C3%B6nderme%20yap%C4%B1n.)**
-
----
-
-### No. 191: **Cilt Bakım Rutininizi Yenileyin: [Ürün Adı] ile Tanışın**
-
-Cildinizin en iyi halini ortaya çıkarmak için tasarlanmış devrim niteliğindeki yeni güzellik serumumuz [Ürün Adı] ile tanışın. Cilt bakımı uzmanları tarafından geliştirilen bu güçlü formül, cildinizi içeriden beslemek ve canlandırmak için özenle seçilmiş bileşenleri bir araya getiriyor.
-
-**[Ürün Adı] Neden Farklı?**
-
-Piyasada bu kadar çok serum varken, [Ürün Adı]'nı farklı kılan nedir? Cevap, benzersiz bileşen kombinasyonumuzda ve cildinize fayda sağlama konusundaki kanıtlanmış yeteneğimizde yatıyor:
-
-*   **Yoğun Nemlendirme:** Cildinizi derinlemesine nemlendiren ve dolgunlaştıran güçlü nemlendiricilerle formüle edilmiştir, ince çizgilerin ve kırışıklıkların görünümünü azaltır.
-*   **Antioksidan Koruma:** Çevresel stres faktörlerine karşı kalkan görevi gören güçlü antioksidanlarla zenginleştirilmiştir, cildinizi serbest radikal hasarından korur.
-*   **Cilt Tonunu Eşitleme:** Cilt tonunu eşitlemeye ve koyu lekelerin görünümünü azaltmaya yardımcı olan bileşenler içerir, size daha parlak ve ışıltılı bir cilt kazandırır.
-*   **Kolajen Desteği:** Cildin doğal kolajen üretimini destekler, elastikiyeti ve sıkılığı artırır.
-
-**Temel Bileşenler:**
-
-*   **Hyaluronik Asit:** Cildin nemi tutmasına yardımcı olan güçlü bir nemlendirici, cildi dolgunlaştırır ve pürüzsüzleştirir.
-*   **C Vitamini:** Parlaklığı artıran, kolajen üretimini destekleyen ve cildi çevresel hasardan koruyan güçlü bir antioksidan.
-*   **Niasinamid (B3 Vitamini):** Gözenek görünümünü iyileştirmeye, cilt tonunu eşitlemeye ve cilt bariyerini güçlendirmeye yardımcı olur.
-*   **Peptitler:** Cildin sıkılığını ve elastikiyetini artırmaya yardımcı olan amino asit zincirleri.
-
-**Nasıl Kullanılır:**
-
-En iyi sonuçlar için, temizlenmiş ve toniklenmiş cilde sabah ve akşam birkaç damla [Ürün Adı] uygulayın. Nazikçe masaj yaparak tamamen emilmesini sağlayın. Ardından nemlendiricinizi ve güneş kreminizi uygulayın.
-
-**Sonuçlar Kendiliğinden Konuşur:**
-
-[Ürün Adı]'nı kullananların söylediklerine bakın:
-
-*"[Ürün Adı] cilt bakım rutinimin vazgeçilmezi oldu. Cildim hiç bu kadar pürüzsüz ve ışıltılı olmamıştı!"* - Ayşe K.
-
-*"Koyu lekelerimin görünümünde önemli bir fark gördüm. Bu seruma bayılıyorum!"* - Elif D.
-
-**Cildinizin Hak Ettiği Bakımı Verin.**
-
-[Ürün Adı] ile cildinizin potansiyelini ortaya çıkarın. Daha parlak, daha pürüzsüz ve daha genç görünen bir cilde giden yolculuğunuza bugün başlayın.
-
-**Şimdi Satın Alın** ve cildinizdeki farkı kendiniz görün!
-
-[Şimdi Satın Alın Düğmesi]
-
-Daha fazla bilgi için veya sorularınız varsa, lütfen [İletişim Sayfası URL'si] adresinden bizimle iletişime geçin.
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Açıklama
-
-Nano Banana Pro'dan bir güzellik serumu ürünü için açılış sayfası tasarımı oluşturmasını isteyen çok kısa bir Japonca komut istemi.
-
-#### 📝 İstem
-
-```
-Bir güzellik serumu için açılış sayfası oluşturun.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886463989_iccj78_G6QrWLFbAAAqdit.jpg" width="600" alt="**Cilt Bakım Rutininizi Yenileyin: [Ürün Adı] ile Tanışın**
-
-Cildinizin en iyi halini ortaya çıkarmak için tasarlanmış devrim niteliğindeki yeni güzellik serumumuz [Ürün Adı] ile tanışın. Cilt bakımı uzmanları tarafından geliştirilen bu güçlü formül, cildinizi içeriden beslemek ve canlandırmak için özenle seçilmiş bileşenleri bir araya getiriyor.
-
-**[Ürün Adı] Neden Farklı?**
-
-Piyasada bu kadar çok serum varken, [Ürün Adı]'nı farklı kılan nedir? Cevap, benzersiz bileşen kombinasyonumuzda ve cildinize fayda sağlama konusundaki kanıtlanmış yeteneğimizde yatıyor:
-
-*   **Yoğun Nemlendirme:** Cildinizi derinlemesine nemlendiren ve dolgunlaştıran güçlü nemlendiricilerle formüle edilmiştir, ince çizgilerin ve kırışıklıkların görünümünü azaltır.
-*   **Antioksidan Koruma:** Çevresel stres faktörlerine karşı kalkan görevi gören güçlü antioksidanlarla zenginleştirilmiştir, cildinizi serbest radikal hasarından korur.
-*   **Cilt Tonunu Eşitleme:** Cilt tonunu eşitlemeye ve koyu lekelerin görünümünü azaltmaya yardımcı olan bileşenler içerir, size daha parlak ve ışıltılı bir cilt kazandırır.
-*   **Kolajen Desteği:** Cildin doğal kolajen üretimini destekler, elastikiyeti ve sıkılığı artırır.
-
-**Temel Bileşenler:**
-
-*   **Hyaluronik Asit:** Cildin nemi tutmasına yardımcı olan güçlü bir nemlendirici, cildi dolgunlaştırır ve pürüzsüzleştirir.
-*   **C Vitamini:** Parlaklığı artıran, kolajen üretimini destekleyen ve cildi çevresel hasardan koruyan güçlü bir antioksidan.
-*   **Niasinamid (B3 Vitamini):** Gözenek görünümünü iyileştirmeye, cilt tonunu eşitlemeye ve cilt bariyerini güçlendirmeye yardımcı olur.
-*   **Peptitler:** Cildin sıkılığını ve elastikiyetini artırmaya yardımcı olan amino asit zincirleri.
-
-**Nasıl Kullanılır:**
-
-En iyi sonuçlar için, temizlenmiş ve toniklenmiş cilde sabah ve akşam birkaç damla [Ürün Adı] uygulayın. Nazikçe masaj yaparak tamamen emilmesini sağlayın. Ardından nemlendiricinizi ve güneş kreminizi uygulayın.
-
-**Sonuçlar Kendiliğinden Konuşur:**
-
-[Ürün Adı]'nı kullananların söylediklerine bakın:
-
-*"[Ürün Adı] cilt bakım rutinimin vazgeçilmezi oldu. Cildim hiç bu kadar pürüzsüz ve ışıltılı olmamıştı!"* - Ayşe K.
-
-*"Koyu lekelerimin görünümünde önemli bir fark gördüm. Bu seruma bayılıyorum!"* - Elif D.
-
-**Cildinizin Hak Ettiği Bakımı Verin.**
-
-[Ürün Adı] ile cildinizin potansiyelini ortaya çıkarın. Daha parlak, daha pürüzsüz ve daha genç görünen bir cilde giden yolculuğunuza bugün başlayın.
-
-**Şimdi Satın Alın** ve cildinizdeki farkı kendiniz görün!
-
-[Şimdi Satın Alın Düğmesi]
-
-Daha fazla bilgi için veya sorularınız varsa, lütfen [İletişim Sayfası URL'si] adresinden bizimle iletişime geçin. - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [イーサン](https://x.com/ethann_AI)
-- **Kaynak:** [Twitter Post](https://x.com/ethann_AI/status/1991764799357907422)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bir%20g%C3%BCzellik%20serumu%20i%C3%A7in%20a%C3%A7%C4%B1l%C4%B1%C5%9F%20sayfas%C4%B1%20olu%C5%9Fturun.)**
-
----
-
-### No. 192: Yemek küçük resimleri ve ürün çekimleri
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Açıklama
-
-Kızarmış tavuk ve Napoliten makarna için küçük resimler ve ayrıca temiz beyaz arka planlı ürün fotoğrafları oluşturmaya yönelik çok kısa Japonca istemler.
-
-#### 📝 İstem
-
-```
-Kızarmış tavuk için bir küçük resim.
-Napoliten makarna için bir küçük resim.
-Arka planı beyaz yapın ve bir ürün fotoğrafına dönüştürün.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886404524_y7q7is_G6QpZrWacAUVN5A.jpg" width="600" alt="Yemek küçük resimleri ve ürün çekimleri - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886407949_xlk1xc_G6QqIvrbIAAlCGu.jpg" width="600" alt="Yemek küçük resimleri ve ürün çekimleri - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [なべ｜YouTube研究家](https://x.com/nabeno_kitchen)
-- **Kaynak:** [Twitter Post](https://x.com/nabeno_kitchen/status/1991763291606237323)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=K%C4%B1zarm%C4%B1%C5%9F%20tavuk%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%0ANapoliten%20makarna%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%0AArka%20plan%C4%B1%20beyaz%20yap%C4%B1n%20ve%20bir%20%C3%BCr%C3%BCn%20foto%C4%9Fraf%C4%B1na%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn.)**
-
----
-
-### No. 193: Ekli kişiden Messenger çıkartma seti
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Ekli kişinin yer aldığı, set genelinde çeşitlilik gösteren, 20 adet kare mesajlaşma çıkartmasından oluşan 4x5'lik bir ızgara oluşturulmasını isteyen bir Japonca istem.
-
-#### 📝 İstem
-
-```
-{argument name="aspect_ratio_en" default="4:3"}, {argument name="resolution_en" default="2K"}
-Ekteki kişiye göre bir dizi mesajlaşma uygulaması çıkartması oluşturun. Her biri kare şeklinde, 5 yana ve 4 aşağı düzenlenmiş, toplam 20 çıkartma olacak ve mümkün olduğunca büyük ve çeşitli yapılacaktır.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886180130_52owic_G6QoPuOboAAkJEZ.jpg" width="600" alt="Ekli kişiden Messenger çıkartma seti - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [まゆひらa](https://x.com/riddi0908)
-- **Kaynak:** [Twitter Post](https://x.com/riddi0908/status/1991761213135765741)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%224%3A3%22%7D%2C%20%7Bargument%20name%3D%22resolution_en%22%20default%3D%222K%22%7D%0AEkteki%20ki%C5%9Fiye%20g%C3%B6re%20bir%20dizi%20mesajla%C5%9Fma%20uygulamas%C4%B1%20%C3%A7%C4%B1kartmas%C4%B1%20olu%C5%9Fturun.%20Her%20biri%20kare%20%C5%9Feklinde%2C%205%20yana%20ve%204%20a%C5%9Fa%C4%9F%C4%B1%20d%C3%BCzenlenmi%C5%9F%2C%20toplam%2020%20%C3%A7%C4%B1kartma%20olacak%20ve%20m%C3%BCmk%C3%BCn%20oldu%C4%9Funca%20b%C3%BCy%C3%BCk%20ve%20%C3%A7e%C5%9Fitli%20yap%C4%B1lacakt%C4%B1r.)**
-
----
-
-### No. 194: Metinden Apple açılış konuşması tarzı etkinlik sahnesi
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Açıklama
-
-Sağlanan herhangi bir metni, büyük kavisli bir ekran, izleyici kitlesi, sahne ışıkları ve 16:9 oranında gradyan arka plan içeren dramatik bir Apple tarzı açılış etkinliği fotoğrafına dönüştürmek için bir istem.
-
-#### 📝 İstem
-
-```
-Metne dayalı bir fotoğraf oluşturun: çok sayıda kişinin bulunduğu büyük bir Apple açılış konuşması etkinliği sahnesi. Sahne, muhteşem aydınlatmayla karanlık. Kamera, çok geniş, kavisli bir ana ekrana odaklanıyor. Metin, ekranla tutarlı bir perspektife sahip. Sahnede küçük insan silüetleri duruyor. Arka plan mor-mavi bir gradyan, beyaz metinde de biraz gradyan var ve her şey 16:9 en boy oranında, üst düzey bir his veren yerinde çekilmiş bir fotoğraf gibi görünmeli.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886921970_6kgjvt_G6QnxeCasAIiGHT.jpg" width="600" alt="Metinden Apple açılış konuşması tarzı etkinlik sahnesi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886925466_82s71i_G6QnxeDacAI0VZV.jpg" width="600" alt="Metinden Apple açılış konuşması tarzı etkinlik sahnesi - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886928094_90nq9g_G6QnxeDacAMajXw.jpg" width="600" alt="Metinden Apple açılış konuşması tarzı etkinlik sahnesi - Image 3">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Nicolechan](https://x.com/stark_nico99)
-- **Kaynak:** [Twitter Post](https://x.com/stark_nico99/status/1991760674435780778)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Metne%20dayal%C4%B1%20bir%20foto%C4%9Fraf%20olu%C5%9Fturun%3A%20%C3%A7ok%20say%C4%B1da%20ki%C5%9Finin%20bulundu%C4%9Fu%20b%C3%BCy%C3%BCk%20bir%20Apple%20a%C3%A7%C4%B1l%C4%B1%C5%9F%20konu%C5%9Fmas%C4%B1%20etkinli%C4%9Fi%20sahnesi.%20Sahne%2C%20muhte%C5%9Fem%20ayd%C4%B1nlatmayla%20karanl%C4%B1k.%20Kamera%2C%20%C3%A7ok%20geni%C5%9F%2C%20kavisli%20bir%20ana%20ekrana%20odaklan%C4%B1yor.%20Metin%2C%20ekranla%20tutarl%C4%B1%20bir%20perspektife%20sahip.%20Sahnede%20k%C3%BC%C3%A7%C3%BCk%20insan%20sil%C3%BCetleri%20duruyor.%20Arka%20plan%20mor-mavi%20bir%20gradyan%2C%20beyaz%20metinde%20de%20biraz%20gradyan%20var%20ve%20her%20%C5%9Fey%2016%3A9%20en%20boy%20oran%C4%B1nda%2C%20%C3%BCst%20d%C3%BCzey%20bir%20his%20veren%20yerinde%20%C3%A7ekilmi%C5%9F%20bir%20foto%C4%9Fraf%20gibi%20g%C3%B6r%C3%BCnmeli.)**
-
----
-
-### No. 195: Universal Studios'a yapılan bir aile gezisi hakkında deneme tarzı manga
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Kişisel bir anekdotu, bir ailenin Universal Studios'a gezi planladığı ve çocukları için bilet fiyatlandırmasına şaşırdığı, deneme tarzında bir mangaya dönüştüren bir bilgi istemi.
-
-#### 📝 İstem
-
-```
-Ekteki karakterin aniden Universal Studios'a gitmeye karar verdiği bir manga oluşturun. Ailesiyle oraya gitme adımlarını araştırırken, bilet fiyatlarının "çocuk ücreti" olarak ayrılmadığını, ancak {argument name="age_bracket_en" default="11 yaş ve üzeri ile 11 yaş altı"} olarak ayrıldığını keşfederler ve {argument name="child_grade_en" default="6. sınıftaki"} çocuklarının yetişkin fiyatı ödemek zorunda kalacağını öğrenince şok olurlar.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886492594_ifq79o_G6QgQunaIAEMEC7.jpg" width="600" alt="Universal Studios'a yapılan bir aile gezisi hakkında deneme tarzı manga - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [みちぽ｜Ｘの先生](https://x.com/michipo5)
-- **Kaynak:** [Twitter Post](https://x.com/michipo5/status/1991759207167848748)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Ekteki%20karakterin%20aniden%20Universal%20Studios'a%20gitmeye%20karar%20verdi%C4%9Fi%20bir%20manga%20olu%C5%9Fturun.%20Ailesiyle%20oraya%20gitme%20ad%C4%B1mlar%C4%B1n%C4%B1%20ara%C5%9Ft%C4%B1r%C4%B1rken%2C%20bilet%20fiyatlar%C4%B1n%C4%B1n%20%22%C3%A7ocuk%20%C3%BCcreti%22%20olarak%20ayr%C4%B1lmad%C4%B1%C4%9F%C4%B1n%C4%B1%2C%20ancak%20%7Bargument%20name%3D%22age_bracket_en%22%20default%3D%2211%20ya%C5%9F%20ve%20%C3%BCzeri%20ile%2011%20ya%C5%9F%20alt%C4%B1%22%7D%20olarak%20ayr%C4%B1ld%C4%B1%C4%9F%C4%B1n%C4%B1%20ke%C5%9Ffederler%20ve%20%7Bargument%20name%3D%22child_grade_en%22%20default%3D%226.%20s%C4%B1n%C4%B1ftaki%22%7D%20%C3%A7ocuklar%C4%B1n%C4%B1n%20yeti%C5%9Fkin%20fiyat%C4%B1%20%C3%B6demek%20zorunda%20kalaca%C4%9F%C4%B1n%C4%B1%20%C3%B6%C4%9Frenince%20%C5%9Fok%20olurlar.)**
-
----
-
-### No. 196: Maskeli röportaj videosu için YouTube küçük resim tasarım özeti
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Yapay zekadan, referans bir görseldeki maskeli bir karakteri kullanarak, düzen, metin ve hedef kitleye odaklanan, yüksek dönüşüm sağlayan bir YouTube küçük resmi tasarlamasını isteyen uzun ve ayrıntılı bir bilgi istemi.
-
-#### 📝 İstem
-
-```
-Bu, sağ tarafında beyaz maske takmış bir kişinin röportajının olduğu bir YouTube küçük resmidir.
-Bu estetiği kullanarak, küçük resim için bilgi mimarisini yapay zeka ile paylaşmak ve küçük resmi oluşturmasını sağlamak istiyorum, bu yüzden lütfen bir istem düşünün.
-
-Referans görsel yalnızca sağdaki maskeli kişi ({argument name="character_name_en" default="Eru"}) içindir; bunu referans olarak kullanın ve tıklama oranını en üst düzeye çıkaracak şekilde düzeni, metin boyutunu ve tasarımı yapın.
-
-Hedef kitle, iletişim becerileri konusunda zorluk çeken {argument name="target_age_range_en" default="20'li yaşların sonlarından 30'lu yaşlara kadar"} erkeklerdir.
-
-# Küçük Resim Bilgi Mimarisi
-<Sol taraf>
-Üç katmanlı sohbet (küçük)
-Bunları ters bir üçgen olarak ifade edin
-Üç renge bölün
-Gerçekte, yukarıdan aşağıya doğru, aşağıdaki üçü (metni bulanıklaştırın):
-・Soyut
-・Gerçekler
-・Somut
-
-<Sağ taraf>
-{argument name="character_name_en_again" default="Eru"} (maskeli kişi)
-“Sohbetten ibaret olan bu” (bunu bir konuşma balonuna koyun)
-
-<Alt>
-“Bununla,
-sohbetler sonsuza dek sürer” (tam genişliğe yayılır)
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886590365_n7nw34_G6QkOUmbIAAIdKH.png" width="600" alt="Maskeli röportaj videosu için YouTube küçük resim tasarım özeti - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886606889_70r944_G6QkQpnasAAWyXd.jpg" width="600" alt="Maskeli röportaj videosu için YouTube küçük resim tasarım özeti - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [える | YouTubeマーケター](https://x.com/_youpro)
-- **Kaynak:** [Twitter Post](https://x.com/_youpro/status/1991758833346310307)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bu%2C%20sa%C4%9F%20taraf%C4%B1nda%20beyaz%20maske%20takm%C4%B1%C5%9F%20bir%20ki%C5%9Finin%20r%C3%B6portaj%C4%B1n%C4%B1n%20oldu%C4%9Fu%20bir%20YouTube%20k%C3%BC%C3%A7%C3%BCk%20resmidir.%0ABu%20esteti%C4%9Fi%20kullanarak%2C%20k%C3%BC%C3%A7%C3%BCk%20resim%20i%C3%A7in%20bilgi%20mimarisini%20yapay%20zeka%20ile%20payla%C5%9Fmak%20ve%20k%C3%BC%C3%A7%C3%BCk%20resmi%20olu%C5%9Fturmas%C4%B1n%C4%B1%20sa%C4%9Flamak%20istiyorum%2C%20bu%20y%C3%BCzden%20l%C3%BCtfen%20bir%20istem%20d%C3%BC%C5%9F%C3%BCn%C3%BCn.%0A%0AReferans%20g%C3%B6rsel%20yaln%C4%B1zca%20sa%C4%9Fdaki%20maskeli%20ki%C5%9Fi%20(%7Bargument%20name%3D%22character_name_en%22%20default%3D%22Eru%22%7D)%20i%C3%A7indir%3B%20bunu%20referans%20olarak%20kullan%C4%B1n%20ve%20t%C4%B1klama%20oran%C4%B1n%C4%B1%20en%20%C3%BCst%20d%C3%BCzeye%20%C3%A7%C4%B1karacak%20%C5%9Fekilde%20d%C3%BCzeni%2C%20metin%20boyutunu%20ve%20tasar%C4%B1m%C4%B1%20yap%C4%B1n.%0A%0AHedef%20kitle%2C%20ileti%C5%9Fim%20becerileri%20konusunda%20zorluk%20%C3%A7eken%20%7Bargument%20name%3D%22target_age_range_en%22%20default%3D%2220'li%20ya%C5%9Flar%C4%B1n%20sonlar%C4%B1ndan%2030'lu%20ya%C5%9Flara%20kadar%22%7D%20erkeklerdir.%0A%0A%23%20K%C3%BC%C3%A7%C3%BCk%20Resim%20Bilgi%20Mimarisi%0A%3CSol%20taraf%3E%0A%C3%9C%C3%A7%20katmanl%C4%B1%20sohbet%20(k%C3%BC%C3%A7%C3%BCk)%0ABunlar%C4%B1%20ters%20bir%20%C3%BC%C3%A7gen%20olarak%20ifade%20edin%0A%C3%9C%C3%A7%20renge%20b%C3%B6l%C3%BCn%0AGer%C3%A7ekte%2C%20yukar%C4%B1dan%20a%C5%9Fa%C4%9F%C4%B1ya%20do%C4%9Fru%2C%20a%C5%9Fa%C4%9F%C4%B1daki%20%C3%BC%C3%A7%C3%BC%20(metni%20bulan%C4%B1kla%C5%9Ft%C4%B1r%C4%B1n)%3A%0A%E3%83%BBSoyut%0A%E3%83%BBGer%C3%A7ekler%0A%E3%83%BBSomut%0A%0A%3CSa%C4%9F%20taraf%3E%0A%7Bargument%20name%3D%22character_name_en_again%22%20default%3D%22Eru%22%7D%20(maskeli%20ki%C5%9Fi)%0A%E2%80%9CSohbetten%20ibaret%20olan%20bu%E2%80%9D%20(bunu%20bir%20konu%C5%9Fma%20balonuna%20koyun)%0A%0A%3CAlt%3E%0A%E2%80%9CBununla%2C%0Asohbetler%20sonsuza%20dek%20s%C3%BCrer%E2%80%9D%20(tam%20geni%C5%9Fli%C4%9Fe%20yay%C4%B1l%C4%B1r))**
-
----
-
-### No. 197: Gemini'nin Japonca metin görselleri oluşturması hakkında 4 panelli manga
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Ekli bir karakterin akıllı telefonu aracılığıyla Gemini'nin Japonca metin içeren görseller oluşturabildiğini öğrenip bunu denemesini konu alan 4 panelli bir manga oluşturmak için bir komut istemi.
-
-#### 📝 İstem
-
-```
-Ekteki karakteri içeren 4 panelli bir manga oluşturun. Karakter akıllı telefonunda Gemini'nin artık Japonca metin içeren görseller oluşturabildiğini görür ve hemen {argument name="link_en" default="https://t.co/o4obUZzxf0"} adresine gider.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886326404_hug38x_G6QjQp-a0AAov9I.jpg" width="600" alt="Gemini'nin Japonca metin görselleri oluşturması hakkında 4 panelli manga - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Google Japan](https://x.com/googlejapan)
-- **Kaynak:** [Twitter Post](https://x.com/googlejapan/status/1991755967307084004)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Ekteki%20karakteri%20i%C3%A7eren%204%20panelli%20bir%20manga%20olu%C5%9Fturun.%20Karakter%20ak%C4%B1ll%C4%B1%20telefonunda%20Gemini'nin%20art%C4%B1k%20Japonca%20metin%20i%C3%A7eren%20g%C3%B6rseller%20olu%C5%9Fturabildi%C4%9Fini%20g%C3%B6r%C3%BCr%20ve%20hemen%20%7Bargument%20name%3D%22link_en%22%20default%3D%22https%3A%2F%2Ft.co%2Fo4obUZzxf0%22%7D%20adresine%20gider.)**
-
----
-
-### No. 198: 1799-1800 Vebası Sırasında Fas Haritası
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-1799-1800 yılları civarında Fas'ın veba salgınının yayılışını ve sonuçlarını gösteren, biraz karanlık bir haritasını oluşturmak için bir komut istemi.
-
-#### 📝 İstem
-
-```
-Bana {argument name="period_en" default="1799–1800"} yıllarında {argument name="region_en" default="Fas"} haritasını ver, o dönemde veba salgınının nasıl yayıldığını ve sonuçlarını biraz karanlık bir tonla göster.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885995626_wkuqgo_G6Qd7KhWgAE7EvF.jpg" width="600" alt="1799-1800 Vebası Sırasında Fas Haritası - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [roojdi M7 ®️](https://x.com/roojdi)
-- **Kaynak:** [Twitter Post](https://x.com/roojdi/status/1991749840234254444)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bana%20%7Bargument%20name%3D%22period_en%22%20default%3D%221799%E2%80%931800%22%7D%20y%C4%B1llar%C4%B1nda%20%7Bargument%20name%3D%22region_en%22%20default%3D%22Fas%22%7D%20haritas%C4%B1n%C4%B1%20ver%2C%20o%20d%C3%B6nemde%20veba%20salg%C4%B1n%C4%B1n%C4%B1n%20nas%C4%B1l%20yay%C4%B1ld%C4%B1%C4%9F%C4%B1n%C4%B1%20ve%20sonu%C3%A7lar%C4%B1n%C4%B1%20biraz%20karanl%C4%B1k%20bir%20tonla%20g%C3%B6ster.)**
-
----
-
-### No. 199: Niş Le Labo benzeri bir his veren parfüm tanıtımı
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Açıklama
-
-Parfüm tanıtım görseli için Le Labo'ya benzer, niş, zevkli, üst düzey bir estetiği belirten başka bir iyileştirme istemi.
-
-#### 📝 İstem
-
-```
-Le Labo'nun hissine benzer şekilde, niş ve zevkli bir üst düzey stil anlayışı yansıtmalı.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886907025_1jacbv_G6QdYGeawAAU71a.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886909113_zr3z5r_G6QdY6WacAcWt4A.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886911392_4z71na_G6QdZn5bYAArE66.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886913581_v9cpk9_G6QdadOakAAoLIf.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 4">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Steve](https://x.com/levineeet)
-- **Kaynak:** [Twitter Post](https://x.com/levineeet/status/1991749378403610878)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Le%20Labo'nun%20hissine%20benzer%20%C5%9Fekilde%2C%20ni%C5%9F%20ve%20zevkli%20bir%20%C3%BCst%20d%C3%BCzey%20stil%20anlay%C4%B1%C5%9F%C4%B1%20yans%C4%B1tmal%C4%B1.)**
-
----
-
-### No. 200: Lego tarzı otoportre
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Kullanıcıyı Lego tarzı bir karaktere dönüştürmek için basit bir komut istemi, eğlenceli avatar veya profil resimleri için kullanışlıdır.
-
-#### 📝 İstem
-
-```
-Beni bir {argument name="subject_en" default="Lego"} karakterine dönüştür.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886126831_jlruy9_G6QdBoYXcAASkfI.jpg" width="600" alt="Lego tarzı otoportre - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886130722_3zua0d_G6QdBrbXwAABM0T.jpg" width="600" alt="Lego tarzı otoportre - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Jamian Gerard](https://x.com/JamianGerard)
-- **Kaynak:** [Twitter Post](https://x.com/JamianGerard/status/1991748852853141579)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Beni%20bir%20%7Bargument%20name%3D%22subject_en%22%20default%3D%22Lego%22%7D%20karakterine%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr.)**
-
----
-
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 314 burada gösterilmeyen daha fazla istem
+### 🎯 345 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 200 regular prompts in this README.
 
@@ -8365,6 +8546,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-01T08:19:04.755Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-01T16:16:57.047Z</sub>
 
 </div>
