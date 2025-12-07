@@ -37,6 +37,15 @@ body:
     validations:
       required: true
 
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Explain what this prompt does and when to use it
+      placeholder: "This prompt generates..."
+    validations:
+      required: true
+  
   - type: dropdown
     id: need_reference_images
     attributes:
@@ -47,15 +56,6 @@ body:
         - "true"
     validations:
       required: false
-
-  - type: textarea
-    id: description
-    attributes:
-      label: Description
-      description: Explain what this prompt does and when to use it
-      placeholder: "This prompt generates..."
-    validations:
-      required: true
 
   - type: textarea
     id: image_urls
