@@ -73,3 +73,42 @@ class DocumentComparator:
             })
 
         return differences
+
+    def _compliance_compare(self, text1: str, text2: str) -> List[Dict]:
+        """Compare against legal counsel version for compliance risks."""
+        differences = []
+
+        if text1 == text2:
+            return differences
+
+        risk_indicators = [
+            ('liability', 'liability reduction'),
+            ('warranty', 'warranty limitation'),
+            ('guarantee', 'guarantee weakening'),
+            ('obligation', 'obligation reduction')
+        ]
+
+        text1_lower = text1.lower()
+        text2_lower = text2.lower()
+
+        for term, risk_type in risk_indicators:
+            if term in text1_lower and term not in text2_lower:
+                differences.append({
+                    'type': 'compliance_risk',
+                    'text1': text1,
+                    'text2': text2,
+                    'description': f'Legal term removed: {term}',
+                    'risk_level': 'high',
+                    'risk_type': risk_type
+                })
+
+        if text1 != text2 and not differences:
+            differences.append({
+                'type': 'compliance_check',
+                'text1': text1,
+                'text2': text2,
+                'description': 'Content modification detected - manual review needed',
+                'risk_level': 'medium'
+            })
+
+        return differences
