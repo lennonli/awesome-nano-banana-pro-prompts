@@ -57,6 +57,10 @@ class DocumentComparison:
             'doc2_file': Path(doc2_path).name,
             'doc1_paragraphs': doc1['metadata']['paragraph_count'],
             'doc2_paragraphs': doc2['metadata']['paragraph_count'],
+            'doc1_tables': doc1['metadata'].get('table_count', 0),
+            'doc2_tables': doc2['metadata'].get('table_count', 0),
+            'doc1_sdt_tables': doc1['metadata'].get('sdt_tables', 0),
+            'doc2_sdt_tables': doc2['metadata'].get('sdt_tables', 0),
             'mode': self.mode,
             'aligned_pairs': len(alignment['aligned_pairs'])
         }
