@@ -145,7 +145,7 @@ class AlignmentEngine:
             else:
                 return 'multi_column'
         else:
-        if len(cells) > 5 and '关联方' in text:
+            if len(cells) > 5 and '关联方' in text:
                 return 'related_parties'
             elif '关联方' in text or '股东' in text or '持股' in text:
                 return 'related_parties'
