@@ -29,6 +29,19 @@ class DocumentParser:
                     'level': self._get_heading_level(para.style.name)
                 })
 
+        for table in doc.tables:
+            table_data = {
+                'rows': len(table.rows),
+                'cols': len(table.columns),
+                'cells': []
+            }
+
+            for row in table.rows:
+                row_data = [cell.text.strip() for cell in row.cells]
+                table_data['cells'].append(row_data)
+
+            result['tables'].append(table_data)
+
         return result
 
     def _get_heading_level(self, style_name: str) -> int:
